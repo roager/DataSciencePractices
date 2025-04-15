@@ -1,0 +1,214 @@
+-- Ejercicio para explorar en clase
+
+-- Crear una tabla de estudiantes
+CREATE TABLE Students (
+    id INT PRIMARY KEY,
+    nombre VARCHAR(100),
+    edad INT,
+    curso INT CHECK (curso IN (1, 2, 3)),
+    calificacion1 DECIMAL(3, 1),
+    calificacion2 DECIMAL(3, 1),
+    calificacion3 DECIMAL(3, 1)
+);
+
+INSERT INTO Students (id, nombre, edad, curso, calificacion1, calificacion2, calificacion3) VALUES 
+(1, 'Ana', 20, 1, 8.5, 7.0, 9.0),
+(2, 'Pedro', 22, 1, 5.5, 6.5, 7.0),
+(3, 'Luisa', 19, 2, 9.0, 8.0, 9.5),
+(4, 'Laura', 23, 2, 6.0, 5.0, 7.5),
+(5, 'Rodrigo', 21, 3, 8.0, 9.5, 10.0),
+(6, 'Carola', 20, 3, 7.5, 8.0, 8.5),
+(7, 'Fernando', 18, 1, 6.5, 6.0, 6.0),
+(8, 'Eva', 22, 2, 7.0, 7.5, 8.0),
+(9, 'Yessica', 21, 3, 9.5, 9.0, 9.0),
+(10, 'Juan', 19, 1, 8.5, 9.0, 9.5);
+
+SELECT * FROM Students;
+
+Select count(*) from Students;
+
+select ID from Students where nombre = "Eva";
+
+Select count(*) from Students;
+
+-- 1. Crear una tabla
+
+-- Creamos la tabla de empleados
+CREATE TABLE Empleados (
+    ID INT PRIMARY KEY,
+    Nombre VARCHAR(50),
+    Apellido VARCHAR(50),
+    Edad INT,
+    Departamento VARCHAR(50),
+    Salario DECIMAL(7, 2)
+);
+
+-- 2. Poblar una tabla con valores
+
+-- Insertamos datos dummy en la tabla de empleados
+INSERT INTO Empleados (ID, Nombre, Apellido, Edad, Departamento, Salario) VALUES 
+(1, 'Juan', 'Pérez', 28, 'Finanzas', 30000.00),
+(2, 'Ana', 'Gómez', 34, 'Marketing', 35000.00),
+(3, 'Luis', 'Martínez', 45, 'TI', 50000.00),
+(4, 'Sofía', 'López', 24, 'Recursos Humanos', 20000.00),
+(5, 'Carlos', 'Hernández', 31, 'Operaciones', 25000.00),
+(6, 'Marta', 'Ramírez', 22, 'Finanzas', 30000.00),
+(7, 'Fernando', 'Fernández', 39, 'Marketing', 40000.00),
+(8, 'Diana', 'Morales', 30, 'TI', 45000.00),
+(9, 'Miguel', 'Álvarez', 27, 'Recursos Humanos', 15000.00),
+(10, 'Patricia', 'Suárez', 42, 'Operaciones', 32000.00);
+
+-- 3. Consultas ordenadas
+
+-- Consulto por orden descendente del salario
+SELECT apellido, 
+nombre, 
+departamento, 
+salario
+FROM Empleados
+order by salario desc;
+
+-- 4. Filtros (WHERE)
+
+-- Hallar aquellos empleados con salario mayor a $20,000
+SELECT *
+FROM Empleados
+WHERE salario >= 20000;
+
+-- ¿Quiénes laboran en el departamento de Finanzas
+SELECT *
+FROM Empleados
+WHERE departamento = 'Finanzas';
+
+-- 5. Agrupaciones (GROUP BY)
+
+SELECT departamento
+FROM Empleados
+GROUP BY departamento
+ORDER BY departamento desc
+
+SELECT DISTINC departamento
+FROM Empleados
+
+SELECT departamento, SUM(salario) as Presupuesto
+FROM Empleados
+GROUP BY departamento
+ORDER BY Presupuesto desc
+
+
+-- 6. HAVING vs WHERE
+
+SELECT departamento, AVG(edad)
+FROM Empleados
+GROUP BY departamento
+HAVING AVG(edad) > 30
+
+-- 7. LIMIT
+
+SELECT *
+FROM employee_demographics
+ORDER BY first_name
+LIMIT 3;
+
+
+-- EJERCICIOS DE CLASE
+
+CREATE TABLE Ventas (
+    ID int PRIMARY KEY NOT NULL,
+    Producto varchar(255) NOT NULL,
+    CantidadVendida int NOT NULL,
+    FechaDeVenta datetime NOT NULL
+);
+
+ALTER TABLE Ventas 
+ADD NombreCliente varchar(255);
+
+ALTER TABLE Ventas
+ALTER COLUMN CantidadVendida bigint;
+
+ALTER TABLE Ventas
+DROP COLUMN NombreCliente;
+
+DROP TABLE Ventas;
+
+-- EJERCICIO 1
+
+CREATE TABLE Clientes (
+    ID INT PRIMARY KEY,
+    Nombre VARCHAR(50),
+    Ciudad VARCHAR(50),
+    Edad INT
+);
+
+INSERT INTO Clientes (ID, Nombre, Ciudad, Edad) VALUES
+(1, 'Ana', 'Madrid', 23),
+(2, 'Luis', 'Barcelona', 30),
+(3, 'Marta', 'Sevilla', 28);
+
+SELECT * FROM Clientes;
+
+INSERT INTO Clientes (ID, Nombre, Ciudad, Edad) VALUES
+(4, 'Juan', 'Madrid', 33),
+(5, 'Diana', 'Sevilla', 27)
+
+
+-- EJERCICIO 2
+
+SELECT * 
+	FROM Clientes 
+	WHERE Edad > 25;
+	
+	
+-- EJERCICIO 3
+
+CREATE TABLE Ventas (
+    ID INT PRIMARY KEY,
+    Producto VARCHAR(50),
+    Cantidad INT,
+    Precio DECIMAL(5, 2)
+);
+
+INSERT INTO Ventas (ID, Producto, Cantidad, Precio) VALUES
+(1, 'Camiseta', 4, 15.00),
+(2, 'Pantalón', 2, 40.00),
+(3, 'Gorra', 5, 7.00),
+(4, 'Calcetas', 10, 5.50);
+
+SELECT * FROM Ventas;
+
+SELECT Producto, cantidad*precio as IngresoTotal
+FROM Ventas;
+
+
+-- EJERCICIO 4
+
+SELECT * 
+FROM Clientes 
+ORDER BY Edad DESC;
+
+SELECT * 
+	FROM Clientes 
+	ORDER BY Edad
+	LIMIT 2;
+    
+	
+-- EJERCICIO 5
+
+CREATE TABLE Pedidos (
+    ID INT PRIMARY KEY,
+    ClienteID INT,
+    Fecha DATE,
+    Total DECIMAL(5, 2),
+    FOREIGN KEY (ClienteID) REFERENCES Clientes(ID)
+);
+
+INSERT INTO Pedidos (ID, ClienteID, Fecha, Total) VALUES
+(1, 1, '2021-01-15', 90.00),
+(2, 2, '2021-01-16', 45.00);
+
+SELECT * FROM Pedidos;
+
+SELECT T1.*, T2.total
+FROM Clientes T1
+LEFT join Pedidos T2
+ON T1.id = T2.clienteid;

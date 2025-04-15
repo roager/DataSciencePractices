@@ -1,0 +1,33 @@
+﻿Month,Mes de compra de la poliza,String
+WeekOfMonth,Semana de Compra de la poliza,Number
+DayOfWeek,dia de Compra de la poliza,String
+Make,Tipo de auto de la poliza,String
+AccidentArea,Area donde sucecio el accidente,String
+DayOfWeekClaimed,Dia de la semana del reclamo,String
+MonthClaimed,mes del reclamo,String
+WeekOfMonthClaimed,semana del reclamo,Number
+Sex,Genero del dueno de la poliza,String
+MaritalStatus,Estado civil del dueno de la poliza,String
+Age,Edad del dueno de la poliza,Number
+Fault,El dueno de la poliza es responsable del accidente,String
+PolicyType,Tipo de Poliza,String
+VehicleCategory,Categorian del vehiculo,String
+VehiclePrice,Precio del vehiculo,String
+FraudFound_P,Se identifico como fraude ? 1 o 0,Boolean
+PolicyNumber,Numero de poliza,Number
+RepNumber,Representante que vendio la Poliza,Number
+Deductible,Deducible de la poliza que aplica ,Number
+DriverRating,Clasificacionm del conductor accidentado,Number
+Days_Policy_Accident,Politica de dias del accidente,String
+Days_Policy_Claim,Politica de dias de reclamacion,String
+PastNumberOfClaims,Numero de reclamaciones pasadas del dueno de la poliza,String
+AgeOfVehicle,edad del vehiculo,String
+AgeOfPolicyHolder,Edad del dueno de la poliza,String
+PoliceReportFiled,La policia lleno un reporte Y/N,Boolean
+WitnessPresent,se identifico un testigo  Y/N,Boolean
+AgentType,Tipo de agente,String
+NumberOfSuppliments,Numero de suplementos,String
+AddressChange_Claim,Cambio de direccion,String
+NumberOfCars,Numero de autos,String
+Year,Año de la poliza,Number
+BasePolicy,Tipo de poliza,String

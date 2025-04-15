@@ -1,0 +1,82 @@
+Bootcamp Data Science
+Ejercicio semana 10
+
+Vamos a calcular el error de la primera iteración de una red neuronal que aprenda la función NOT
+Si 𝑧 es mayor o igual al umbral, la salida de la red es 1, de lo contrario, es 0. 
+• Una entrada 𝑥 que puede ser 0 ó 1
+• Pesos 𝑤1 y 𝑤0 inicialmente definidos como -1
+• Un umbral de activación establecido en 0
+• Una tasa de aprendizaje α de 1
+• La salida se calculará usando la fórmula: 𝑦= 𝑓(𝑤1x+ 𝑤0)
+
+Instrucciones:
+1. Proporciona la salida de la red para 𝑥 = 0 𝑦 𝑥 = 1 usando los pesos iniciales.
+2. Para la 𝑥 cuya salida no es correcta (es decir, no coincide con la operación NOT), ajusta ambos pesos utilizando la siguiente regla de aprendizaje:
+𝑤i= 𝑤i + α(error)(𝑥i )
+
+Donde el error es la diferencia entre el valor deseado y la salida de la red y considerando 𝑥 = 𝑥1,  y   b = 1 = 𝑥0.
+
+3. Evaluando cada uno de los pares de pesos que se presentan a
+continuación, ¿cuál cumple con la salida para la función NOT?
+a) 𝑤0 = 0, 𝑤1 = 1
+b) 𝑤0 = −1, 𝑤1 = 0.5
+c) 𝑤0 = 1, 𝑤1 = −0.5
+d) 𝑤0 = 0.5, 𝑤1 = −1
+e) 𝑤0 = 0, 𝑤1 = −1
+
+EJECUCION------------------------------------
+
+1)Primero, calcularemos la salida de la red neuronal para 𝑥 = 0 y 𝑥 = 1 usando los pesos iniciales.
+
+a) Para x=0:
+𝑦= 𝑓(𝑤1x+ 𝑤0)
+y=f(w1 (0) + w0) 
+y=f((-1) (0) + (-1)
+y=f(-1)
+
+b) Para x=1:
+𝑦= 𝑓(𝑤1x+ 𝑤0)
+y=f(w1 (1) + w0)
+y=f((-1) (1) + (-1)
+y=f(-2)
+
+2) Ahora ajustaremos los pesos 
+𝑤i= 𝑤i + α(error)(𝑥i )
+error = valor deseado - salida de la red
+
+a) para x=0
+w0 = -1 +1 (0-0) (1) = -1
+w1 = -1 +1 (0-0) (0) = -1
+
+
+
+Luego, ajustaremos los pesos según la regla de aprendizaje proporcionada si la salida de la red no es correcta.
+
+Finalmente, evaluaremos cada uno de los pares de pesos proporcionados para determinar cuál cumple con la salida correcta para la función NOT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

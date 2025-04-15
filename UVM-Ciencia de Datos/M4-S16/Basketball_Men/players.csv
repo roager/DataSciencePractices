@@ -1,0 +1,1001 @@
+playerID,useFirst,firstName,middleName,lastName,nameGiven,fullGivenName,nameSuffix,nameNick,pos,firstseason,lastseason,height,weight,college,collegeOther,birthDate,birthCity,birthState,birthCountry,highSchool,hsCity,hsState,hsCountry,deathDate,race
+abdelal01,Alaa,Alaa,NULL,Abdelnaby,NULL,NULL,NULL,NULL,F-C,0,0,82,240,Duke,NULL,1968-06-24,Cairo,NULL,EGY,"Bloomfield Senior",Bloomfield,NJ,USA,0000-00-00,B
+abdulka01,Kareem,Kareem,NULL,Abdul-Jabbar,NULL,"Ferdinand Lewis Alcindor, Jr.",NULL,"Lew, Cap",C,0,0,85,225,UCLA,NULL,1947-04-16,"New York",NY,USA,"Power Memorial","New York",NY,USA,0000-00-00,B
+abdulma01,Mahdi,Mahdi,NULL,Abdul-Rahman,NULL,"Walter Raphael Hazzard, Jr.",NULL,Walt,G,0,0,74,185,UCLA,"Santa Monica City",1942-04-15,Wilmington,DE,USA,"Overbrook / Moton","Philadelphia / Easton","PA / MD",USA,2011-11-18,B
+abdulma02,Mahmoud,Mahmoud,NULL,Abdul-Rauf,NULL,"Chris Wayne Jackson",NULL,NULL,G,0,0,73,162,"Louisiana State",NULL,1969-03-09,Gulfport,MS,USA,Gulfport,Gulfport,MS,USA,0000-00-00,B
+abdulta01,Tariq,Tariq,NULL,Abdul-Wahad,NULL,"Olivier Michael Saint-Jean",NULL,NULL,G-F,0,0,78,223,"San Jose State",Michigan,1974-11-03,"Maisons Alfort",NULL,FRA,"Lycee Aristide Briand",Evreux,NULL,FRA,0000-00-00,B
+abdulza01,Zaid,Zaid,NULL,Abdul-Aziz,NULL,"Donald A. Smith",NULL,"Don, The Kangaroo",C-F,0,0,81,230,"Iowa State",NULL,1946-04-07,Brooklyn,NY,USA,"John Jay",Brooklyn,NY,USA,0000-00-00,B
+abdursh01,Shareef,Julius,Shareef,Abdur-Rahim,NULL,NULL,NULL,"Shareef, Reef",F,0,0,81,225,California,NULL,1976-12-11,Marietta,GA,USA,Wheeler,Marietta,GA,USA,0000-00-00,B
+abernto01,Tom,Thomas,Craig,Abernethy,NULL,NULL,NULL,Tom,F,0,0,79,220,Indiana,NULL,1954-05-06,"South Bend",IN,USA,"St. Joseph","South Bend",IN,USA,0000-00-00,W
+ablefo01,Forest,Forest,Edward,Able,NULL,NULL,NULL,Frosty,G,0,0,75,180,"Western Kentucky",Louisville,1932-07-27,NULL,NULL,NULL,Fairdale,Louisville,KY,USA,0000-00-00,W
+abramjo01,John,John,NULL,Abramovic,NULL,NULL,Jr.,Brooms,F,0,0,75,195,Salem,NULL,1919-02-09,Etna,PA,USA,Etna,Etna,PA,USA,2000-06-09,W
+ackeral01,Alex,Alex,NULL,Acker,NULL,NULL,NULL,NULL,G,0,0,77,185,Pepperdine,NULL,1983-01-21,Compton,CA,USA,"Eisenhower / Cajon","Rialto / San Bernadino",CA,USA,0000-00-00,B
+ackerdo01,Don,Donald,D.,Ackerman,NULL,NULL,NULL,Buddy,G,0,0,72,183,LIU,NULL,1930-09-04,"New York",NY,USA,Metropolitan,"New York",NY,USA,2011-07-09,W
+acresma01,Mark,Mark,Richard,Acres,NULL,NULL,NULL,NULL,F-C,0,0,83,220,"Oral Roberts",NULL,1962-11-15,Inglewood,CA,USA,"Palos Verdes","Palos Verdes Estates",CA,USA,0000-00-00,W
+actonbu01,Bud,Charles,R.,Acton,NULL,NULL,NULL,Bud,F,0,0,78,210,"Hillsdale (MI)","Alma College",1942-01-11,NULL,NULL,NULL,Troy,Troy,MI,USA,0000-00-00,W
+adamsal01,Alvan,Alvan,Leigh,Adams,NULL,NULL,NULL,"Double A, The Oklahoma Kid",C-F,0,0,81,210,Oklahoma,NULL,1954-07-19,Lawrence,KS,USA,"Putnam City","Putnam City",OK,USA,0000-00-00,W
+adamsdo01,Don,Donald,L.,Adams,NULL,NULL,NULL,Don,F,0,0,78,210,Northwestern,NULL,1947-11-27,Atlanta,GA,USA,"South Fulton","South Fulton",GA,USA,0000-00-00,B
+adamsge01,George,George,NULL,Adams,NULL,NULL,NULL,NULL,F-G,0,0,77,210,Gardner-Webb,NULL,1949-05-15,"Kings Mountain",NC,USA,"Kings Mountain","Kings Mountain",NC,USA,0000-00-00,B
+adamsha01,Hassan,Hassan,Olawale,Adams,NULL,NULL,NULL,NULL,G,0,0,76,220,Arizona,NULL,1984-06-20,Inglewood,CA,USA,Westchester,"Los Angeles",CA,USA,0000-00-00,B
+adamsja01,NULL,Jack,NULL,Adams,NULL,NULL,NULL,NULL,F,0,0,76,185,"Eastern Kentucky","Kentucky (dnp)  Ph.D",1934-09-27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+adamsmi01,Michael,Michael,NULL,Adams,NULL,NULL,NULL,NULL,G,0,0,70,162,"Boston College",NULL,1963-01-19,Hartford,CT,USA,"Hartford Public",Hartford,CT,USA,0000-00-00,B
+adamsne01,NULL,Howard,O'Neale,Adams,NULL,NULL,NULL,Neal,F-C,0,0,75,195,Arkansas,NULL,1919-01-21,"El Paso",AR,USA,Beebe,Beebe,AR,USA,1998-10-27,W
+adamsra01,NULL,Raymond,NULL,Adams,NULL,NULL,NULL,Ray,F-C,0,0,74,185,DePaul,NULL,0000-00-00,NULL,NULL,NULL,"St. Patrick",Chicago,IL,USA,0000-00-00,W
+adamssp01,NULL,Glenn,Reed,Adams,NULL,NULL,Jr.,Sparky,F,0,0,73,185,Marquette,NULL,1917-04-04,Carpentersville,IL,USA,Dundee,Dundee,IL,USA,2011-03-31,W
+adamswi01,NULL,Willie,NULL,Adams,NULL,NULL,NULL,NULL,F,0,0,71,160,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+addisra01,Rafael,Rafael,NULL,Addison,NULL,NULL,NULL,NULL,F-G,0,0,79,215,Syracuse,NULL,1964-07-22,"Jersey City",NJ,USA,Snyder,"Jersey City",NJ,USA,0000-00-00,B
+adelmri01,Rick,Richard,Leonard,Adelman,NULL,NULL,NULL,Rick,G,0,0,73,175,"Loyola (CA)",NULL,1946-06-16,Lynwood,CA,USA,"St. Pius X",Downey,CA,USA,0000-00-00,W
+adrieje01,Jeff,Jeff,NULL,Adrien,NULL,NULL,NULL,NULL,F,0,0,79,243,Connecticut,NULL,1986-02-10,Brookline,MA,USA,"Brookline/Brewster Academy","Brookline/ Wolfeboro",MA/NH,USA,0000-00-00,B
+adubari01,Richie,Richie,NULL,Adubato,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+afflaar01,Arron,Arron,Agustin,Afflalo,NULL,NULL,NULL,NULL,G,0,0,77,215,UCLA,NULL,1985-10-15,"Los Angeles",CA,USA,Centennial,Compton,CA,USA,0000-00-00,B
+agerma01,Maurice,Maurice,Darnell,Ager,NULL,NULL,NULL,NULL,G,0,0,77,202,"Michigan State",NULL,1984-02-09,Detroit,MI,USA,Crocket,Detroit,MI,USA,0000-00-00,B
+aguirma01,Mark,Mark,Anthony,Aguirre,NULL,NULL,NULL,NULL,F-G,0,0,78,232,DePaul,NULL,1959-12-10,Chicago,IL,USA,"Austin / Westinghouse Voc.",Chicago,IL,USA,0000-00-00,B
+ahearbl01,Blake,Daniel,Blake,Ahearn,NULL,NULL,NULL,Blake,G,0,0,74,190,"SW Missouri State",NULL,1984-05-27,"St. Louis",MO,USA,"De Smet Jesuit","St. Louis",MO,USA,0000-00-00,W
+ahearja01,NULL,John,NULL,Ahearn,NULL,NULL,NULL,"Jake, Johnny",G,0,0,74,185,"St. John's (NY)",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+aingeda01,Danny,Daniel,Ray,Ainge,NULL,NULL,NULL,Danny,G-F,0,0,76,175,"Brigham Young",NULL,1959-03-17,Eugene,OR,USA,"North Eugene","North Eugene",OR,USA,0000-00-00,W
+aitchma01,Matt,Matthew,Alexander,Aitch,NULL,NULL,Jr.,Matt,F,0,0,79,230,"Michigan State","Moberly Area CC",1944-09-21,"St. Louis",MO,USA,"Lincoln / Maplewood","Richmond / St. Louis",MO,USA,2007-04-04,B
+ajaxwa01,NULL,Warren,J.,Ajax,NULL,NULL,NULL,NULL,F-C,0,0,74,170,Minnesota,NULL,1921-05-12,Minneapolis,MN,USA,Central,Minneapolis,MN,USA,2004-12-19,W
+ajincal01,Alexis,Alexis,NULL,Ajinca,NULL,NULL,NULL,NULL,C,0,0,84,220,none,NULL,1988-05-06,Saint-Etienne,NULL,FRA,INSEP,Paris,NULL,FRA,0000-00-00,B
+akinhe01,Henry,Henry,T.,Akin,NULL,NULL,NULL,NULL,C-F,0,0,82,225,"Morehead State","William Carey (DNP)",1944-07-31,Detroit,MI,USA,Troy,Troy,MI,USA,0000-00-00,W
+alabiso01,Solomon,Makafan,Solomon,Alabi,NULL,NULL,NULL,Solomon,C,0,0,85,251,"Florida State",NULL,1988-03-21,Kaduna,NULL,NGR,"Montverde Academy",Montverde,FL,USA,0000-00-00,B
+alarima01,Mark,Mark,Steven,Alarie,NULL,NULL,NULL,NULL,F,0,0,80,217,Duke,NULL,1963-12-11,Phoenix,AZ,USA,"Brophy Prep",Phoenix,AZ,USA,0000-00-00,W
+albecst01,Stan,Stan,NULL,Albeck,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+alcorga01,Gary,Gary,R.,Alcorn,NULL,NULL,NULL,NULL,C,0,0,81,225,"Fresno State","Fresno City",1936-10-08,NULL,NULL,NULL,Roosevelt,Fresno,CA,USA,2006-11-29,W
+aldrico01,Cole,Cole,David,Aldrich,NULL,NULL,NULL,NULL,C,0,0,83,245,Kansas,NULL,1988-10-31,Burnsville,MN,USA,Jefferson,Bloomington,MN,USA,0000-00-00,W
+aldrila01,LaMarcus,LaMarcus,Nurae,Aldridge,NULL,NULL,NULL,NULL,F,0,0,83,240,Texas,NULL,1985-07-19,Dallas,TX,USA,Seagoville,Dallas,TX,USA,0000-00-00,B
+aleksch01,Chuck,Charles,NULL,Aleksinas,NULL,NULL,NULL,Chuck,C,0,0,83,260,Connecticut,Kentucky,1959-02-26,Litchfield,CT,USA,Wamogo,Litchfield,CT,USA,0000-00-00,W
+alexaco01,Cory,Cory,Lynn,Alexander,NULL,NULL,NULL,NULL,G,0,0,73,185,Virginia,NULL,1973-06-22,Waynesboro,VA,USA,"Oak Hill Academy","Mouth of Wilson",VA,USA,0000-00-00,B
+alexaco02,Courtney,Courtney,Jason,Alexander,NULL,NULL,NULL,NULL,G,0,0,77,205,"Fresno State",Virginia,1977-04-27,Bridgeport,CT,USA,Jordan,Durham,NC,USA,0000-00-00,B
+alexaga01,Gary,Gary,R.,Alexander,NULL,NULL,NULL,NULL,F,0,0,79,240,Jacksonville,NULL,1969-11-01,Jacksonville,FL,USA,"William M. Raines",Jacksonville,FL,USA,0000-00-00,B
+alexajo01,Joe,Joe,Anthony,Alexander,NULL,NULL,NULL,NULL,F,0,0,80,230,"West Virginia",NULL,1986-12-26,Koushoung,NULL,TAI,"Linganore / Hargrave Military Academy","Frederick / Chatham","MD / VA",USA,0000-00-00,W
+alexame01,NULL,Merle,NULL,Alexander,NULL,NULL,NULL,NULL,C-F,0,0,78,185,none,NULL,1907-09-02,Rushville,IN,USA,NULL,NULL,NULL,NULL,1987-02-02,W
+alexavi01,Victor,Victor,Joe,Alexander,NULL,NULL,NULL,NULL,C-F,0,0,81,265,"Iowa State",NULL,1969-08-31,Detroit,MI,USA,Denby,Detroit,MI,USA,0000-00-00,B
+alforst01,Steve,Stephen,Todd,Alford,NULL,NULL,NULL,Steve,G,0,0,74,183,Indiana,NULL,1964-11-23,Franklin,IN,USA,Chrysler,"New Castle",IN,USA,0000-00-00,W
+alixlo01,NULL,Lou,NULL,Alix,NULL,NULL,NULL,NULL,C,0,0,81,210,"Miami (FL)",NULL,0000-00-00,NULL,NULL,NULL,"David Prouty",Spencer,MA,USA,0000-00-00,W
+allaija01,NULL,Jack,NULL,Allain,NULL,NULL,NULL,NULL,C,0,0,80,250,"Idaho State","College of San Mateo",1934-12-09,NULL,NULL,NULL,"Junipero Serra","San Mateo",CA,USA,0000-00-00,W
+allenbi01,Bill,Bill,NULL,Allen,NULL,NULL,NULL,NULL,C-F,0,0,80,205,"New Mexico State",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,B
+allenbo01,Bob,Robert,J.,Allen,NULL,NULL,NULL,Bob,F,0,0,81,205,Marshall,NULL,1946-07-17,"(ht) Port Huron",MI,USA,"St. Stephen","Port Huron",MI,USA,0000-00-00,W
+allenfr01,NULL,Francis,NULL,Allen,NULL,NULL,NULL,"Frank, Tiny",C,0,0,77,245,"Oklahoma A&M","Ball State",0000-00-00,Champaign,IL,USA,"Muncie Centrral",Muncie,IN,USA,1957-04-16,W
+allenje01,Jerome,Jerome,Byron,Allen,NULL,NULL,NULL,NULL,G,0,0,76,184,Pennsylvania,NULL,1973-01-28,Philadelphia,PA,USA,"Episcopal Academy","Merion Station",PA,USA,0000-00-00,B
+allenla01,Lavoy,Lavoy,NULL,Allen,NULL,NULL,NULL,NULL,F,0,0,81,225,Temple,NULL,1989-02-04,Trenton,NJ,USA,Pennsbury,"Fairless Hills",PA,USA,0000-00-00,B
+allenlu01,Lucius,Lucius,Oliver,Allen,NULL,NULL,Jr.,NULL,G,0,0,74,175,UCLA,NULL,1947-09-26,"Kansas City",KS,USA,Wyandotte,"Kansas City",KS,USA,0000-00-00,B
+allenma01,Malik,Malik,NULL,Allen,NULL,NULL,NULL,NULL,F,0,0,82,255,Villanova,NULL,1978-06-27,Willingboro,NJ,USA,Shawnee,Medford,NJ,USA,0000-00-00,B
+allenra01,Randy,James,Randall,Allen,NULL,NULL,NULL,Randy,F,0,0,80,220,"Florida State",NULL,1965-01-26,Milton,FL,USA,Milton,Milton,FL,USA,0000-00-00,W
+allenra02,Ray,Walter,Ray,Allen,NULL,NULL,NULL,Ray,G,0,0,77,205,Connecticut,NULL,1975-07-20,Merced,CA,USA,Hillcrest,Dalzell,SC,USA,0000-00-00,B
+allenre01,NULL,Bill,NULL,Allen,NULL,NULL,NULL,Red,G,0,0,73,180,"St. John's (NY)",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+allento01,Tony,Anthony,NULL,Allen,NULL,NULL,NULL,Tony,G,0,0,76,213,"Oklahoma State","Butler Co. CC / Wabash Valley",1982-01-11,Chicago,IL,USA,Crane,Chicago,IL,USA,0000-00-00,B
+allenwi01,Willie,Willie,NULL,Allen,NULL,NULL,NULL,NULL,F,0,0,78,230,"Miami (FL)",NULL,1949-02-08,NULL,NULL,NULL,"Richard Montgomery",Rockville,MD,USA,0000-00-00,B
+allisod01,Odis,Odis,NULL,Allison,NULL,NULL,Jr.,NULL,F,0,0,78,195,UNLV,"Laney JC",1949-10-02,NULL,NULL,NULL,McClymonds,Oakland,CA,USA,0000-00-00,B
+allrela01,Lance,Lance,Collin,Allred,NULL,NULL,NULL,NULL,C,0,0,83,250,"Weber State",Utah,1981-02-02,"Salt Lake City",UT,USA,East,"Salt Lake City",UT,USA,0000-00-00,W
+allumda01,Darrell,Darrell,Wilbert,Allums,NULL,NULL,Jr.,NULL,F,0,0,80.5,220,UCLA,NULL,1958-09-12,"Los Angeles",CA,USA,Lynwood,Lynwood,CA,USA,0000-00-00,B
+almonmo01,Morris,Morris,NULL,Almond,NULL,NULL,NULL,NULL,G,0,0,78,215,Rice,NULL,1985-02-02,Dalton,GA,USA,McEachern,"Powder Springs",GA,USA,0000-00-00,B
+alstode01,Derrick,Derrick,Samuel,Alston,NULL,NULL,NULL,NULL,F,0,0,83,225,Duquesne,NULL,1972-08-20,Bronx,NY,USA,Hoboken,Hoboken,NJ,USA,0000-00-00,B
+alstora01,Rafer,Rafer,Jamel,Alston,NULL,NULL,NULL,"Skip to my Lou",G,0,0,74,171,"Fresno State","Ventura JC / Fresno CC",1976-07-24,"New York",NY,USA,"Benjamin Cardozo",Bayside,NY,USA,0000-00-00,B
+alterch01,NULL,Leonard,NULL,Alterman,NULL,NULL,NULL,Chink,G,0,0,75,185,Denver,NULL,1922-03-08,NULL,NULL,NULL,"North ",Denver,CO,USA,2009-02-06,W
+alumape01,Peter,Peter,NULL,Aluma,NULL,NULL,NULL,NULL,C,0,0,82,260,Liberty,NULL,1973-04-23,"Agbe, Lagos",NULL,NGR,"Okota Grammar School",Isolo,NULL,NGR,0000-00-00,B
+alvaral01,NULL,Armando,NULL,Alvarez,NULL,NULL,NULL,Al,G,0,0,72,160,Toledo,NULL,1912-10-05,NULL,NULL,ARG,NULL,Toledo,OH,USA,1995-03-17,W
+alwinbo01,NULL,Robert,H.,Alwin,NULL,NULL,NULL,Bob,G,0,0,70,145,Wisconsin,NULL,1920-08-12,NULL,NULL,NULL,"East ",Madison,WI,USA,2003-10-08,W
+amaecjo01,John,John,Ekwugha,Amaechi,NULL,NULL,NULL,NULL,C-F,0,0,81,270,"Penn State",Vanderbilt,1970-11-26,Boston,MA,USA,"St. John's",Toledo,OH,USA,0000-00-00,B
+amayaas01,Ashraf,Ashraf,NULL,Amaya,NULL,NULL,NULL,Andrew,F,0,0,79,230,"Southern Illinois",NULL,1971-11-23,"Oak Park",IL,USA,"Walter Lutheran","Melrose Park",IL,USA,0000-00-00,B
+aminual01,Al-Farouq,Al-Farouq,NULL,Aminu,NULL,NULL,NULL,NULL,F,0,0,81,215,"Wake Forest",NULL,1990-09-21,Atlanta,GA,USA,Norcross,Norcross,GA,USA,0000-00-00,B
+amsdera01,NULL,Ralph,O.,Amsden,NULL,NULL,Jr.,NULL,C,0,0,76,200,Marquette,NULL,1917-01-01,NULL,NULL,NULL,"Oak Park","Oak Park",IL,USA,1988-11-02,W
+amundlo01,Louis,Louis,Gabriel,Amundson,NULL,NULL,NULL,Lou,F,0,0,81,225,UNLV,NULL,1982-12-07,Ventura,CA,USA,"Boulder / Monarch","Boulder / Louisville",CO,USA,0000-00-00,W
+anderal01,Alan,Alan,Jeffery,Anderson,NULL,NULL,NULL,NULL,G-F,0,0,78,220,"Michigan State",NULL,1982-10-16,Minneapolis,MN,USA,DeLaSalle,Minneapolis,MN,USA,0000-00-00,B
+anderan01,Andy,Andrew,Emil,Anderson,NULL,NULL,NULL,Andy,G,0,0,74,184,Canisius,NULL,1945-07-06,Buffalo,NY,USA,Maryvale,Maryvale,NY,USA,0000-00-00,W
+anderan02,Antonio,Antonio,Andres,Anderson,NULL,NULL,NULL,NULL,G,0,0,78,215,"Memphis ",NULL,1985-06-05,Lynn,MA,USA,"Laurinburg Prep /Maine Cent/Lynn Vocl / Lynn English",Laurinburg/Pittsfield/Lynn/Lynn,NC/ME/MA/MA,USA,0000-00-00,B
+anderan03,NULL,Clarence,NULL,Anderson,NULL,NULL,NULL,Andy,F,0,0,77,212,"St. Mary's",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+anderar01,NULL,Art,NULL,Anderson,NULL,NULL,NULL,NULL,C,0,0,78,190,"Augustana (IL)",NULL,0000-00-00,"(ht) Chicago",IL,USA,NULL,NULL,NULL,NULL,0000-00-00,W
+anderbi01,NULL,Bill,NULL,Anderson,NULL,NULL,NULL,NULL,F-G,0,0,72,170,none,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+anderbo01,Bob,Robert,H.,Anderegg,NULL,NULL,NULL,Bob,F-G,0,0,75,200,"Michigan State","Bradley ?",1937-08-24,Monroe,WI,USA,Monroe,Monroe,WI,USA,0000-00-00,W
+anderca01,Cadillac,Carl,NULL,Anderson,NULL,NULL,NULL,Buttercup,G,0,0,75,215,USC,NULL,0000-00-00,NULL,NULL,NULL,Anderson,Anderson,IN,USA,0000-00-00,W
+anderch01,Chris,Chris,NULL,Andersen,NULL,NULL,NULL,Birdman,F-C,0,0,82,220,"Blinn CC",NULL,1978-07-07,Iola,TX,USA,Iola,Iola,TX,USA,0000-00-00,W
+andercl01,Cliff,Clifford,V.,Anderson,NULL,NULL,NULL,Cliff,G-F,0,0,74,200,"St. Joseph's (PA)",NULL,1944-09-07,"(ht) Philadelphia",PA,USA,"Thomas Edison",Philadelphia,PA,USA,0000-00-00,B
+anderda01,"Dan W.",Daniel,W.,Anderson,NULL,NULL,NULL,Dan,C,0,0,82,230,Augsburg,NULL,1943-02-15,Minneapolis,MN,USA,NULL,NULL,NULL,NULL,0000-00-00,W
+anderda02,Daniel,Daniel,Edward,Anderson,NULL,NULL,NULL,"Dan, Danny",G,0,0,74,185,USC,NULL,1951-01-01,NULL,NULL,NULL,North,Torrance,CA,USA,0000-00-00,W
+anderda03,David,David,Emil,Andersen,NULL,NULL,NULL,NULL,C,0,0,83,245,"Australian Institute of Sport",NULL,1980-06-23,Carlton,NULL,AUS,NULL,NULL,NULL,NULL,0000-00-00,W
+anderde01,Derek,Derek,Lamont,Anderson,NULL,NULL,NULL,NULL,G,0,0,76,194,Kentucky,"Ohio State",1974-07-18,Louisville,KY,USA,Doss,Louisville,KY,USA,0000-00-00,B
+anderdw01,Dwight,Dwight,Anthony,Anderson,NULL,NULL,NULL,NULL,G,0,0,75,175,USC,Kentucky,1960-12-28,Dayton,OH,USA,Roth,Dayton,OH,USA,0000-00-00,B
+anderer01,Eric,Eric,Walfred,Anderson,NULL,NULL,NULL,NULL,F,0,0,81,220,Indiana,NULL,1970-05-26,Chicago,IL,USA,"St. Francis DeSales",Chicago,IL,USA,0000-00-00,W
+anderge01,NULL,Gene,NULL,Anderson,NULL,NULL,NULL,NULL,G-F,0,0,74,190,Purdue,NULL,0000-00-00,NULL,NULL,NULL,Franklin?,Franklin?,IN,USA,0000-00-00,W
+anderge02,NULL,Gene,NULL,Anderson,NULL,NULL,NULL,NULL,F,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+andergr01,Greg,Gregory,Wayne,Anderson,NULL,NULL,NULL,"Greg, Cadillac",F-C,0,0,82,230,Houston,NULL,1964-06-22,Houston,TX,USA,"E.E. Worthing",Houston,TX,USA,0000-00-00,B
+anderja01,James,James,Lee,Anderson,NULL,NULL,NULL,NULL,G,0,0,78,215,"Oklahoma State",NULL,1989-03-25,"El Dorado",AR,USA,"Junction City","Junction City",AR,USA,0000-00-00,B
+anderje01,Jerome,Jerome,NULL,Anderson,NULL,NULL,NULL,Jay,G,0,0,77,195,"West Virginia",NULL,1953-10-09,Mullens,WV,USA,Mullens,Mullens,WV,USA,2009-08-01,B
+anderjj01,J.J.,Mitchell,Keith,Anderson,NULL,NULL,NULL,J.J.,F,0,0,80,195,Bradley,NULL,1960-09-23,Chicago,IL,USA,Metro,Chicago,IL,USA,0000-00-00,B
+anderke01,Kenny,Kenneth,NULL,Anderson,NULL,NULL,NULL,Kenny,G,0,0,72,168,"Georgia Tech",NULL,1970-10-09,Corona,NY,USA,"Archbishop Molloy",Briarwood,NY,USA,0000-00-00,B
+anderki01,Kim,Keith,Kim,Anderson,NULL,NULL,NULL,Kim,F,0,0,79,200,Missouri,NULL,1955-05-12,Sedalia,MO,USA,Smith-Cotton,Sedalia,MO,USA,0000-00-00,W
+anderla01,LaDell,LaDell,NULL,Andersen,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+andermi01,Michael,Michael,Levin,Anderson,NULL,NULL,NULL,NULL,G,0,0,71,184,Drexel,NULL,1966-03-23,Philadelphia,PA,USA,Engineering&Sciences,Philadelphia,PA,USA,0000-00-00,B
+anderni01,Nick,Nelison,NULL,Anderson,NULL,NULL,NULL,Nick,F-G,0,0,78,205,Illinois,NULL,1968-01-20,Chicago,IL,USA,"Prosser Vocational / Neal F. Simeon",Chicago,IL,USA,0000-00-00,B
+anderri01,Richard,Richard,Andrew,Anderson,NULL,NULL,NULL,NULL,F-C,0,0,82,240,"Cal. St.-Santa Barbara",NULL,1960-11-19,"San Pedro",CA,USA,"Rancho Alamitos","Garden Grove",CA,USA,0000-00-00,W
+anderro01,Ron,Ronald,Gene,Anderson,NULL,NULL,NULL,Ron,F-G,0,0,79,215,"Fresno State","Santa Barbara C.C.",1958-10-15,Chicago,IL,USA,Bowen(DNP),Chicago,IL,USA,0000-00-00,B
+anderry01,Ryan,Ryan,James,Anderson,NULL,NULL,NULL,NULL,F,0,0,82,240,California,NULL,1988-05-06,Sacramento,CA,USA,"Oak Ridge","El Dorado Hills",CA,USA,0000-00-00,W
+andersh01,Shandon,Shandon,Rodriguez,Anderson,NULL,NULL,NULL,Rod,F-G,0,0,78,208,Georgia,NULL,1973-12-31,Atlanta,GA,USA,Crim,Atlanta,GA,USA,0000-00-00,B
+anderwa01,Wally,Walter,Charles,Anderzunas,NULL,NULL,NULL,Wally,C-F,0,0,79,220,Creighton,NULL,1946-01-11,NULL,NULL,NULL,"Creighton Prep",Omaha,NE,USA,1989-05-28,W
+anderwi01,Willie,Willie,Lloyd,Anderson,NULL,NULL,Jr.,Chill,G-F,0,0,79,190,Georgia,NULL,1967-01-08,Greenville,SC,USA,"East Atlanta",Atlanta,GA,USA,0000-00-00,B
+andreer01,NULL,Ernest,Henry,Andres,NULL,NULL,NULL,"Ernie, Junie",G-F,0,0,73,200,Indiana,NULL,1918-01-11,Jeffersonville,IN,USA,Jeffersonville,Jeffersonville,IN,USA,2008-09-19,W
+andrima01,Martynas,Martynas,NULL,Andriuskevicius,NULL,NULL,NULL,Marty,C,0,0,86,240,none,NULL,1986-03-12,Kaunas,NULL,LTU,NULL,NULL,NULL,NULL,0000-00-00,W
+anieldo01,Don,Donald,Robert,Anielak,NULL,NULL,NULL,"Don, Moose",F,0,0,79,190,"SW Missouri State","Bradley / Moberly JC",1930-11-01,"St. Louis",MO,USA,Bland,Bland,MO,USA,1995-11-19,W
+ankerja01,Jack,Jack,NULL,Ankerson,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+anslemi01,Michael,Michael,Antonio,Ansley,NULL,NULL,NULL,NULL,F,0,0,79,225,Alabama,NULL,1967-02-08,Birmingham,AL,USA,Jackson-Olin,Birmingham,AL,USA,0000-00-00,B
+anstech01,Chris,Christopher,John,Anstey,NULL,NULL,NULL,Chris,C,0,0,84,249,none,NULL,1975-01-01,Melbourne,NULL,AUS,"Catholic Regional College","Melbourne   ",NULL,AUS,0000-00-00,W
+anthoca01,Carmelo,Carmelo,Kyam,Anthony,NULL,NULL,NULL,Melo,F,0,0,80,220,Syracuse,NULL,1984-05-29,Brooklyn,NY,USA,"Towson Catholic / Oak Hill Academy","Towson / Mouth of Wilson","MD / VA",USA,0000-00-00,B
+anthogr01,Greg,Gregory,Carleton,Anthony,NULL,NULL,NULL,"Greg, G-Money",G,0,0,72,176,UNLV,Portland,1967-11-15,"Las Vegas",NV,USA,Rancho,"North Las Vegas",NV,USA,0000-00-00,B
+anthojo01,Joel,Joel,Vincent,Anthony,NULL,NULL,NULL,NULL,C,0,0,81,245,UNLV,"Pensacola JC",1982-08-09,Montreal,QU,CAN,"Dawson Prep / Selwyn House School",Montreal,QU,CAN,0000-00-00,B
+anthopa01,NULL,Paul,NULL,Anthony,NULL,NULL,NULL,NULL,C-F-G,0,0,77,195,"Washington & Jefferson",NULL,0000-00-00,NULL,NULL,NULL,Glassport,Glassport,PA,USA,0000-00-00,W
+antoncl01,NULL,Clyde,NULL,Anton,NULL,NULL,NULL,NULL,G,0,0,0,0,none,"Ohio State?",0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+araujra01,Rafael,Rafael,Paulo,Araujo,NULL,NULL,NULL,NULL,C,0,0,83,290,"Brigham Young","Arizona Western JC",1980-08-12,Curitiba,NULL,BRA,"Padre Anacleto","Sao Paulo",NULL,BRA,0000-00-00,W
+arcenst01,Stacey,Stacey,NULL,Arceneaux,NULL,"Robert L. Stacey",NULL," Bob Arceneaux in hs",F,0,0,76,210,"Iowa State (dnp) ?",NULL,1936-02-17,NULL,NULL,NULL,Taft,"New York",NY,USA,0000-00-00,B
+archige01,NULL,Gerald,Bruce,Archibald,NULL,NULL,NULL,Gerry,G,0,0,72,170,none,NULL,1907-08-22,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1990-11-25,W
+archina01,Nate,Nathaniel,NULL,Archibald,NULL,NULL,NULL,"Nate, Tiny",G,0,0,73,150,UTEP,"Arizona Western JC",1948-09-02,"New York",NY,USA,"DeWitt Clinton",Bronx,NY,USA,0000-00-00,B
+archiro01,Robert,Robert,Michael,Archibald,NULL,NULL,NULL,NULL,F,0,0,83,250,Illinois,NULL,1980-03-29,Paisley,NULL,SCO,Lafayette,Ballwin,MO,USA,0000-00-00,W
+ardji01,Jim,Jimmie,Lee,Ard,NULL,NULL,NULL,Jim,F-C,0,0,80,215,Cincinnati,NULL,1948-09-19,Harvey,IL,USA,"Thornton Township",Harvey,IL,USA,0000-00-00,B
+ardonja01,NULL,Jaak,NULL,Ardon,NULL,NULL,NULL,Jack,C,0,0,81,215,Tulane,NULL,1939-10-13,NULL,NULL,EST,Lakewood,Lakewood,NJ,USA,2000-02-18,W
+arenagi01,Gilbert,Gilbert,Jay,Arenas,NULL,NULL,NULL,"Agent Zero",G,0,0,75,191,"Arizona ",NULL,1982-01-06,Tampa,FL,USA,Grant,"Van Nuys",CA,USA,0000-00-00,B
+arizatr01,Trevor,Trevor,Anthony,Ariza,NULL,NULL,NULL,NULL,F,0,0,79,194,UCLA,NULL,1985-06-30,Miami,FL,USA,Westchester,"Los Angeles",CA,USA,0000-00-00,B
+arizipa01,Paul,Paul,Joseph,Arizin,NULL,NULL,NULL,"Pitchin' Paul",F-G,0,0,74,190,Villanova,NULL,1928-04-09,Philadelphia,PA,USA,"LaSalle (DNP)",Philadelphia,PA,USA,2006-12-12,W
+arlaujo01,Joe,Joseph,NULL,Arlauckas,NULL,NULL,NULL,Joe,F-C,0,0,81,230,Niagara,NULL,1965-07-20,Rochester,NY,USA,Jefferson,Rochester,NY,USA,0000-00-00,W
+armstbj01,B.J.,Benjamin,Roy,Armstrong,NULL,NULL,Jr.,"B.J., The Kid",G,0,0,74,175,Iowa,NULL,1967-09-09,Detroit,MI,USA,"Brother Rice",Birmingham,MI,USA,0000-00-00,B
+armstbo01,Bob,T.,Robert,Armstrong,NULL,NULL,NULL,Bob,C-F,0,0,80,220,"Michigan State",NULL,1933-06-17,Detroit,MI,USA,Holland,Holland,MI,USA,0000-00-00,W
+armstbo02,NULL,Bob,NULL,Armstrong,NULL,NULL,NULL,NULL,F,0,0,73,180,"Glenville State",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+armstbr01,Brandon,Brandon,Simone,Armstrong,NULL,NULL,NULL,NULL,G,0,0,77,185,Pepperdine,NULL,1980-06-16,"San Francisco",CA,USA,Vallejo,Vallejo,CA,USA,0000-00-00,B
+armstcu01,Curly,Paul,Carlyle,Armstrong,NULL,NULL,NULL,Curly,G-F,0,0,71,170,Indiana,NULL,1918-11-01,NULL,NULL,NULL,Central,"Fort Wayne",IN,USA,1983-06-06,W
+armstda01,Darrell,Darrell,Eugene,Armstrong,NULL,NULL,NULL,NULL,G,0,0,72,169,"Fayetteville State",NULL,1968-06-22,Gastonia,NC,USA,Ashbrook,Gastonia,NC,USA,0000-00-00,B
+armsthi01,Hilton,Hilton,A.,Armstrong,NULL,NULL,Jr.,NULL,F-C,0,0,83,235,Connecticut,NULL,1984-11-11,Peekskill,NY,USA,Peekskill,Peekskill,NY,USA,0000-00-00,B
+armstsc01,NULL,Scott,NULL,Armstrong,NULL,NULL,NULL,Scotty,F-C,0,0,76,190,Butler,NULL,1913-10-12,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1997-08-20,W
+armstta01,Tate,Michel,Taylor,Armstrong,NULL,NULL,NULL,Tate,G,0,0,74,175,Duke,NULL,1955-10-05,Moultrie,GA,USA,"Spring Woods",Houston,TX,USA,0000-00-00,W
+arndtfr01,NULL,Fred,NULL,Arndt,NULL,NULL,NULL,NULL,F,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,Hammond,Hammond,IN,USA,0000-00-00,W
+arnelje01,Jesse,Hugh,Jesse,Arnelle,NULL,NULL,NULL,Jesse,F,0,0,77,220,"Penn State",NULL,1933-12-30,"New Rochelle",NY,USA,"New Rochelle","New Rochelle",NY,USA,0000-00-00,B
+arnetbi01,NULL,Bill,NULL,Arnett,NULL,NULL,NULL,NULL,G,0,0,72,180,LIU,"Tusculum College (TN)",0000-00-00,NULL,NULL,NULL,"Happy Valley",Elizabethton,TN,USA,0000-00-00,W
+arnetja01,Jay,Jay,Hoyland,Arnette,NULL,NULL,NULL,NULL,G,0,0,74,175,Texas,NULL,1938-12-19,Austin,TX,USA,McCallum,Austin,TX,USA,0000-00-00,W
+arnzebo01,Bob,Robert,Louis,Arnzen,NULL,NULL,NULL,Bob,F,0,0,77,205,"Notre Dame",NULL,1947-11-03,Covington,KY,USA,"St. Xavier",Cincinnati,OH,USA,0000-00-00,W
+arnzest01,NULL,Stanley,NULL,Arnzen,NULL,NULL,NULL,"Stan, Pete",F,0,0,71,170,"Morehead State","Thomas More",1914-08-08,NULL,NULL,NULL,Newport,Newport,KY,USA,0000-00-00,W
+arroyca01,Carlos,Carlos,Alberto,"Arroyo Bermudez",NULL,NULL,NULL,NULL,G,0,0,74,202,"Florida International",NULL,1979-07-30,"Rio Piedras",NULL,PUR,"Brookwood / Colegio Santiago Apostol","Thomasville / Fajardo","GA / PR","USA / PUR",0000-00-00,W
+artesro01,Metta,Metta,NULL,"World Peace",NULL,"Ronald William Artest",NULL,Ron,G-F,0,0,78,244,"St. John's (NY)",NULL,1979-11-13,Queensbridge,NY,USA,"LaSalle Academy","New York",NY,USA,0000-00-00,B
+arthuda01,Darrell,Darrell,Antwonne,"Arthur ",NULL,NULL,NULL,NULL,F,0,0,81,225,"Kansas ",NULL,1988-03-25,Dallas,TX,USA,"South Oak Cliff",Dallas,TX,USA,0000-00-00,B
+arthujo01,John,John,Charles,Arthurs,NULL,NULL,NULL,NULL,G,0,0,76,185,Tulane,NULL,1947-08-15,NULL,NULL,NULL,DeLaSalle,"New Orleans",LA,USA,0000-00-00,W
+ashbi01,Bill,William,NULL,Ash,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+asikom01,Omer,Omer,Faruk,Asik,NULL,NULL,NULL,NULL,C-F,0,0,84,255,none,NULL,1986-07-04,Bursa,NULL,TUR,NULL,NULL,NULL,NULL,0000-00-00,W
+askewvi01,Vincent,Vincent,Jerome,Askew,NULL,NULL,NULL,NULL,G-F,0,0,77,210,"Memphis State",NULL,1966-02-28,Memphis,TN,USA,Frayser,Memphis,TN,USA,0000-00-00,B
+askinke01,Keith,Keith,Bernard,Askins,NULL,NULL,NULL,NULL,G-F,0,0,79,197,Alabama,NULL,1967-12-15,Athens,AL,USA,Athens,Athens,AL,USA,0000-00-00,B
+asmondo01,Don,Donald,A.,Asmonga,NULL,NULL,NULL,Don,G,0,0,74,185,"California (PA)",Alliance,1928-02-15,NULL,NULL,NULL,Homestead,Homestead,PA,USA,0000-00-00,W
+athadi01,Dick,Richard,E.,Atha,NULL,NULL,NULL,Dick,G,0,0,74,190,"Indiana State",NULL,1931-09-21,Otterbein,IN,USA,Otterbein,Otterbein,IN,USA,0000-00-00,W
+athasal01,NULL,Alexander,NULL,Athas,NULL,NULL,NULL,"Alex, Greek",G,0,0,74,180,Tulane,NULL,1922-10-06,NULL,NULL,NULL,"Warren Easton","New Orleans",LA,USA,2009-04-29,W
+atkinch01,Chucky,Kenneth,Lavon,Atkins,NULL,NULL,NULL,Chucky,G,0,0,71,160,"South Florida",NULL,1974-08-14,Orlando,FL,USA,Evans,Orlando,FL,USA,0000-00-00,B
+attleal01,Al,Alvin,A.,Attles,NULL,NULL,Jr.,"Al, Destroyer",G,0,0,72,175,"North Carolina A&T",NULL,1936-11-07,Newark,NJ,USA,Weequahic,Newark,NJ,USA,0000-00-00,B
+aubucch01,Chet,Chester,J.,Aubuchon,NULL,NULL,Jr.,Chet,G,0,0,70,137,"Michigan State",NULL,1916-05-18,Gary,IN,USA,"Horace Mann",Gary,IN,USA,2005-04-14,W
+auerbre01,Red,Red,NULL,Auerbach,NULL,NULL,NULL,NULL,NULL,0,0,70,170,"George Washington",NULL,1917-09-20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+augmost01,Stacey,Stacey,Orlando,Augmon,NULL,NULL,NULL,"The Plastic Man",G-F,0,0,78,205,UNLV,NULL,1968-08-01,Pasadena,CA,USA,"John Muir",Pasadena,CA,USA,0000-00-00,B
+augusdj01,D.J.,Darrell,Gerard,Augustin,NULL,NULL,Jr.,D.J.,G,0,0,72,180,Texas,NULL,1987-11-10,"New Orleans",LA,USA,"Brother Martin / Fort Bend Hightower","New Orleans / Houston","LA / TX",USA,0000-00-00,B
+augusja01,James,James,Dale,Augustine,NULL,NULL,NULL,NULL,F,0,0,82,235,Illinois,NULL,1984-02-27,Midlothian,IL,USA,"Lincoln-Way Central",Mokena,IL,USA,0000-00-00,W
+austica01,NULL,Carl,NULL,Austing,NULL,NULL,NULL,NULL,F-C,0,0,76,180,Cincinnati,NULL,1910-04-25,NULL,NULL,NULL,Elder,Cincinnati,OH,USA,1992-03-25,W
+austiis01,Isaac,Isaac,Edward,Austin,NULL,NULL,NULL,Ike,F-C,0,0,82,255,"Arizona State","Kings River (CA)",1969-08-18,Gridley,CA,USA,"Las Plumas",Oroville,CA,USA,0000-00-00,B
+austijo01,Johnny,John,W.,Austin,NULL,NULL,NULL,Johnny,G,0,0,72,170,"Boston College",NULL,1944-08-31,Washington,DC,USA,"DeMatha / Archbishop Carroll","Hyattsville / Washington",MD/DC,USA,0000-00-00,B
+austike01,Ken,Ken,NULL,Austin,NULL,NULL,NULL,NULL,F,0,0,81,200,Rice,NULL,1961-07-15,"Los Angeles",CA,USA,"Verbum Dei","Los Angeles",CA,USA,0000-00-00,B
+aventan01,Anthony,Anthony,NULL,Avent,NULL,NULL,NULL,A.A.,F,0,0,81,235,"Seton Hall",NULL,1969-10-18,"Rocky Mount",NC,USA,"M.X. Shabbaz",Newark,NJ,USA,0000-00-00,B
+averibi01,Bird,William,Rodney,Averitt,NULL,NULL,NULL,Bird,G,0,0,73,170,Pepperdine,NULL,1952-07-22,Hopkinsville,KY,USA,Hopkinsville,Hopkinsville,KY,USA,0000-00-00,B
+averywi01,William,William,NULL,Avery,NULL,NULL,NULL,Will,G,0,0,74,180,Duke,NULL,1979-08-08,Augusta,GA,USA,"Westside / Oak Hill Academy","Augusta / Mouth of Wilson","GA / VA",USA,0000-00-00,B
+awtrede01,Dennis,Dennis,Wade,Awtrey,NULL,NULL,NULL,NULL,C,0,0,82,235,"Santa Clara",NULL,1948-02-22,Hollywood,CA,USA,Blackford,"San Jose",CA,USA,0000-00-00,W
+ayersra01,Randy,Randy,NULL,Ayers,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+ayongu01,Gustavo,Gustavo,Alfonso,"Ayon Aguirre",NULL,NULL,NULL,NULL,F-C,0,0,82,250,UPAEP-Mexico,NULL,1985-04-01,"Tepoic, Nayarit",NULL,MEX,NULL,NULL,NULL,NULL,0000-00-00,W
+azubuke01,Kelenna,Kelenna,David,Azubuike,NULL,NULL,NULL,NULL,G,0,0,77,220,Kentucky,NULL,1983-12-16,London,NULL,ENG,"Victory Christian School",Tulsa,OK,USA,0000-00-00,B
+babbilu01,Luke,Luke,Robert,Babbitt,NULL,NULL,NULL,NULL,F,0,0,81,225,Nevada-Reno,NULL,1989-06-20,Cincinnati,OH,USA,Galena,Reno,NV,USA,0000-00-00,W
+babicmi01,Milos,Milos,NULL,Babic,NULL,NULL,NULL,NULL,C-F,0,0,84,240,"Tennessee Tech",NULL,1968-11-23,Kraljevo,NULL,YUG,Kraljevo,Kraljevo,NULL,YUG,0000-00-00,W
+bachjo01,Johnny,John,William,Bach,NULL,NULL,NULL,Johnny,F-G,0,0,74,180,Fordham,"Fordham / Rochester / Brown",1924-07-10,Brooklyn,NY,USA,"St. John's Prep",Brooklyn,NY,USA,0000-00-00,W
+baconhe01,Henry,William,Henry,Bacon,NULL,NULL,NULL,Henry,G,0,0,75,205,Louisville,NULL,1948-07-05,Louisville,KY,USA,Male,Louisville,KY,USA,0000-00-00,B
+badgeed01,Ed,Ed,NULL,Badger,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+baechji01,Jim,James,Edward,Baechtold,NULL,NULL,NULL,Jim,F-G,0,0,76,205,"Eastern Kentucky",NULL,1927-12-09,McKeesport,PA,USA,Moon,Coraopolis,PA,USA,2011-08-29,W
+baerca01,NULL,Carl,NULL,Baer,NULL,NULL,NULL,NULL,C,0,0,77,0,NULL,NULL,0000-00-00,"(ht) Aliquippa",PA,USA,Aliquippa,Aliquippa,PA,USA,0000-00-00,W
+bagarda01,Dalibor,Dalibor,NULL,Bagaric,NULL,NULL,NULL,NULL,C,0,0,85,255,none,NULL,1980-02-07,Munich,NULL,GER,NULL,NULL,NULL,NULL,0000-00-00,W
+baglejo01,John,John,Edward,Bagley,NULL,NULL,NULL,Bags,G,0,0,72,185,"Boston College",NULL,1960-04-23,Bridgeport,CT,USA,"Warren Harding",Bridgeport,CT,USA,0000-00-00,B
+baileca01,Carl,Carl,NULL,Bailey,NULL,NULL,NULL,NULL,C,0,0,84,210,Tuskegee,NULL,1958-04-23,Birmingham,AL,USA,Jackson-Olin,Birmingham,AL,USA,0000-00-00,B
+bailegu01,Gus,Augustus,NULL,Bailey,NULL,NULL,NULL,Gus,G-F,0,0,77,185,UTEP,NULL,1951-02-18,Gibson,NC,USA,Burgess,"El Paso",TX,USA,1988-11-28,B
+baileja01,James,James,L.,Bailey,NULL,NULL,NULL,"Jammin' James",F-C,0,0,81,220,Rutgers,NULL,1957-05-21,Dublin,GA,USA,Xaverian,Westwood,MA,USA,0000-00-00,B
+baileth01,Thurl,Thurl,Lee,Bailey,NULL,NULL,NULL,"Big T.",F-C,0,0,83,215,"North Carolina State",NULL,1961-04-07,Washington,DC,USA,Bladensburg,Bladensburg,MD,USA,0000-00-00,B
+baileto01,Toby,John,Garfield,Bailey,NULL,NULL,Jr.,Toby,G,0,0,78,213,UCLA,NULL,1975-11-19,"Los Angeles",CA,USA,Loyola,"Los Angeles",CA,USA,0000-00-00,B
+bairdfr01,NULL,Frank,A.,Baird,NULL,NULL,NULL,NULL,G-F,0,0,71,160,Butler,NULL,1912-04-10,NULL,NULL,NULL,"Arsenal Tech",Indianapolis,IN,USA,2007-03-20,W
+bakerar01,NULL,Art,NULL,Bakeraitis,NULL,NULL,NULL,NULL,F-C,0,0,76,210,"Bay City JC",NULL,0000-00-00,NULL,NULL,NULL,"Bay City Central","Bay City",MI,USA,0000-00-00,W
+bakerbo01,NULL,Bob,NULL,Baker,NULL,NULL,NULL,NULL,G,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+bakerji01,Jimmie,Jimmie,NULL,Baker,NULL,NULL,Jr.,NULL,F,0,0,81,220,Hawaii,UNLV,1953-12-25,Philadelphia,PA,USA,Olney,Philadelphia,PA,USA,0000-00-00,B
+bakerla01,LaMark,LaMark,Anthony,Baker,NULL,NULL,NULL,Mark,G,0,0,73,175,"Ohio State",NULL,1969-11-11,Dayton,OH,USA,"Paul L. Dunbar",Dayton,OH,USA,0000-00-00,B
+bakerma01,Maurice,Maurice,NULL,Baker,NULL,NULL,NULL,NULL,G,0,0,73,175,"Oklahoma State","Dixie College",1979-07-28,"Granite City",IL,USA,Madison,Madison,IL,USA,0000-00-00,B
+bakerno01,Norm,Norman,Henry,Baker,NULL,NULL,NULL,"Norm, The Swede",G,0,0,72,180,none,McGill?,1923-02-17,Victoria,BC,CAN,NULL,NULL,NULL,NULL,1989-04-23,W
+bakervi01,Vin,Vincent,Lamont,Baker,NULL,NULL,NULL,Vin,F,0,0,82.5,232,Hartford,NULL,1971-11-23,"Lake Wales",FL,USA,"Old Saybrook","Old Saybrook",CT,USA,0000-00-00,B
+balkmre01,Renaldo,Renaldo,NULL,Balkman,NULL,NULL,NULL,NULL,F,0,0,80,208,"South Carolina",NULL,1984-07-14,"Staten Island",NY,USA,"Laurinburg / IMG Academy / Blake / Armwood","Laurinburg / Bradenton / Tampa / Seffner",NC/FL/FL/FL,USA,0000-00-00,B
+ballagr01,Greg,Gregory,NULL,Ballard,NULL,NULL,NULL,Greg,F,0,0,79,215,Oregon,Shasta,1955-01-29,"Los Angeles",CA,USA,Garey,Pomona,CA,USA,0000-00-00,B
+ballce01,Cedric,Cedric,Glenn,Ball,NULL,NULL,NULL,NULL,F,0,0,80,210,UNC-Charlotte,NULL,1968-04-16,Worcester,MA,USA,South,Worcester,MA,USA,0000-00-00,B
+ballhe01,NULL,Herbert,NULL,Ball,NULL,NULL,NULL,Herb,F-G,0,0,0,0,"Western Kentucky","Wilson JC",1918-07-27,NULL,NULL,NULL,Lindbloom,Chicago,IL,USA,2000-04-18,W
+baltihe01,Herschel,Herschel,David,Baltimore,NULL,NULL,NULL,Herk,F,0,0,76,195,"Penn State",NULL,1921-06-21,"(ht) New Castle",PA,USA,"New Castle Senior","New Castle",PA,USA,1968-01-01,W
+banksge01,Gene,Eugene,Lavon,Banks,NULL,NULL,NULL,"Gene, Tinkerbell",F-G,0,0,79,215,Duke,NULL,1959-05-15,Philadelphia,PA,USA,West,Philadelphia,PA,USA,0000-00-00,B
+banksma01,Marcus,Arthur,LeMarcus,Banks,NULL,NULL,III,Marcus,G,0,0,74,200,UNLV,"Dixie College",1981-11-19,"Las Vegas",NV,USA,"Cimarron Memorial","Las Vegas",NV,USA,0000-00-00,B
+bankswa01,Walker,Walker,Burrell,Banks,NULL,NULL,Jr.,NULL,C,0,0,82,205,"Western Kentucky",NULL,1947-08-26,NULL,NULL,NULL,"Clifton Forge","Clifton Forge",VA,USA,0000-00-00,B
+bannike01,Ken,Kenneth,Darnell,Bannister,NULL,NULL,NULL,"Ken, The Animal",F-C,0,0,81,235,"St. Augustine","Trinidad St. JC/Indiana State",1960-04-01,Baltimore,MD,USA,Southwestern,Baltimore,MD,USA,0000-00-00,B
+bantomi01,Mike,Michael,Allen,Bantom,NULL,NULL,NULL,Mike,F-C,0,0,81,200,"St. Joseph's (PA)",NULL,1951-12-03,Philadelphia,PA,USA,"Roman Catholic",Philadelphia,PA,USA,0000-00-00,B
+barbejo01,John,John,NULL,Barber,NULL,NULL,NULL,NULL,F,0,0,78,210,"Los Angeles State",NULL,1927-06-27,NULL,NULL,NULL,Pruitt,Atlanta,TX,USA,0000-00-00,B
+barbole01,Leandro,Leandro,Mateus,Barbosa,NULL,NULL,NULL,Leandrinho,G,0,0,75,176,none,NULL,1982-11-28,"Sao Paulo",SP,BRA,NULL,NULL,NULL,NULL,0000-00-00,B
+bardost01,Steve,Stephen,Dean,Bardo,NULL,NULL,NULL,Steve,G,0,0,77,190,Illinois,NULL,1968-04-05,Henderson,KY,USA,Carbondale,Carbondale,IL,USA,0000-00-00,B
+bareajo01,Jose,Jose,Juan,"Barea Mora",NULL,NULL,NULL,"J. J.",G,0,0,71,175,Northeastern,NULL,1984-06-26,Mayaguez,PR,PUR,"Miami Christian",Miami,FL,USA,0000-00-00,W
+bargnan01,Andrea,Andrea,NULL,Bargnani,NULL,NULL,NULL,NULL,F,0,0,84,225,none,NULL,1985-10-26,Rome,NULL,ITA,NULL,NULL,NULL,NULL,0000-00-00,W
+barkecl01,Cliff,Clifford,Eugene,Barker,NULL,NULL,NULL,Cliff,G,0,0,74,185,Kentucky,NULL,1921-01-15,Yorktown,IN,USA,Yorktown,Yorktown,IN,USA,1998-03-17,W
+barkefr01,NULL,Fred,NULL,Barker,NULL,NULL,NULL,NULL,F,0,0,76,200,"Murray State JC",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+barketo01,Tom,Thomas,Kevin,Barker,NULL,NULL,NULL,Tom,C-F,0,0,83,225,Hawaii,"Minnesota/Southern Idaho",1955-03-11,Harlingen,TX,USA,Welasco,Harlingen,TX,USA,0000-00-00,B
+barklch01,Charles,Charles,Wade,Barkley,NULL,NULL,NULL,"Sir Charles, Chuck, The Chuckster",F,0,0,77,250,Auburn,NULL,1963-02-20,Leeds,AL,USA,Leeds,Leeds,AL,USA,0000-00-00,B
+barkler01,Erick,Erick,NULL,Barkley,NULL,NULL,NULL,NULL,G,0,0,73,177,"St. John's (NY)",NULL,1978-02-21,Brooklyn,NY,USA,"Christ the King / Maine Central Institute","Middle Village / Pittsfield","NY / ME",USA,0000-00-00,B
+barksdo01,Don,Donald,Argee,Barksdale,NULL,NULL,NULL,NULL,F-C,0,0,78,200,UCLA,"Marin JC",1923-03-31,Oakland,CA,USA,Berkeley,Berkeley,CA,USA,1993-03-08,B
+barlelo01,NULL,Louis,Peter,Barle,NULL,NULL,NULL,"Lou, Fats",F,0,0,73,200,Minnesota-Duluth,NULL,1916-06-23,Gilbert,MN,USA,Gilbert,Gilbert,MN,USA,1996-12-30,W
+barnasa01,NULL,Samuel,C.,Barnard,NULL,NULL,NULL,Sam,F,0,0,78,225,"Iowa State","Wisconsin / Drake Law School",1937-12-28,Oshkosh,WI,USA,Oshkosh,Oshkosh,WI,USA,2003-05-23,W
+barnedi01,Dick,Richard,NULL,Barnett,NULL,NULL,NULL,"Dick, Skull, Fall Back Baby",G-F,0,0,76,190,"Tennessee State",NULL,1936-10-02,Gary,IN,USA,Roosevelt,Gary,IN,USA,0000-00-00,B
+barneha01,Harry,Harry,J.,Barnes,NULL,NULL,NULL,NULL,F,0,0,75,205,Northeastern,NULL,1945-07-25,Youngstown,OH,USA,NULL,NULL,NULL,NULL,0000-00-00,B
+barneji01,Jim,Velvet,James,Barnes,NULL,NULL,NULL,"Jim, Bad News",C-F,0,0,80,210,"Texas Western","Cameron JC",1941-04-13,Tuckerman,AR,USA,Stillwater,Stillwater,OK,USA,2002-09-14,B
+barneji02,Jim,James,Franklin,Barnett,NULL,NULL,NULL,Jim,G-F,0,0,76,170,Oregon,NULL,1944-07-07,Greenville,SC,USA,Ramona,Riverside,CA,USA,0000-00-00,W
+barnema01,Marvin,Marvin,Jerome,Barnes,NULL,NULL,NULL,"Good News, The Magnificent",F-C,0,0,80,210,Providence,NULL,1952-07-27,Providence,RI,USA,Central,Providence,RI,USA,0000-00-00,B
+barnema02,Matt,Matt,Kelly,Barnes,NULL,NULL,NULL,NULL,F,0,0,79,235,UCLA,NULL,1980-03-09,"Santa Clara",CA,USA,"Del Campo",Sacramento,CA,USA,0000-00-00,B
+barnena01,Nate,Nathaniel,NULL,Barnett,NULL,NULL,Jr.,Nate,G,0,0,75,175,Akron,NULL,1953-01-29,NULL,NULL,NULL,Mervo,Baltimore,MD,USA,0000-00-00,B
+barnere01,NULL,Rex,Edward,Barney,NULL,NULL,NULL,NULL,G,0,0,74,185,none,NULL,1924-12-19,Omaha,NE,USA,"Creighton Prep",Omaha,NE,USA,1997-08-12,W
+barnesh01,NULL,Shannie,S.,Barnett,NULL,NULL,NULL,NULL,F-C,0,0,75,175,none,NULL,1919-02-08,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1991-07-02,B
+barnhjo01,John,John,Anthony,Barnhill,NULL,NULL,NULL,Rabbit,G,0,0,73,170,"Tennessee State",NULL,1938-03-20,Evansville,IN,USA,Lincoln,Evansville,IN,USA,0000-00-00,B
+barnhle01,Leo,Leo,A.,Barnhorst,NULL,NULL,NULL,Barney,F-G,0,0,76,190,"Notre Dame",NULL,1924-05-17,"Beech Grove",IN,USA,Cathedral,Indianapolis,IN,USA,2000-08-25,W
+barnhno01,Norton,Norton,NULL,Barnhill,NULL,NULL,NULL,NULL,G,0,0,76,205,"Washington State",NULL,1953-07-15,Winston-Salem,NC,USA,"West Forsyth / Anderson / Atkins","Clemmons / Winston-Salem / Winston-Salem",NC,USA,0000-00-00,B
+baronto01,Tony,Tony,NULL,Barone,NULL,NULL,NULL,NULL,NULL,0,0,0,0,Duke,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+barrean01,Andre,Andre,Rashawd,Barrett,NULL,NULL,NULL,NULL,G,0,0,70,172,"Seton Hall",NULL,1982-02-21,Bronx,NY,USA,Rice,"New York",NY,USA,0000-00-00,B
+barreer01,Ernie,Ernie,Drew,Barrett,NULL,NULL,NULL,"Black Jack",G-F,0,0,75,180,"Kansas State",NULL,1929-08-27,Pratt,KS,USA,Wellington,Wellington,KS,USA,0000-00-00,W
+barremi01,Mike,Michael,Thomas,Barrett,NULL,NULL,NULL,"Mike, Bird Man",G,0,0,74,155,"West Virginia Tech",NULL,1943-09-05,Montgomery,WV,USA,Richwood,Richwood,WV,USA,2011-08-09,W
+barrito01,Tom,Tom,NULL,Barrise,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+barrjo01,John,John,E.,Barr,NULL,NULL,NULL,Johnny,F,0,0,75,205,"Penn State",NULL,1918-08-08,NULL,NULL,NULL,Shamokin,Shamokin,PA,USA,2002-07-01,W
+barrmi01,Mike,Michael,J.,Barr,NULL,NULL,NULL,Mike,G,0,0,75,180,Duquesne,NULL,1950-10-19,Canton,OH,USA,Lehman,Canton,OH,USA,0000-00-00,W
+barrmo01,Moe,Thomas,L.,Barr,NULL,NULL,NULL,Moe,G,0,0,76,195,Duquesne,NULL,1944-06-19,"(ht) Pittsburgh",PA,USA,"Penn Hills","Penn Hills",PA,USA,0000-00-00,W
+barroda01,Dana,Dana,Bruce,Barros,NULL,NULL,NULL,NULL,G,0,0,71,163,"Boston College",NULL,1967-04-13,Boston,MA,USA,Xaverian,Westwood,MA,USA,0000-00-00,B
+barroea01,Earl,Earl,Daniel,Barron,NULL,NULL,Jr.,NULL,C,0,0,84,245,Memphis,NULL,1981-08-14,Clarksdale,MS,USA,Clarksdale,Clarksdale,MS,USA,0000-00-00,B
+barrybr01,Brent,Brent,Robert,Barry,NULL,NULL,NULL,Bones,G,0,0,78,185,"Oregon State",NULL,1971-12-31,Hempstead,NY,USA,"De La Salle Catholic",Concord,CA,USA,0000-00-00,W
+barrydr01,Drew,Drew,William,Barry,NULL,NULL,NULL,NULL,G,0,0,77,190,"Georgia Tech",NULL,1973-02-17,Oakland,CA,USA,"De La Salle Catholic",Concord,CA,USA,0000-00-00,W
+barryjo01,Jon,Jon,Alan,Barry,NULL,NULL,NULL,J.B.,G,0,0,76,195,"Georgia Tech","Pacific/Paris JC",1969-07-25,Oakland,CA,USA,"De La Salle Catholic",Concord,CA,USA,0000-00-00,W
+barryri01,Rick,Richard,"Francis  Dennis",Barry,NULL,NULL,III,Rick,F,0,0,79,205,"Miami (FL)",NULL,1944-03-28,Elizabeth,NJ,USA,"Roselle Park","Roselle Park",NJ,USA,0000-00-00,W
+barteed01,Ed,Edward,John,Bartels,NULL,NULL,NULL,Ed,F,0,0,77,195,"North Carolina State",NULL,1925-10-08,"New York",NY,USA,"LaSalle Academy","New York",NY,USA,2007-11-04,W
+bartovi01,Vic,Victor,NULL,Bartolome,NULL,NULL,NULL,Vic,C,0,0,84,230,"Oregon State",NULL,1948-09-29,"Santa Barbara",CA,USA,"Santa Barbara","Santa Barbara",CA,USA,0000-00-00,W
+basdeed01,Eddie,Edward,Richard,Basden,NULL,NULL,NULL,Eddie,G,0,0,77,215,Charlotte,NULL,1983-02-15,"New York",NY,USA,"Eleanor Roosevelt",Greenbelt,MD,USA,0000-00-00,B
+basicpe01,NULL,Pete,P.,Basich,NULL,NULL,NULL,NULL,G,0,0,69,145,"Michigan State","Ohio State (M.A.)",1915-06-25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+baskeje01,Jerry,Jerry,W.,Baskerville,NULL,NULL,NULL,NULL,F,0,0,79,190,Temple,UNLV,1951-11-10,Philadelphia,PA,USA,"Thomas Edison",Philadelphia,PA,USA,0000-00-00,B
+bassbo01,Bob,Bob,NULL,Bass,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+bassbr01,Brandon,Brandon,Sam,Bass,NULL,NULL,NULL,"B Bass",F,0,0,80,240,"Louisiana State",NULL,1985-04-30,"Baton Rouge",LA,USA,Capitol,"Baton Rouge",LA,USA,0000-00-00,B
+basseti01,Tim,Eugene,Timothy,Bassett,NULL,NULL,NULL,Tim,F-C,0,0,80,225,Georgia,"Southern Idaho",1951-04-01,Washington,DC,USA,McKinley,Washington,DC,USA,0000-00-00,B
+bastoma01,Maceo,Maceo,Demond,Baston,NULL,NULL,NULL,NULL,F,0,0,81,215,"Michigan ",NULL,1975-05-29,Corsicana,TX,USA,"H. Grady Spruce",Dallas,TX,USA,0000-00-00,B
+bateeme01,Mengke,Mengke,NULL,Bateer,NULL,NULL,NULL,Dinosaur,C,0,0,83,290,none,NULL,1975-11-20,"Inner Mongolia",NULL,CHN,NULL,NULL,NULL,NULL,0000-00-00,O
+batesbi01,"Billy Ray",Billy,Ray,Bates,NULL,NULL,NULL,"Billy Ray, Dunk",G,0,0,76,210,"Kentucky State",NULL,1956-05-31,Kosciusko,MS,USA,McAdams,Camden,MS,USA,0000-00-00,B
+batises01,Esteban,Esteban,Damian,"Batista Hernandez",NULL,NULL,NULL,NULL,F-C,0,0,82,270,none,NULL,1983-09-02,Montevideo,NULL,URU,NULL,NULL,NULL,NULL,0000-00-00,W
+batismi01,Mike,Michael,James,Batiste,NULL,NULL,NULL,Mike,F,0,0,80,225,"Arizona State","Long Beach CC",1977-11-21,Inglewood,CA,USA,Wilson,"Long Beach",CA,USA,0000-00-00,B
+battebu01,NULL,Virgil,NULL,Batterman,NULL,NULL,NULL,Buck,F,0,0,75,195,Wisconsin-Oshkosh,NULL,1918-04-01,Oshkosh,WI,USA,Oshkosh,Oshkosh,WI,USA,1999-01-05,W
+battish01,Shane,Shane,Courtney,Battier,NULL,NULL,NULL,NULL,G-F,0,0,80,220,Duke,NULL,1978-09-09,Birmingham,MI,USA,"Detroit Country Day","Beverly Hills",MI,USA,0000-00-00,B
+battito01,Tony,Demetrius,Antonio,Battie,NULL,NULL,NULL,Tony,C-F,0,0,83,230,"Texas Tech",NULL,1976-02-11,Dallas,TX,USA,"South Oak Cliff",Dallas,TX,USA,0000-00-00,B
+battljo01,John,John,Sidney,Battle,NULL,NULL,NULL,"Cricket, Pickle, J.B.",G,0,0,74,175,Rutgers,NULL,1962-11-09,Washington,DC,USA,McKinley,Washington,DC,USA,0000-00-00,B
+battlke01,Kenny,Kenneth,R.,Battle,NULL,NULL,NULL,Kenny,F,0,0,78,210,Illinois,"Northern Illinois",1964-10-10,Aurora,IL,USA,"Aurora West",Aurora,IL,USA,0000-00-00,B
+battoda01,Dave,David,Robert,Batton,NULL,NULL,NULL,Dave,C,0,0,82,240,"Notre Dame",NULL,1956-03-26,Baltimore,MD,USA,"Delaware County",Springfield,PA,USA,0000-00-00,W
+battsll01,Lloyd,Lloyd,NULL,Batts,NULL,NULL,NULL,NULL,G-F,0,0,76,185,Cincinnati,NULL,1951-05-09,Chicago,IL,USA,Thornton,Harvey,IL,USA,0000-00-00,B
+batumni01,Nicolas,Nicolas,NULL,Batum,NULL,NULL,NULL,NULL,F-G,0,0,80,200,none,NULL,1988-12-14,Lisieux,NULL,FRA,NULL,NULL,NULL,NULL,0000-00-00,B
+baumhfr01,Frankie,Frank,Conrad,Baumholtz,NULL,NULL,NULL,Frankie,G,0,0,70,170,"Ohio University",NULL,1918-10-07,Midvale,OH,USA,Midvale,Midvale,OH,USA,1997-12-14,W
+baumjo01,Johnny,John,NULL,Baum,NULL,NULL,NULL,Johnny,F,0,0,77,200,Temple,"Pierce JC",1946-06-17,Philadelphia,PA,USA,"West ",Philadelphia,PA,USA,0000-00-00,B
+baxtelo01,Lonny,Lonny,Leroy,Baxter,NULL,NULL,NULL,NULL,F,0,0,79,260,Maryland,NULL,1979-07-27,"Silver Spring",MD,USA,"Montgomery / Anacostia / Hargrave","Rockville / Washington / Chatham","MD / DC / VA",USA,0000-00-00,B
+bayleje01,Jerryd,Jerryd,Andrew,Bayless,NULL,NULL,NULL,NULL,G,0,0,75,200,"Arizona ",NULL,1988-08-20,Phoenix,AZ,USA,"St. Mary's",Phoenix,AZ,USA,0000-00-00,B
+bayloel01,Elgin,Elgin,Gay,Baylor,NULL,NULL,NULL,Rabbit,F,0,0,77,225,Seattle,"College of Idaho",1934-09-16,Washington,DC,USA,"Spingarn / Phelps Vocational",Washington,DC,USA,0000-00-00,B
+bayneho01,Howard,Howard,Edgar,Bayne,NULL,NULL,NULL,NULL,F,0,0,78,235,Tennessee,NULL,1942-07-28,"(ht) Dayton",OH,USA,"Colonel White",Dayton,OH,USA,0000-00-00,W
+bazarse01,Sergei,Sergei,Valeryanovich,Bazarevich,NULL,NULL,NULL,NULL,G,0,0,74,162,"State Academy of Phys Ed.",NULL,1965-03-16,Moscow,NULL,RUS,NULL,NULL,NULL,NULL,0000-00-00,W
+beached01,Ed,Edward,Leon,Beach,NULL,NULL,Jr.,Ed,F,0,0,75,200,"West Virginia ",NULL,1929-01-25,NULL,NULL,NULL,"Thomas Jefferson",Elizabeth,NJ,USA,1996-03-15,W
+beardal01,Al,Albert,NULL,Beard,NULL,NULL,NULL,Al,C,0,0,81,200,"Norfolk State",NULL,1942-04-27,"Fort Valley",GA,USA,"H.A. Hunt","Fort Valley",GA,USA,0000-00-00,B
+beardbu01,Butch,Alfred,NULL,Beard,NULL,NULL,Jr.,Butch,G,0,0,75,185,Louisville,NULL,1947-05-04,Hardinsburg,KY,USA,"Breckenridge County",Hardinsburg,KY,USA,0000-00-00,B
+beardra01,Ralph,Ralph,Milton,Beard,NULL,NULL,Jr.,NULL,G,0,0,70,175,Kentucky,NULL,1927-12-02,Hardinsburg,KY,USA,Male,Louisville,KY,USA,2007-11-29,W
+beaslch01,Charlie,Charles,P.,Beasley,NULL,NULL,NULL,Charlie,G-F,0,0,77,190,"Southern Methodist",NULL,1945-09-23,Shawnee,OK,USA,"Fair Park",Shreveport,LA,USA,0000-00-00,W
+beaslje01,Jerome,Jerome,NULL,Beasley,NULL,NULL,NULL,NULL,F,0,0,81,237,"North Dakota","Midland JC",1980-05-17,Compton,CA,USA,"Moreno Valley","Moreno Valley",CA,USA,0000-00-00,B
+beasljo01,John,John,Michael,Beasley,NULL,NULL,NULL,NULL,F-C,0,0,81,225,"Texas A&M",NULL,1944-02-05,Texarkana,TX,USA,Linden-Kildare,Kildare,TX,USA,0000-00-00,W
+beaslmi01,Michael,Michael,Paul,Beasley,NULL,NULL,NULL,NULL,F,0,0,82,245,"Kansas State",NULL,1989-01-09,Frederick,MD,USA,"Natl Christian Acad /Riverdale Baptist/Oak Hill/ N.D. Prep","Ft. Washington/Upper Marlboro/Mo Wilson/Fitchburg",MD/MD/VA/MA,USA,0000-00-00,B
+beatyfr01,NULL,Frank,NULL,Beaty,NULL,NULL,NULL,NULL,F,0,0,74,205,"Rochester Tech",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+beatyze01,Zelmo,Zelmo,NULL,Beaty,NULL,NULL,Jr.,"Big Z, Mr. Clean",C,0,0,81,225,"Prairie View A&M",NULL,1939-10-25,Hillister,TX,USA,Woodville,Woodville,TX,USA,0000-00-00,B
+beaubro01,Rodrigue,Rodrigue,NULL,Beaubois,NULL,NULL,NULL,NULL,G,0,0,72,170,none,NULL,1988-02-24,"Point-a-Pitre, Guadeloupe",NULL,FRA,NULL,NULL,NULL,NULL,0000-00-00,B
+beckby01,Byron,A.,Byron,Beck,NULL,NULL,NULL,Byron,C-F,0,0,81,225,Denver,"Columbia Basin",1945-01-25,Ellensburg,WA,USA,Kittitas,Ellensburg,WA,USA,0000-00-00,W
+beckco01,Corey,Corey,Laveon,Beck,NULL,NULL,NULL,NULL,G,0,0,73,190,Arkansas,"South Plains",1971-05-27,Memphis,TN,USA,Fairley,Memphis,TN,USA,0000-00-00,B
+beckear01,Art,Arthur,C.,Becker,NULL,NULL,NULL,"Art, Beck",F,0,0,78.5,205,"Arizona State",NULL,1942-01-12,Akron,OH,USA,Camelback,Phoenix,AZ,USA,0000-00-00,W
+beckemo01,Moe,Morris,R.,Becker,NULL,NULL,NULL,Moe,G-F,0,0,73,185,Duquesne,NULL,1917-02-24,NULL,NULL,NULL,"Fifth Avenue",Pittsburgh,PA,USA,1996-01-09,W
+becker01,Ernie,Ernest,Joseph,Beck,NULL,NULL,NULL,Ernie,G-F,0,0,76,190,Pennsylvania,NULL,1931-12-11,Philadelphia,PA,USA,"West Catholic",Philadelphia,PA,USA,0000-00-00,W
+becketo01,NULL,Tom,NULL,Becker,NULL,NULL,NULL,NULL,F,0,0,73,180,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+beckla01,NULL,Lawrence,NULL,Beck,NULL,NULL,NULL,Larry,F,0,0,75,195,"Washington State",NULL,0000-00-00,NULL,NULL,NULL,"South Bend ","South Bend",WA,USA,0000-00-00,W
+bedelbo01,Bob,Robert,George,Bedell,NULL,NULL,NULL,Bob,F,0,0,79,205,Stanford,NULL,1944-06-26,"Los Angeles",CA,USA,"Bell Gardens","Bell Gardens",CA,USA,0000-00-00,W
+bedfowi01,William,William,NULL,Bedford,NULL,NULL,NULL,NULL,C,0,0,84,225,"Memphis State",NULL,1963-12-14,Memphis,TN,USA,Melrose,Memphis,TN,USA,0000-00-00,B
+beecl01,Clair,Clair,NULL,Bee,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+beendha01,Hank,Henry,G.,Beenders,NULL,NULL,NULL,Hank,C-F,0,0,77.5,185,LIU,NULL,1916-06-02,Haarlem,NULL,HOL,"North Plainfield","North Plainfield",NJ,USA,2003-10-25,W
+beerydo01,NULL,Don,NULL,Beery,NULL,NULL,NULL,NULL,G,0,0,72,180,none,NULL,0000-00-00,NULL,NULL,NULL,"South Side","Fort Wayne",IN,USA,0000-00-00,W
+behagro01,Ron,Ronald,Michael,Behagen,NULL,NULL,NULL,Ron,F-C,0,0,81,185,Minnesota,"Southern Idaho",1951-01-14,"New York",NY,USA,"DeWitt Clinton",Bronx,NY,USA,0000-00-00,B
+behnkel01,Elmer,Elmer,H.,Behnke,NULL,NULL,NULL,NULL,C,0,0,79,210,Bradley,NULL,1929-02-03,Rockford,IL,USA,Marengo,Marengo,IL,USA,0000-00-00,W
+behrbi01,NULL,Bill,NULL,Behr,NULL,NULL,NULL,NULL,G,0,0,74,190,none,NULL,0000-00-00,NULL,NULL,NULL,Frankfort,Frankfort,IN,USA,0000-00-00,W
+belinma01,Marco,Marco,Stefano,Belinelli,NULL,NULL,NULL,Beli,G,0,0,77,192,none,NULL,1986-03-25,"San Giovanni Persiceto",NULL,ITA,NULL,NULL,NULL,NULL,0000-00-00,W
+bellawa01,Walt,Walter,Jones,Bellamy,NULL,NULL,NULL,"Walt, Bells",C,0,0,82.5,225,Indiana,NULL,1939-07-24,"New Bern",NC,USA,"J.T. Barber","New Bern",NC,USA,0000-00-00,B
+bellby01,NULL,Byron,O.,Bell,NULL,NULL,NULL,NULL,C,0,0,75,180,Wisconsin,NULL,1914-06-09,Neenah,WI,USA,Neenah,Neenah,WI,USA,2008-10-18,W
+bellch01,Charlie,Charlie,Will,Bell,NULL,NULL,III,NULL,G,0,0,75,200,"Michigan State",NULL,1979-03-12,Flint,MI,USA,"Southwestern Academy",Flint,MI,USA,0000-00-00,B
+bellde01,Dennis,Dennis,R.,Bell,NULL,NULL,NULL,NULL,F,0,0,77,185,Drake,"Gulf Coast CC",1951-06-02,Cincinnati,OH,USA,Wyoming,Cincinnati,OH,USA,0000-00-00,B
+bellira01,NULL,Raymond,T.,Bellingham,NULL,NULL,NULL,Ray,C,0,0,80,200,"Westminster (PA)",NULL,1916-10-29,"(ht) Wesleyville",PA,USA,NULL,NULL,NULL,NULL,1998-12-21,W
+bellra01,Raja,Raja,NULL,Bell,NULL,NULL,NULL,NULL,G,0,0,77,210,"Florida International","Boston U.",1976-09-19,"St. Croix",NULL,ISV,Killian,Miami,FL,USA,0000-00-00,B
+belltr01,Troy,Troy,Devon,Bell,NULL,NULL,NULL,NULL,G,0,0,73,180,"Boston College",NULL,1980-11-10,Minneapolis,MN,USA,"Academy of Holy Angels",Richfield,MN,USA,0000-00-00,B
+bellwh01,Whitey,William,Hoyet,Bell,NULL,NULL,NULL,"Whitey, Popeye",G,0,0,72,174,"North Carolina State",NULL,1932-09-13,Monticello,KY,USA,Warsaw,Warsaw,IN,USA,0000-00-00,W
+belmojo01,Joe,Joe,NULL,Belmont,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+bemorir01,Irv,Irving,NULL,Bemoras,NULL,NULL,NULL,Irv,F-G,0,0,75,185,Illinois,NULL,1930-11-18,Chicago,IL,USA,Marshall,Chicago,IL,USA,2007-11-01,W
+benbole01,Leon,Leon,NULL,Benbow,NULL,NULL,NULL,NULL,G,0,0,76,185,Jacksonville,NULL,1950-07-23,Columbia,SC,USA,"Booker T. Washington",Columbia,SC,USA,0000-00-00,B
+bendejo01,Jonathan,Jonathan,Rene,Bender,NULL,NULL,NULL,NULL,F,0,0,83,198,none,NULL,1981-01-30,Picayune,MS,USA,"Picayune Memorial",Picayune,MS,USA,0000-00-00,B
+benjabe01,Benoit,Lenard,Benoit,Benjamin,NULL,NULL,NULL,"Benoit, Big Ben",C,0,0,84,250,Creighton,NULL,1964-11-22,Monroe,LA,USA,Carroll,Monroe,LA,USA,0000-00-00,B
+benjaco01,Corey,Corey,Dwight,Benjamin,NULL,NULL,NULL,NULL,G,0,0,78,200,"Oregon State",NULL,1978-02-24,Compton,CA,USA,Fontana,Fontana,CA,USA,0000-00-00,B
+benneca01,Carl,Carl,NULL,Bennett,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+benneel01,Elmer,Elmer,James,Bennett,NULL,NULL,NULL,NULL,G,0,0,72,170,"Notre Dame",NULL,1970-02-13,Evanston,IL,USA,Bellaire,Bellaire,TX,USA,0000-00-00,B
+bennema01,Mario,Mario,Marcell,Bennett,NULL,NULL,NULL,NULL,F,0,0,81,220,"Arizona State",NULL,1973-08-01,Denton,TX,USA,Denton,Denton,TX,USA,0000-00-00,B
+benneme01,Mel,Melvin,P.,Bennett,NULL,NULL,NULL,Mel,F,0,0,79,200,Pittsburgh,NULL,1955-01-04,Pittsburgh,PA,USA,Peabody,Pittsburgh,PA,USA,0000-00-00,B
+bennesp01,Spider,Willis,NULL,Bennett,NULL,NULL,NULL,Spider,G,0,0,75,190,Winston-Salem,NULL,1943-08-04,Lakewood,NJ,USA,"Laurinburg Institute",Laurinburg,NC,USA,0000-00-00,B
+benneto01,Tony,Anthony,Guy,Bennett,NULL,NULL,NULL,Tony,G,0,0,72,175,"Wisconsin-Green Bay",NULL,1969-06-01,"Green Bay",WI,USA,Preble,"Green Bay",WI,USA,0000-00-00,W
+bennewe01,NULL,Talmadge,Wesley,Bennett,NULL,NULL,NULL,"Wes, Wesley",C-F,0,0,75,175,"Westminster (PA)",NULL,1913-03-31,Nashville,TN,USA,East,Akron,OH,USA,2002-08-20,W
+bennewi01,Winston,Winston,George,Bennett,NULL,NULL,III,"Steady Bee",F,0,0,79,210,Kentucky,NULL,1965-02-09,Louisville,KY,USA,Male,Louisville,KY,USA,0000-00-00,B
+benoida01,David,David,NULL,Benoit,NULL,NULL,NULL,NULL,F,0,0,80,220,Alabama,"Tyler JC",1968-05-09,Lafayette,LA,USA,Lafayette,Lafayette,LA,USA,0000-00-00,B
+bensoal01,NULL,Al,NULL,Benson,NULL,NULL,NULL,NULL,C,0,0,78,220,none,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+bensoca01,NULL,Calvin,NULL,Benson,NULL,NULL,NULL,NULL,F,0,0,77,215,"Oklahoma Baptist (JC)",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+bensoke01,Kent,Michael,Kent,Benson,NULL,NULL,NULL,"Kent, Benny",C,0,0,82,235,Indiana,NULL,1954-12-27,"New Castle",IN,USA,Chrysler,"New Castle",IN,USA,0000-00-00,W
+bensoke02,Keith,Keith,A.,Benson,NULL,NULL,Jr.,NULL,F-C,0,0,83,230,Oakland,NULL,1988-08-13,Cleveland,OH,USA,"Detroit Country Day","Beverly Hills",MI,USA,0000-00-00,B
+berbejo01,NULL,John,P.,Berberich,NULL,NULL,NULL,NULL,C,0,0,80,230,UCLA,NULL,1938-04-08,"Los Angeles",CA,USA,DNP,NULL,CA,USA,2002-06-19,W
+bercege01,Gene,Eugene,D.,Berce,NULL,NULL,NULL,Gene,G-F,0,0,71,175,Marquette,Cornell,1926-11-22,NULL,NULL,NULL,Marquette,Milwaukee,WI,USA,0000-00-00,W
+berenbe01,NULL,Bernard,NULL,Berens,NULL,NULL,NULL,"Beanie, Bernie",C,0,0,77,190,"Ohio University",NULL,1913-02-26,NULL,NULL,NULL,"St. Mary's",Lancaster,OH,USA,0000-00-00,W
+beretfr01,NULL,Fred,NULL,Beretta,NULL,NULL,NULL,NULL,G,0,0,0,0,Purdue,NULL,0000-00-00,NULL,NULL,NULL,Bedford,Bedford,IN,USA,0000-00-00,W
+bergega01,Gary,Gary,Dean,Bergen,NULL,NULL,NULL,NULL,C,0,0,80,210,Utah,"Kansas State",1932-07-16,Independence,MO,USA,"William Chrisman",Independence,MO,USA,0000-00-00,W
+berghla01,Larry,Larry,Clifford,Bergh,NULL,NULL,NULL,NULL,F,0,0,79.5,210,"Weber State",NULL,1945-04-02,"(ht) Walla Walla",WA,USA,DeSales,"Walla Walla",WA,USA,0000-00-00,W
+berrybi01,Bill,Bill,NULL,Berry,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+berryco01,NULL,Connie,Mack,Berry,NULL,NULL,NULL,Warhouse,F-C,0,0,75,200,"North Carolina State",NULL,1915-04-19,Spartanburg,SC,USA,Parker,Spartanburg,SC,USA,1980-06-24,W
+berryri01,Ricky,Ricky,Alan,Berry,NULL,NULL,NULL,NULL,F,0,0,80,205,"San Jose State","Oregon State",1964-10-06,Lansing,MI,USA,"Live Oak","Morgan Hill",CA,USA,1989-08-14,B
+berrywa01,Walter,Walter,NULL,Berry,NULL,NULL,NULL,Truth,F,0,0,80,215,"St. John's (NY)","San Jacinto JC",1964-05-14,"New York",NY,USA,Morris/Clinton/Franklin,"Bronx / Bronx / Brooklyn",NY,USA,0000-00-00,B
+bertkbi01,Bill,Bill,NULL,Bertka,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+beshode01,Del,Delmer,NULL,Beshore,NULL,NULL,NULL,Del,G,0,0,71,165,"California (PA)",NULL,1956-11-29,Mechanicsburg,PA,USA,"Red Land","New Cumberland",PA,USA,0000-00-00,W
+besttr01,Travis,Travis,Eric,Best,NULL,NULL,NULL,NULL,G,0,0,71,182,"Georgia Tech",NULL,1972-07-12,Springfield,MA,USA,"Springfield Central",Springfield,MA,USA,0000-00-00,B
+betoudo01,NULL,Donald,J.,Betourne,NULL,NULL,NULL,Don,F,0,0,73,200,"St. Viator",NULL,1915-02-27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2002-03-18,W
+bialowe01,Wes,Wesley,John,Bialosuknia,NULL,NULL,NULL,"Wes, Poughkeepsie Popper",G,0,0,74,185,Connecticut,NULL,1945-06-08,Poughkeepsie,NY,USA,"Franklin D Roosevelt","Hyde Park",NY,USA,0000-00-00,W
+biancal01,Al,Alfred,A.,Bianchi,NULL,NULL,NULL,Al,G,0,0,75,185,"Bowling Green",NULL,1932-03-26,"Long Island City",NY,USA,"Long Island City","Long Island City",NY,USA,0000-00-00,W
+biancjo01,NULL,Johnny,NULL,Bianco,NULL,NULL,NULL,NULL,C,0,0,76,195,"St. John's (NY)",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+biasaha01,Hank,Henry,Arcado,Biasatti,NULL,NULL,NULL,Hank,G,0,0,71,175,"Assumption (ONT)",NULL,1922-01-14,Beano,NULL,ITA,"Gordon McGregor",Windsor,ON,CAN,1996-04-20,W
+bibbyhe01,Henry,Charles,Henry,Bibby,NULL,NULL,NULL,Henry,G,0,0,73,185,UCLA,NULL,1949-11-24,Franklinton,NC,USA,Person-Albion,Franklinton,NC,USA,0000-00-00,B
+bibbymi01,Mike,Michael,NULL,Bibby,NULL,NULL,NULL,Mike,G,0,0,73,190,Arizona,NULL,1978-05-13,"Cherry Hill",NJ,USA,"Shadow Mountain",Phoenix,AZ,USA,0000-00-00,B
+bickebe01,Bernie,Bernie,NULL,Bickerstaff,NULL,NULL,NULL,NULL,NULL,0,0,75,185,"San Diego",NULL,1944-02-11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+biedeed01,Ed,Edward,Joseph,Biedenbach,NULL,NULL,NULL,"Ed, Eddie",G,0,0,73,175,"North Carolina State",NULL,1945-08-12,Pittsburgh,PA,USA,Edgewood,Edgewood,PA,USA,0000-00-00,W
+biedran01,Andris,Andris,NULL,Biedrins,NULL,NULL,NULL,NULL,F,0,0,83,240,none,NULL,1986-04-02,Riga,NULL,LAT,"Valters Basketball School",Riga,NULL,LAT,0000-00-00,1
+bielkdo01,Don,Donald,P.,Bielke,NULL,NULL,NULL,Don,C,0,0,79,240,Valparaiso,NULL,0000-00-00,NULL,NULL,NULL,Wilson,"St. Paul",MN,USA,0000-00-00,W
+bigelbo01,Bob,Robert,S.,Bigelow,NULL,NULL,NULL,Bob,F-G,0,0,79,215,Pennsylvania,NULL,1953-12-26,Boston,MA,USA,Winchester,Winchester,MA,USA,0000-00-00,W
+biggsma01,NULL,Max,NULL,Biggs,NULL,NULL,NULL,NULL,F-C,0,0,72,190,Purdue,NULL,0000-00-00,NULL,NULL,NULL,Jefferson,Lafayette,IN,USA,0000-00-00,W
+billili01,Lionel,Lionel,NULL,Billingy,NULL,NULL,NULL,"Big Train",F-C,0,0,81,215,Duquesne,NULL,1952-08-31,NULL,NULL,NULL,"Our Savior Lutheran",Bronx,NY,USA,0000-00-00,B
+billuch01,Chauncey,Chauncey,Ray,Billups,NULL,NULL,NULL,NULL,G,0,0,75,202,Colorado,NULL,1976-09-25,Denver,CO,USA,"George Washington",Denver,CO,USA,0000-00-00,B
+bingda01,Dave,David,NULL,Bing,NULL,NULL,NULL,Dave,G,0,0,75,180,Syracuse,NULL,1943-11-24,Washington,DC,USA,Spingarn,Washington,DC,USA,0000-00-00,B
+biniojo01,Joe,Joe,NULL,Binion,NULL,NULL,NULL,NULL,F,0,0,80,225,"North Carolina A&T",NULL,1961-03-26,Rochester,NY,USA,Madison,Rochester,NY,USA,0000-00-00,B
+binstma01,Mark,Mark,NULL,Binstein,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+bioID,bioID,firstName,middleName,lastName,nameGiven,fullGivenName,nameSuffix,nameNick,pos,0,0,0,0,college,collegeOther,0000-00-00,birthCity,birthState,birthCountry,highSchool,hsCity,hsState,hsCountry,0000-00-00,r
+birchpa01,Paul,Paul,NULL,Birch,NULL,NULL,NULL,Polly,F-G-C,0,0,73,190,Duquesne,NULL,1910-01-04,Homestead,PA,USA,Homestead,Homestead,PA,USA,1982-06-05,W
+birdje01,Jerry,Jerry,Lee,Bird,NULL,NULL,NULL,NULL,F,0,0,78,200,Kentucky,NULL,1935-02-02,Corbin,KY,USA,Corbin,Corbin,KY,USA,0000-00-00,W
+birdla01,Larry,Larry,Joe,Bird,NULL,NULL,NULL,NULL,F-G,0,0,81,220,"Indiana State","Indiana/Northwood Institute",1956-12-07,"West Baden",IN,USA,"Springs Valley","French Lick",IN,USA,0000-00-00,W
+birdsot01,Otis,Otis,Lee,Birdsong,NULL,NULL,NULL,Bird,G,0,0,75,190,Houston,NULL,1955-12-09,"Winter Haven",FL,USA,"Winter Haven","Winter Haven",FL,USA,0000-00-00,B
+birkem01,NULL,Emmet,C.,Birk,NULL,NULL,NULL,NULL,F,0,0,73,185,"North Dakota",NULL,1914-03-21,"Park River",ND,USA,"Park River","Park River",ND,USA,2000-11-06,W
+birrji01,NULL,James,NULL,Birr,NULL,NULL,NULL,"Jim, Crash",F-C,0,0,75,215,Indiana,NULL,1916-08-22,"(ht) Indianapolis",IN,USA,Shortridge,Indianapolis,IN,USA,2006-06-08,W
+bishoga01,Gale,Robert,Gale,Bishop,NULL,NULL,NULL,Gale,F,0,0,75,195,"Washington State",NULL,1922-06-04,Bellingham,WA,USA,Sumas-Nooksack,Sumas,WA,USA,2003-12-26,W
+bishora01,NULL,Ralph,English,Bishop,NULL,NULL,NULL,NULL,F,0,0,75,185,Washington,"Yakima JC",1915-10-01,Brooklyn,NY,USA,Yakima,Yakima,WA,USA,0000-00-00,W
+biyombi01,Bismack,Bismack,NULL,"Biyombo Sumba",NULL,NULL,NULL,NULL,F,0,0,81,229,none,NULL,1992-08-28,Lumbumbashi,NULL,CON,NULL,NULL,NULL,NULL,0000-00-00,B
+blabuw01,Uwe,Uwe,Konstantine,Blab,NULL,NULL,NULL,NULL,C,0,0,85,250,Indiana,NULL,1962-03-26,Munich,NULL,GER,Effingham,Effingham,IL,USA,0000-00-00,W
+blackal01,Alex,Robert,Alexander,Blackwell,NULL,NULL,NULL,Alex,F,0,0,78,250,"Monmouth College",NULL,1970-06-27,"Toms River",NJ,USA,"North / Oak Hill Academy","Toms River / Mouth of Wilson","NJ / VA",USA,0000-00-00,B
+blackch01,Charlie,Charles,Bradford,Black,NULL,NULL,Jr.,"Charlie, Hawk",F-C,0,0,76,195,Kansas,NULL,1921-06-15,Arco,ID,USA,"Highland Park",Topeka,KS,USA,1992-12-22,W
+blackco01,Cory,Cory,NULL,Blackwell,NULL,NULL,NULL,NULL,F,0,0,78,210,Wisconsin,NULL,1963-03-27,Chicago,IL,USA,"Crane Tech",Chicago,IL,USA,0000-00-00,B
+blackge01,NULL,Thermon,Talmadge,Blacklidge,NULL,NULL,NULL,Blackie,F,0,0,75,185,"Delta State","Jones JC",1920-03-19,Moselle,MS,USA,Rainey,Rainey,MS,USA,1972-07-06,W
+blackja01,James,James,NULL,Blackwell,NULL,NULL,NULL,NULL,G,0,0,72,190,Dartmouth,NULL,1968-02-25,"Mount Kisco",NY,USA,"Fox Lane / Deerfield Academy","Bedford / Deerfield","NY / MA",USA,0000-00-00,B
+blackna01,Nate,Nathaniel,NULL,Blackwell,NULL,NULL,NULL,Nate,G,0,0,76,170,Temple,NULL,1965-02-15,Philadelphia,PA,USA,"South Philadelphia",Philadelphia,PA,USA,0000-00-00,B
+blackno01,Norman,Norman,Augustus,Black,NULL,NULL,NULL,NULL,G,0,0,77,185,"St. Joseph's (PA)",NULL,1957-11-12,Baltimore,MD,USA,"Cardinal Gibbons",Baltimore,MD,USA,0000-00-00,B
+blackro01,Rolando,Rolando,Antonio,Blackman,NULL,NULL,NULL,Ro,G,0,0,78,190,"Kansas State",NULL,1959-02-26,"Panama City",NULL,PAN,"William E. Grady Vocational",Brooklyn,NY,USA,0000-00-00,B
+blackto01,Tom,Thomas,Donald,Black,NULL,NULL,NULL,Tom,C,0,0,82,220,"South Dakota State",Wisconsin,1941-07-09,LaCrosse,WI,USA,"West Salem","West Salem",WI,USA,0000-00-00,W
+blairbi01,Bill,Bill,NULL,Blair,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+blairde01,DeJuan,DeJuan,Lamont,Blair,NULL,NULL,NULL,NULL,F,0,0,79,265,Pittsburgh,NULL,1989-04-22,Pittsburgh,PA,USA,Schenley,Pittsburgh,PA,USA,0000-00-00,B
+blakebi01,Bill,Bill,NULL,Blakely,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+blakest01,Steve,Steven,Hanson,Blake,NULL,NULL,NULL,Steve,G,0,0,75,172,Maryland,NULL,1980-02-26,Hollywood,FL,USA,"Killian / Miami Senior / Oak Hill Academy","Miami / Miami / Mouth of Wilson","FL / FL / VA",USA,0000-00-00,W
+blalowi01,Will,William,Anthony,Blalock,NULL,NULL,NULL,Will,G,0,0,72,205,"Iowa State",NULL,1983-09-08,Boston,MA,USA,"East Boston / Notre Dame Prep","Boston / Fitchburg","MA / MA",USA,0000-00-00,B
+blanege01,George,George,R.,Blaney,NULL,NULL,NULL,NULL,G,0,0,73,175,"Holy Cross",NULL,1939-11-12,"Jersey City",NJ,USA,"St. Peter's Prep","Jersey City",NJ,USA,0000-00-00,W
+blankla01,Lance,Lance,NULL,Blanks,NULL,NULL,NULL,NULL,G,0,0,76,190,Texas,Virginia,1966-09-09,"Del Rio",TX,USA,McCullough,"The Woodlands",TX,USA,0000-00-00,B
+blantri01,Ricky,Ricky,Wayne,Blanton,NULL,NULL,NULL,NULL,F,0,0,79,215,"Louisiana State",NULL,1966-04-21,Miami,FL,USA,Killian,Miami,FL,USA,0000-00-00,W
+blatcan01,Andray,Andray,NULL,Blatche,NULL,NULL,NULL,NULL,F,0,0,83,235,none,NULL,1986-08-22,Syracuse,NY,USA,"South Kent Prep / Henninger","South Kent / Syracuse","CT / NY",USA,0000-00-00,B
+blaylmo01,Mookie,Daron,Oshay,Blaylock,NULL,NULL,NULL,Mookie,G,0,0,72,180,Oklahoma,"Midland (TX) JC",1967-03-20,Garland,TX,USA,Garland,Garland,TX,USA,0000-00-00,B
+bledser01,Eric,Eric,NULL,Bledsoe,NULL,NULL,NULL,NULL,G,0,0,73,195,Kentucky,NULL,1989-12-09,Birmingham,AL,USA,Parker,Birmingham,AL,USA,0000-00-00,B
+blevile01,Leon,Leon,Gravette,Blevins,NULL,NULL,NULL,NULL,G,0,0,74,160,Arizona,"Phoenix JC",1926-06-25,NULL,NULL,NULL,Union,Phoenix,AZ,USA,0000-00-00,W
+blitmha01,Harold,Harold,NULL,Blitman,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+blockjo01,John,John,William,Block,NULL,NULL,Jr.,NULL,F-C,0,0,81,207,USC,NULL,1944-04-16,"Los Angeles",CA,USA,Glendale,Glendale,CA,USA,0000-00-00,W
+bloedch01,NULL,Charles,E.,Bloedorn,NULL,NULL,NULL,Chuck,G,0,0,72,180,"Bowling Green",Baldwin-Wallace,1912-05-28,NULL,NC,USA,"Scherz / Lewis Institute",Chicago,IL,USA,1998-05-20,W
+bloomke01,NULL,C.,Keith,Bloom,NULL,NULL,NULL,Keith,F-G,0,0,75,185,Wyoming,NULL,0000-00-00,NULL,NULL,NULL,Powell,Powell,WY,USA,0000-00-00,W
+bloommi01,Mike,Meyer,NULL,Bloom,NULL,NULL,NULL,Mike,F-C,0,0,78,190,Temple,NULL,1915-01-14,"New York",NY,USA,Trenton,Trenton,NJ,USA,1993-06-05,W
+blounco01,Corie,Corie,Kasoun,Blount,NULL,NULL,NULL,NULL,F,0,0,81,240,Cincinnati,"Rancho Santiago CC",1969-01-04,Monrovia,CA,USA,Monrovia,Monrovia,CA,USA,0000-00-00,B
+blounma01,Mark,Mark,D.,Blount,NULL,NULL,NULL,NULL,C,0,0,84,230,Pittsburgh,NULL,1975-11-30,"Dobbs Ferry",NY,USA,"Oak Hill Academy / Sacred Heart / Dobbs Ferry","Mouth of Wilson / Yonkers / Dobbs Ferry","VA / NY / NY",USA,0000-00-00,B
+bluebo01,NULL,Bob,NULL,Blue,NULL,NULL,NULL,"Bobby (Bobby Odom in h.s.)",G,0,0,71,170,Pepperdine,"Los Angeles CC",0000-00-00,NULL,NULL,NULL,Jordan,"Los Angeles",CA,USA,0000-00-00,B
+blumera01,Ray,Bernard,Ray,Blume,NULL,NULL,NULL,Ray,G,0,0,76,185,"Oregon State",NULL,1958-09-23,Valdosta,GA,USA,Parkrose,Portland,OR,USA,0000-00-00,B
+blyesy01,NULL,Sylvester,NULL,Blye,NULL,NULL,NULL,Sy,F,0,0,77,235,Seattle,"Coalinga JC",1938-02-14,NULL,NULL,NULL,"Benjamin Franklin","New York",NY,USA,0000-00-00,B
+bobbito01,Tony,Tony,Rachaun,Bobbitt,NULL,NULL,NULL,NULL,G,0,0,76,190,Cincinnati,"Southern Idaho",1979-10-22,Daytona,FL,USA,Mainland,"Daytona Beach",FL,USA,0000-00-00,B
+bobbne01,Nelson,Nelson,S.,Bobb,NULL,NULL,NULL,Nitzy,G,0,0,72,170,Temple,NULL,1924-02-25,Philadelphia,PA,USA,"West Philadelphia",Philadelphia,PA,USA,2003-12-08,W
+bockhbu01,Bucky,Arlen,Dale,Bockhorn,NULL,NULL,NULL,Bucky,G,0,0,76,200,Dayton,NULL,1933-07-08,"Campbell Hill",IL,USA,"Trico Consolidated","Campbell Hill",IL,USA,0000-00-00,W
+boehlbr01,NULL,Bruce,NULL,Boehler,NULL,NULL,NULL,NULL,G,0,0,71,195,Akron,Kentucky,1917-07-08,Lorain,OH,USA,Lorain,Lorain,OH,USA,0000-00-00,W
+boerwto01,Tom,Thomas,F.,Boerwinkle,NULL,NULL,NULL,"Tom, The Bull",C,0,0,84,265,Tennessee,NULL,1945-08-23,Cleveland,OH,USA,"Millensburg Military Academy",Cleveland,OH,USA,0000-00-00,W
+boganke01,Keith,Keith,Ramon,Bogans,NULL,NULL,NULL,NULL,G,0,0,77,215,Kentucky,NULL,1980-05-12,Washington,DC,USA,"DeMatha Catholic",Hyattsville,MD,USA,0000-00-00,B
+bogdaed01,NULL,Ed,NULL,Bogdanski,NULL,NULL,NULL,NULL,F,0,0,76,220,DePaul,"Loyola (IL)",0000-00-00,NULL,NULL,NULL,Wells,Chicago,IL,USA,0000-00-00,W
+boguemu01,Muggsy,Tyrone,Curtis,Bogues,NULL,NULL,NULL,Muggsy,G,0,0,63,136,"Wake Forest",NULL,1965-01-09,Baltimore,MD,USA,"Dunbar / Southern",Baltimore,MD,USA,0000-00-00,B
+bogutan01,Andrew,Andrew,Michael,Bogut,NULL,NULL,NULL,NULL,C,0,0,84,245,Utah,NULL,1984-11-28,Melbourne,NULL,AUS,"Australian Institute of Sport",Melbourne,NULL,AUS,0000-00-00,W
+bohanet01,Etdrick,Etdrick,NULL,Bohannon,NULL,NULL,NULL,Batman,F,0,0,81,220,Auburn-Montgomery,"Arizona / Tennessee",1973-05-29,"San Bernardino",CA,USA,"Maine Central Institute / San Bernardino","Pittsfield / San Bernardino","ME / CA",USA,0000-00-00,B
+bolgebi01,Bill,William,J.,Bolger,NULL,NULL,NULL,Bill,F,0,0,77,205,Georgetown,NULL,1931-08-21,NULL,NULL,NULL,Xavier,"New York",NY,USA,2009-10-08,W
+bolma01,Manute,Manute,NULL,Bol,NULL,NULL,NULL,NULL,C,0,0,90,200,Bridgeport,NULL,1962-10-16,Gogrial,NULL,SUD,"Case Western Reserve English Language",Cleveland,OH,USA,2010-06-19,B
+bolstdo01,Doug,F.,Douglas,Bolstorff,NULL,NULL,NULL,Doug,G,0,0,76,195,Minnesota,NULL,1931-10-29,NULL,NULL,NULL,"Grand Rapids","Grand Rapids",MN,USA,0000-00-00,W
+bolyabo01,NULL,Robert,W.,Bolyard,NULL,NULL,NULL,Bob,G-F,0,0,72,182,Toledo,NULL,1920-12-04,NULL,NULL,NULL,"South Side","Fort Wayne",IN,USA,2009-05-21,W
+bolyabu01,NULL,Marvin,Dent,Bolyard,NULL,NULL,NULL,Bucky,G,0,0,71,185,"West Virginia",NULL,1937-08-20,NULL,NULL,NULL,Aurora,Aurora,WV,USA,2001-09-30,W
+bondph01,Phil,Phillip,Damone,Bond,NULL,NULL,NULL,Phil,G,0,0,74,175,Louisville,NULL,1954-07-27,Louisville,KY,USA,Manual,Louisville,KY,USA,0000-00-00,B
+bondwa01,Walter,Walter,NULL,Bond,NULL,NULL,NULL,NULL,G,0,0,77,200,Minnesota,NULL,1969-02-01,Chicago,IL,USA,Collins,Chicago,IL,USA,0000-00-00,B
+boneyde01,Dexter,Dexter,Lyndell,Boney,NULL,NULL,NULL,NULL,G,0,0,76,185,UNLV,"Hagerstown JC",1970-04-27,Wilmington,DE,USA,Brandywine,Wilmington,DE,USA,0000-00-00,B
+bonharo01,Ron,Ronald,D.,Bonham,NULL,NULL,NULL,"Ron, Muncie Mortar",F,0,0,76.5,192,Cincinnati,NULL,1942-05-31,Muncie,IN,USA,"Muncie Central",Muncie,IN,USA,0000-00-00,W
+bonnean01,Anthony,Anthony,NULL,Bonner,NULL,NULL,NULL,A.B.,F,0,0,80,215,"St. Louis",NULL,1968-06-08,"St. Louis",MO,USA,Vashon,"St. Louis",MO,USA,0000-00-00,B
+bonnema01,Matt,Matthew,Robert,Bonner,NULL,NULL,NULL,Matt,F,0,0,82,240,"Florida  ",NULL,1980-04-05,Concord,NH,USA,Concord,Concord,NH,USA,0000-00-00,W
+bonnhe01,NULL,Herbert,NULL,Bonn,NULL,NULL,NULL,"Herb, Babe",F,0,0,72,195,Duquesne,NULL,0000-00-00,NULL,NULL,NULL,Aliquippa,Aliquippa,PA,USA,0000-00-00,W
+bonnial01,NULL,Alfred,E.,Bonniwell,NULL,NULL,NULL,Al,G-F,0,0,74,185,Dartmouth,NULL,1911-10-06,"(ht) Philadelphia",PA,USA,"Lower Merion / West Catholic","Ardmore / Philadelphia",PA,USA,2002-03-08,W
+bonsage01,George,George,H.,"Bon Salle",NULL,NULL,NULL,NULL,F,0,0,80,220,Illinois,NULL,1935-07-01,Chicago,IL,USA,"Loyola Academy",Chicago,IL,USA,0000-00-00,W
+bookebu01,Butch,Harold,NULL,Booker,NULL,NULL,NULL,"Hal, Butch",C,0,0,82,230,"Cheyney State",NULL,1945-07-20,NULL,NULL,NULL,Colwyn,Darby,PA,USA,0000-00-00,B
+bookeme01,Melvin,Melvin,Jermaine,Booker,NULL,NULL,NULL,NULL,G,0,0,73,185,Missouri,NULL,1972-08-20,Pascagoula,MS,USA,"Moss Point","Moss Point",MS,USA,0000-00-00,B
+booketr01,Trevor,Trevor,Fitzgerald,Booker,NULL,NULL,NULL,NULL,F,0,0,80,240,Clemson,NULL,1987-11-25,Newberry,SC,USA,"Union County",Union,SC,USA,0000-00-00,B
+boonejo01,Josh,Oscar,Joshua,Boone,NULL,NULL,NULL,Josh,F-C,0,0,82,237,Connecticut,NULL,1984-11-21,"Mount Airy",MD,USA,"West Nottingham Academy",Colora,MD,USA,0000-00-00,B
+boonero01,Ron,Ronald,Bruce,Boone,NULL,NULL,NULL,NULL,G-F,0,0,74,200,"Idaho State","Iowa Western CC",1946-09-06,"Oklahoma City",OK,USA,"Omaha Tech",Omaha,NE,USA,0000-00-00,B
+boothca01,Calvin,Calvin,Lawrence,Booth,NULL,NULL,NULL,NULL,C,0,0,83,230,"Penn State",NULL,1976-05-07,Reynoldsburg,OH,USA,"Groveport Madison",Reynoldsburg,OH,USA,0000-00-00,B
+boothke01,Keith,Keith,Eugene,Booth,NULL,NULL,NULL,NULL,F,0,0,77,226,Maryland,NULL,1974-10-09,Baltimore,MD,USA,Dunbar,Baltimore,MD,USA,0000-00-00,B
+boozebo01,Bob,Robert,Lewis,Boozer,NULL,NULL,NULL,"Bob, Bullet Bob, Big Bob, Coot",F,0,0,80,215,"Kansas State",NULL,1937-04-26,Omaha,NE,USA,"Omaha Tech",Omaha,NE,USA,2012-05-19,B
+boozeca01,Carlos,Carlos,Austin,Boozer,NULL,NULL,Jr.,NULL,F-C,0,0,80,258,Duke,NULL,1981-11-20,Aschaffenburg,NULL,GER,Juneau-Douglas,Juneau,AK,USA,0000-00-00,B
+borchcu01,Curtis,Curtis,Alan,Borchardt,NULL,NULL,NULL,NULL,C,0,0,84,240,Stanford,NULL,1980-09-13,Buffalo,NY,USA,Eastlake,Redmond,WA,USA,0000-00-00,W
+boris01,NULL,NULL,NULL,Boris,NULL,NULL,NULL,NULL,F,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+bornhja01,Jake,Jacob,NULL,Bornheimer,NULL,NULL,NULL,Jake,F-C,0,0,77,200,Muhlenberg,NULL,1927-06-29,"New Brunswick",NJ,USA,"St. Peter's  ","New Brunswick",NJ,USA,1986-09-10,W
+borrela01,Lazaro,Lazaro,Manuel,"Borrell Hernandez",NULL,NULL,NULL,NULL,F,0,0,80,220,none,NULL,1972-09-20,Havana,NULL,CUB,NULL,NULL,NULL,NULL,0000-00-00,B
+borresl01,NULL,Wallace,B.,Borrevik,NULL,NULL,NULL,"Wally, Slats",C-F,0,0,79,205,Oregon,NULL,1921-11-14,NULL,NULL,NULL,Redsport,Redsport,OR,USA,1988-12-09,W
+borsaik01,Ike,Costic,F.,Borsavage,NULL,NULL,NULL,Ike,C-F,0,0,80,220,Temple,NULL,1924-07-25,"(ht) Plymouth",PA,USA,NULL,NULL,NULL,NULL,0000-00-00,W
+borylvi01,Vince,Vincent,Joseph,Boryla,NULL,NULL,NULL,"Vince, Moose",F,0,0,76.5,210,Denver,"Notre Dame/Navy",1927-03-11,"East Chicago",IN,USA,Washington,"East Chicago",IN,USA,0000-00-00,W
+bosakjo01,NULL,John,NULL,Bosak,NULL,NULL,NULL,NULL,G,0,0,75,185,none,NULL,0000-00-00,NULL,NULL,NULL,Farrell,Farrell,PA,USA,0000-00-00,W
+boshch01,Chris,Christopher,Wesson,Bosh,NULL,NULL,NULL,Chris,F,0,0,82,210,"Georgia Tech",NULL,1984-03-02,Dallas,TX,USA,Lincoln,Dallas,TX,USA,0000-00-00,B
+bostiji01,Jim,James,NULL,Bostic,NULL,NULL,NULL,Jim,F,0,0,79,225,"New Mexico State",NULL,1953-01-28,Brooklyn,NY,USA,Gorton,Yonkers,NY,USA,0000-00-00,B
+bostola01,Larry,Lawrence,D.,Boston,NULL,NULL,Jr.,Larry,F,0,0,80,225,Maryland,Vincennes,1956-05-18,Cleveland,OH,USA,"J.F. Kennedy",Cleveland,OH,USA,0000-00-00,B
+bosweso01,NULL,Wyatt,NULL,Boswell,NULL,NULL,NULL,Sonny,G,0,0,73,180,none,NULL,0000-00-00,Greenville,MS,USA,Scott,Toledo,OH,USA,1964-10-19,B
+bosweto01,Tom,Tommy,G.,Boswell,NULL,NULL,NULL,Tom,F-C,0,0,79,220,"South Carolina","South Carolina State",1953-10-02,Montgomery,AL,USA,Carver,Montgomery,AL,USA,0000-00-00,B
+boudrlo01,NULL,Louis,NULL,Boudreau,NULL,NULL,Jr.,Lou,G-F,0,0,71,170,Illinois,NULL,1917-07-17,Harvey,IL,USA,Thornton,Harvey,IL,USA,2001-08-10,W
+boumtru01,Ruben,Ruben,Bertrand,Boumtje-Boumtje,NULL,NULL,NULL,NULL,C,0,0,84,245,Georgetown,NULL,1978-05-20,Edda,NULL,CMR,"Archbishop Carroll",Washington,DC,USA,0000-00-00,B
+bovendo01,Don,Donald,E.,Boven,NULL,NULL,NULL,Don,F-G-C,0,0,76,210,"Western Michigan",NULL,1925-03-06,Kalamazoo,MI,USA,"Kalamazoo Central",Kalamazoo,MI,USA,2011-03-10,W
+bowdlca01,Cal,James,Calloway,Bowdler,NULL,NULL,II,Cal,F,0,0,82,245,"Old Dominion",NULL,1977-03-31,Sharps,VA,USA,Rappahannock,Warsaw,VA,USA,0000-00-00,W
+bowenbr01,Bruce,Bruce,NULL,Bowen,NULL,NULL,Jr.,NULL,F-G,0,0,79,185,"Cal. State-Fullerton",NULL,1971-06-14,Merced,CA,USA,Edison,Fresno,CA,USA,0000-00-00,B
+bowenry01,Ryan,Ryan,Cleo,Bowen,NULL,NULL,NULL,NULL,F,0,0,79,213,Iowa,NULL,1975-11-20,"Fort Madison",IA,USA,"Fort Madison","Fort Madison",IA,USA,0000-00-00,W
+bowento01,Tom,Tommie,Lee,Bowens,NULL,NULL,Jr.,Tom,F-C,0,0,79.5,220,Grambling,NULL,1940-07-07,Okolona,MS,USA,NULL,NULL,NULL,NULL,0000-00-00,B
+bowerha01,NULL,Harold,NULL,Bowers,NULL,NULL,NULL,NULL,G,0,0,70,165,Earlham,NULL,0000-00-00,"(ht) Knightstown",IN,USA,NULL,NULL,NULL,NULL,0000-00-00,W
+bowerje01,Jeff,Jeff,NULL,Bower,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+bowiean01,Anthony,Anthony,Lee,Bowie,NULL,NULL,NULL,"A.B., Boo",G-F,0,0,78,190,Oklahoma,"Seminole JC",1963-11-09,Tulsa,OK,USA,"East Central",Tulsa,OK,USA,0000-00-00,B
+bowiesa01,Sam,Samuel,Paul,Bowie,NULL,NULL,NULL,Sam,C-F,0,0,85,235,Kentucky,NULL,1961-03-17,Lebanon,PA,USA,Lebanon,Lebanon,PA,USA,0000-00-00,B
+bowlior01,Orbie,Orbie,Lee,Bowling,NULL,NULL,NULL,"Orb, Gomer",C,0,0,82,215,Tennessee,NULL,1939-03-21,NULL,KY,USA,"Sandy Hook","Sandy Hook",TN,USA,0000-00-00,W
+bowmaar01,NULL,Art,NULL,Bowman,NULL,NULL,NULL,NULL,G,0,0,0,0,"St. Joseph's (IN)",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+bowmair01,Ira,Ira,NULL,Bowman,NULL,NULL,NULL,NULL,G,0,0,77,195,Pennsylvania,Providence,1973-06-11,Newark,NJ,USA,"Seton Hall Prep","West Orange",NJ,USA,0000-00-00,B
+bowmana01,Nate,Nathaniel,NULL,Bowman,NULL,NULL,NULL,"Nate, The Snake, Nate the Skate",C,0,0,82,230,"Wichita State",NULL,1943-03-19,"Fort Worth",TX,USA,Kirkpatrick,"Fort Worth",TX,USA,1984-12-11,B
+boycedo01,Donnie,Donald,Nathaniel,Boyce,NULL,NULL,NULL,"Donny, Donnie",G,0,0,77,195,Colorado,NULL,1973-09-02,Chicago,IL,USA,"Proviso East",Maywood,IL,USA,0000-00-00,B
+boydde01,Dennis,Dennis,NULL,Boyd,NULL,NULL,NULL,NULL,G,0,0,73,175,Detroit,NULL,1954-05-21,Portsmouth,VA,USA,Roosevelt,"New York",NY,USA,0000-00-00,B
+boydfr01,Freddie,Fred,L.,Boyd,NULL,NULL,NULL,Freddie,G,0,0,74,180,"Oregon State",NULL,1950-06-13,Bakersfield,CA,USA,"East Bakersfield",Bakersfield,CA,USA,0000-00-00,B
+boydke01,Ken,Ken,NULL,Boyd,NULL,NULL,NULL,NULL,F,0,0,77,195,"Boston University",NULL,1952-03-25,Frederick,MD,USA,Frederick,Frederick,MD,USA,0000-00-00,B
+boykiea01,Earl,Earl,Antoine,Boykins,NULL,NULL,NULL,NULL,G,0,0,65,133,"Eastern Michigan",NULL,1976-06-02,Cleveland,OH,USA,"Central Catholic",Cleveland,OH,USA,0000-00-00,B
+boykoha01,Harry,Harry,J.,Boykoff,NULL,NULL,NULL,"Big Hesh, Heshie, Big Boy",C,0,0,81.5,225,"St. John's (NY)",NULL,1922-07-24,Brooklyn,NY,USA,"Thomas Jefferson",Brooklyn,NY,USA,2001-02-20,W
+boylaji01,Jim,Jim,NULL,Boylan,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+boynewi01,Winford,Winford,Gladstone,Boynes,NULL,NULL,III,NULL,G-F,0,0,78,185,"San Francisco",NULL,1957-05-17,Greenville,SC,USA,"Capitol Hill","Oklahoma City",OK,USA,0000-00-00,B
+bozemce01,Cedric,Cedric,R.,Bozeman,NULL,NULL,NULL,Ced,G,0,0,78,207,UCLA,NULL,1983-03-07,"Los Angeles",CA,USA,"Mater Dei","Santa Ana",CA,USA,0000-00-00,B
+bracest01,Steve,Stephen,Henry,Bracey,NULL,NULL,NULL,Steve,G,0,0,73,175,Tulsa,"Kilgore JC",1950-08-01,Brooklyn,NY,USA,Midwood,Brooklyn,NY,USA,0000-00-00,B
+brackcr01,Craig,Craig,Lee,Brackins,NULL,NULL,NULL,NULL,F,0,0,82,230,"Iowa State",NULL,1987-10-09,Lancaster,CA,USA,"Palmdale (DNP) / Boys to Men Acad / Brewster Acad","Palmdale / Chicago / Wolfeboro","CA / IL/ NH",USA,0000-00-00,B
+braddga01,Gary,Gary,Lee,Bradds,NULL,NULL,NULL,Tex,F,0,0,80,210,"Ohio State",Kentucky?,1942-07-26,Jamestown,OH,USA,Greenview,Greenview,OH,USA,1983-07-15,W
+bradlal01,Alonzo,Alonzo,NULL,Bradley,NULL,NULL,NULL,NULL,F,0,0,78,190,"Texas Southern","Utica JC",1953-10-16,Utica,MS,USA,"Hinds County Agricultural",Utica,MS,USA,0000-00-00,B
+bradlal02,Alex,Alex,NULL,Bradley,NULL,NULL,III,NULL,F,0,0,78,215,Villanova,NULL,1959-10-30,Bradenton,FL,USA,"Long Branch","Long Branch",NJ,USA,0000-00-00,B
+bradlav01,Avery,Avery,Antonio,Bradley,NULL,NULL,Jr.,NULL,G,0,0,74,180,Texas,NULL,1990-11-26,"Castle AFB, Merced",CA,USA,"Bellarmine Prep / Findlay College Prep","Tacoma / Henderson","WA / NV",USA,0000-00-00,B
+bradlbi01,Bill,William,Warren,Bradley,NULL,NULL,NULL,"Bill, Dollar Bill",F-G,0,0,77,205,Princeton,Oxford,1943-07-28,"Crystal City",MO,USA,"Crystal City","Crystal City",MO,USA,0000-00-00,W
+bradlbi02,Bill,William,C.,Bradley,NULL,NULL,NULL,Bill,G,0,0,71,165,"Tennessee State",Evansville,1941-06-16,NULL,NULL,NULL,Central,Louisville,KY,USA,2002-06-05,B
+bradlch01,Charles,Charles,Warnell,Bradley,NULL,NULL,NULL,NULL,G,0,0,77,215,Wyoming,NULL,1959-05-16,"Havre De Grace",MD,USA,Edgewood,Edgewood,MD,USA,0000-00-00,B
+bradldu01,Dudley,Dudley,Leroy,Bradley,NULL,NULL,NULL,NULL,G-F,0,0,78,195,"North Carolina",NULL,1957-03-19,Baltimore,MD,USA,Edgewood,Edgewood,MD,USA,0000-00-00,B
+bradlji01,Jim,James,Arthur,Bradley,NULL,NULL,NULL,Jim,F,0,0,80,215,"Northern Illinois",NULL,1952-03-16,"East Chicago",IN,USA,Roosevelt,"East Chicago",IN,USA,1982-02-20,B
+bradljo01,Joe,Joseph,L.,Bradley,NULL,NULL,NULL,Joe,G,0,0,75,170,"Oklahoma A&M",NULL,1928-09-24,Washington,OK,USA,Cowden,Cowden,OK,USA,1987-06-05,W
+bradlmi01,Michael,Michael,Thomas,Bradley,NULL,NULL,NULL,NULL,F,0,0,81,225,Villanova,Kentucky,1979-04-18,Worcester,MA,USA,Burncoat,Worcester,MA,USA,0000-00-00,W
+bradlsh01,Shawn,Shawn,Paul,Bradley,NULL,NULL,NULL,NULL,C,0,0,89,235,"Brigham Young",NULL,1972-03-22,Landstuhl,NULL,GER,"Emery County","Castle Dale",UT,USA,0000-00-00,W
+bradtma01,Mark,Mark,Robert,Bradtke,NULL,NULL,NULL,Hoges,C-F,0,0,82,265,none,NULL,1968-09-27,Adelaide,NULL,AUS,Redcliffe,Redcliffe,NULL,AUS,0000-00-00,W
+braggma01,Marques,Marques,NULL,Bragg,NULL,NULL,NULL,NULL,F,0,0,80,230,Providence,NULL,1970-03-24,"East Orange",NJ,USA,"Clifford J. Scott","East Orange",NJ,USA,0000-00-00,B
+braggto01,Torraye,Torraye,NULL,Braggs,NULL,NULL,NULL,NULL,F,0,0,79,237,"Xavier (OH)","San Jose CC",1976-05-15,Fresno,CA,USA,Edison,Fresno,CA,USA,0000-00-00,B
+bramlaj01,A.J.,Aaron,Jordan,Bramlett,NULL,NULL,NULL,A.J.,C,0,0,82,227,Arizona,NULL,1977-01-10,DeKalb,IL,USA,"La Cueva",Albuquerque,NM,USA,0000-00-00,W
+brancad01,Adrian,Adrian,Francis,Branch,NULL,NULL,NULL,NULL,F-G,0,0,79,185,Maryland,NULL,1963-11-17,Washington,DC,USA,"DeMatha Catholic",Hyattsville,MD,USA,0000-00-00,B
+brandel01,Elton,Elton,Tyron,Brand,NULL,NULL,NULL,NULL,F-C,0,0,80,260,Duke,NULL,1979-03-11,Cortland,NY,USA,Peekskill,Peekskill,NY,USA,0000-00-00,B
+brandte01,Terrell,Thomas,Terrell,Brandon,NULL,NULL,NULL,"Terrell, Tee Bee",G,0,0,71,173,Oregon,NULL,1970-05-20,Portland,OR,USA,Grant,Portland,OR,USA,0000-00-00,B
+brannbo01,Bob,Robert,Warren,Brannum,NULL,NULL,NULL,"Bob, Beeb, The Tank",F-C,0,0,77,205,"Michigan State",Kentucky,1926-05-28,Winfield,KS,USA,Winfield,Winfield,KS,USA,2005-02-05,W
+branncl01,NULL,Clarence,NULL,Brannum,NULL,NULL,NULL,"Big C",F,0,0,77,215,"Kansas State",NULL,1926-05-28,Winfield,KS,USA,Winfield,Winfield,KS,USA,2000-10-09,W
+bransbr01,Brad,Bradley,Alexander,Branson,NULL,NULL,NULL,Brad,C-F,0,0,82,220,"Southern Methodist","Edison CC",1958-09-24,Harvey,IL,USA,North,"Fort Myers",FL,USA,0000-00-00,W
+bransje01,Jesse,Herman,Jesse,Branson,NULL,NULL,NULL,"Jesse, Jess",F,0,0,79,195,Elon,NULL,1942-01-07,Burlington,NC,USA,Holt,Burlington,NC,USA,0000-00-00,W
+brascji01,Jim,James,J.,Brasco,NULL,NULL,NULL,Jim,G,0,0,73,170,NYU,NULL,1931-02-03,NULL,NULL,NULL,"Abraham Lincoln",Brooklyn,NY,USA,0000-00-00,W
+bratzmi01,Mike,Michael,Louis,Bratz,NULL,NULL,NULL,Mike,G,0,0,74,185,Stanford,"Allan Hancock",1955-10-17,Lompoc,CA,USA,Lompoc,Lompoc,CA,USA,0000-00-00,W
+braunca01,Carl,Carl,August,Braun,NULL,NULL,NULL,NULL,G-F,0,0,77,180,Colgate,NULL,1927-09-25,Brooklyn,NY,USA,"Adelphi Academy","Garden City",NY,USA,2010-02-10,W
+breauti01,Tim,Timothy,NULL,Breaux,NULL,NULL,NULL,Tim,F,0,0,78,215,Wyoming,NULL,1970-09-19,"Baton Rouge",LA,USA,Zachary,Zachary,LA,USA,0000-00-00,B
+bremejr01,J.R.,Ernest,NULL,Bremer,NULL,NULL,Jr.,J.R.,G,0,0,73,185,"St. Bonaventure",NULL,1980-09-19,Cleveland,OH,USA,"Cleveland Heights","Cleveland Heights",OH,USA,0000-00-00,B
+brennir01,NULL,Irving,NULL,Brenner,NULL,NULL,NULL,Irv,C-F,0,0,76,200,Duquesne,NULL,1913-05-31,NULL,NULL,NULL,"Fifth Avenue",Pittsburgh,PA,USA,1991-01-20,W
+brennpe01,Pete,Peter,Joseph,Brennan,NULL,NULL,NULL,Pete,F,0,0,78,190,"North Carolina",NULL,1936-09-23,Brooklyn,NY,USA,"St. Augustine",Brooklyn,NY,USA,2012-06-08,W
+brennto01,Tom,Thomas,F.,Brennan,NULL,NULL,NULL,Tom,F,0,0,75,195,Villanova,NULL,1930-08-06,"(ht) Brooklyn",NY,USA,NULL,NULL,NULL,NULL,1990-02-11,W
+breuera01,Randy,Randall,W.,Breuer,NULL,NULL,NULL,"Randy, Brew",C,0,0,87,230,Minnesota,NULL,1960-10-11,"Lake City",MN,USA,Lincoln,"Lake City",MN,USA,0000-00-00,W
+breweco01,Corey,Corey,Wayne,Brewer,NULL,NULL,NULL,"The Drunken Dribbler",G-F,0,0,81,185,Florida,NULL,1986-03-05,Portland,TN,USA,Portland,Portland,TN,USA,0000-00-00,B
+breweja01,Jamison,Jamison,"Rudy Van",Brewer,NULL,NULL,NULL,NULL,G,0,0,76,180,Auburn,NULL,1980-11-19,"East Point",GA,USA,"Tri-Cities / Newport","East Point / Kensington","GA / MD",USA,0000-00-00,B
+breweji01,Jim,James,Turner,Brewer,NULL,NULL,NULL,"Jim, Brew, Papa",F-C,0,0,81,210,Minnesota,NULL,1951-12-03,Maywood,IL,USA,"Proviso East",Maywood,IL,USA,0000-00-00,B
+brewero01,Ron,Ronald,Charles,Brewer,NULL,NULL,NULL,"Ron, Boot",G,0,0,76,180,Arkansas,"Westark CC",1955-09-16,"Fort Smith",AR,USA,Northside,"Fort Smith",AR,USA,0000-00-00,B
+brewero02,Ronnie,"Ronnie ",NULL,Brewer,NULL,NULL,NULL,NULL,G,0,0,79,220,Arkansas,NULL,1985-03-20,Portland,OR,USA,Fayetteville,Fayetteville,AR,USA,0000-00-00,B
+brezepr01,Primoz,Primoz,NULL,Brezec,NULL,NULL,NULL,NULL,C,0,0,85,243,none,NULL,1979-10-02,Postojna,NULL,SLV,NULL,NULL,NULL,NULL,0000-00-00,W
+brianfr01,Frank,Frank,Sands,Brian,NULL,NULL,NULL,"Frankie, Flash",G,0,0,73,180,"Louisiana State",NULL,1923-05-01,Zachary,LA,USA,Zachary,Zachary,LA,USA,0000-00-00,W
+brickfr01,Frank,Francis,Anthony,Brickowski,NULL,NULL,NULL,"Frank, Brick",F-C,0,0,81,240,"Penn State",NULL,1959-08-14,Bayville,NY,USA,"Locust Valley","Locust Valley",NY,USA,0000-00-00,W
+bridgbi01,Bill,William,C.,Bridges,NULL,NULL,NULL,"Bill, Big Bill",F-C,0,0,77,228,Kansas,NULL,1939-04-04,Hobbs,NM,USA,Hobbs,Hobbs,NM,USA,0000-00-00,B
+bridgju01,Junior,Ulysses,Lee,Bridgeman,NULL,NULL,NULL,"Junior, J.B., The Torch",F-G,0,0,77,210,Louisville,NULL,1953-09-17,"East Chicago",IN,USA,Washington,"East Chicago",IN,USA,0000-00-00,B
+brighal01,Al,Horace,Albert,Brightman,NULL,NULL,NULL,Al,F,0,0,74,195,"Long Beach State","Morris Harvey",1923-09-22,Eureka,CA,USA,Wilson,"Long Beach",CA,USA,1992-06-10,W
+brindau01,Aud,Audley,NULL,Brindley,NULL,NULL,Jr.,Aud,F,0,0,76,175,Dartmouth,NULL,1923-12-31,Mineola,NY,USA,"Rockville Centre","Rockville Centre",NY,USA,1957-11-19,W
+briskjo01,John,John,NULL,Brisker,NULL,NULL,NULL,NULL,F-G,0,0,77,210,Toledo,NULL,1947-06-15,Detroit,MI,USA,Hamtramck,Hamtramck,MI,USA,0000-00-00,B
+bristal01,Allan,Allan,Mercer,Bristow,NULL,NULL,Jr.,Disco,F-G,0,0,79,210,"Virginia Tech",NULL,1951-08-23,Richmond,VA,USA,Henrico,Richmond,VA,USA,0000-00-00,W
+bristcl01,NULL,Clayton,Lorenz,Bristow,NULL,NULL,NULL,NULL,F,0,0,75,180,Morningside,NULL,0000-00-00,NULL,NULL,NULL,Central,"Sioux City",IA,USA,0000-00-00,W
+brittda01,David,David,NULL,Britton,NULL,NULL,NULL,Dave,G,0,0,76,180,"Texas A&M","Potomac State JC",1958-08-29,"New York",NY,USA,Kennedy,Bronx,NY,USA,0000-00-00,B
+brittmi01,Mike,Michael,James,Brittain,NULL,NULL,NULL,Mike,C,0,0,84,235,"South Carolina",NULL,1963-06-21,Clearwater,FL,USA,Clearwater,Clearwater,FL,USA,0000-00-00,W
+brittty01,Tyrone,Tyrone,NULL,Britt,NULL,NULL,NULL,NULL,G,0,0,76,190,"Johnson C. Smith","North Carolina Central",1944-04-18,NULL,NULL,NULL,"Thomas Edison",Philadelphia,PA,USA,0000-00-00,B
+brittwa01,Wayman,Wayman,P.,Britt,NULL,NULL,NULL,NULL,G,0,0,74,185,Michigan,NULL,1952-08-31,"Wilson Mills",NC,USA,Northern,Flint,MI,USA,0000-00-00,B
+brockjo01,Jon,Jonathan,Rodney,Brockman,NULL,NULL,NULL,Jon,F,0,0,79,255,Washington,NULL,1987-03-20,Snohomish,WA,USA,Snohomish,Snohomish,WA,USA,0000-00-00,W
+brogaji01,Jim,James,Riley,Brogan,NULL,NULL,NULL,Jim,G,0,0,76,185,"West Virginia Wesleyan",NULL,1958-02-24,Ardmore,PA,USA,"Lower Merion",Ardmore,PA,USA,0000-00-00,W
+brokaga01,Gary,Gary,George,Brokaw,NULL,NULL,NULL,NULL,G,0,0,76,178,"Notre Dame",NULL,1954-01-11,"New Brunswick",NJ,USA,"New Brunswick","New Brunswick",NJ,USA,0000-00-00,B
+brookaa01,Aaron,Aaron,Jamal,Brooks,NULL,NULL,NULL,NULL,G,0,0,72,160,Oregon,NULL,1985-01-14,Seattle,WA,USA,"Franklin  ",Seattle,WA,USA,0000-00-00,B
+brookcl01,Clarence,Clarence,NULL,Brookins,NULL,NULL,NULL,NULL,F,0,0,76,190,Temple,NULL,0000-00-00,"(ht) Philadelphia",PA,USA,"John Bartram",Philadelphia,PA,USA,0000-00-00,B
+brookke01,Kevin,Kevin,NULL,Brooks,NULL,NULL,NULL,NULL,F,0,0,78,200,"Southwestern Louisiana",NULL,1969-10-12,Beaufort,SC,USA,"White Castle","White Castle",LA,USA,0000-00-00,B
+brookma01,MarShon,MarShon,Scitif,Brooks,NULL,NULL,NULL,NULL,G-F,0,0,77,200,Providence,NULL,1989-01-26,"Long Branch",NJ,USA,Tucker,Tucker,GA,USA,0000-00-00,B
+brookmi01,Mike,Michael,Anthony,Brooks,NULL,NULL,NULL,Mike,F,0,0,79,220,LaSalle,NULL,1958-08-17,Philadelphia,PA,USA,"West Catholic",Philadelphia,PA,USA,0000-00-00,B
+brookpr01,Price,Emery,Price,Brookfield,NULL,NULL,NULL,Price,F-G,0,0,76,185,"West Texas State","Iowa State",1920-05-11,Floydada,TX,USA,Friona,Friona,TX,USA,2006-04-17,W
+brooksc01,Scott,Scott,William,Brooks,NULL,NULL,NULL,NULL,G,0,0,71,165,California-Irvine,"TCU / San Joaquin Delta",1965-07-31,"French Camp",CA,USA,"East Union",Manteca,CA,USA,0000-00-00,W
+brottdi01,NULL,Richard,NULL,Brott,NULL,NULL,NULL,Dick,C,0,0,80,210,Denver,NULL,1935-09-19,NULL,NULL,NULL,East,Denver,CO,USA,0000-00-00,W
+broveji01,Jim,Jim,NULL,Brovelli,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+brown01,NULL,NULL,NULL,Brown,NULL,NULL,NULL,NULL,G,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+brownan01,Andre,Andre,D.,Brown,NULL,NULL,NULL,NULL,F,0,0,81,245,DePaul,NULL,1981-05-12,Chicago,IL,USA,Leo,Chicago,IL,USA,0000-00-00,B
+brownbi01,NULL,Bill,NULL,Brownell,NULL,NULL,NULL,NULL,C,0,0,78,235,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+brownbi02,NULL,Bill,NULL,Brown,NULL,NULL,NULL,NULL,F,0,0,75,0,Maryland,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+brownbo01,Bob,Robert,Edward,Brown,NULL,NULL,NULL,"Bob, Bobby",F,0,0,76,205,"Miami (OH)",NULL,1923-11-12,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+brownbo02,Bobby,Robert,Douglas,Brown,NULL,NULL,NULL,Bobby,G,0,0,74,175,"Cal-State Fullerton",NULL,1984-09-24,"Los Angeles",CA,USA,Westchester,"Los Angeles",CA,USA,0000-00-00,B
+brownbo03,NULL,Bob,NULL,Brown,NULL,NULL,NULL,NULL,F-C,0,0,79,0,Oklahoma,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+brownch01,Chucky,Clarence,NULL,Brown,NULL,NULL,NULL,"Chucky, Wild Thing",F,0,0,79,214,"North Carolina State",NULL,1968-02-29,"New York",NY,USA,"North Brunswick",Leland,NC,USA,0000-00-00,B
+brownda01,Darrell,Darrel,K.,Brown,NULL,NULL,NULL,NULL,F,0,0,74,175,"Humboldt State","Humboldt State/ College of Pacific",1923-03-14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1990-10-07,W
+brownda02,Damone,Damone,Lamar,Brown,NULL,NULL,NULL,NULL,F,0,0,80,200,Syracuse,NULL,1979-06-28,Buffalo,NY,USA,"Seneca Vocational",Buffalo,NY,USA,0000-00-00,B
+brownda03,Dave,Dave,NULL,Brown,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+brownde01,Dee,DeCovan,Kadell,Brown,NULL,NULL,NULL,"Dee, Dee-lightful",G,0,0,73,160,Jacksonville,NULL,1968-11-29,Jacksonville,FL,USA,"The Bolles School",Jacksonville,FL,USA,0000-00-00,B
+brownde02,Devin,Devin,NULL,Brown,NULL,NULL,NULL,NULL,G-F,0,0,77,210,"Texas-San Antonio",NULL,1978-12-30,"Salt Lake City",UT,USA,"South Sanwest Campus","San Antonio",TX,USA,0000-00-00,B
+brownde03,Dee,Daniel,NULL,Brown,NULL,NULL,NULL,Dee,G,0,0,72,181,Illinois,NULL,1984-08-17,Jackson,MS,USA,"Proviso East",Maywood,IL,USA,0000-00-00,B
+brownde04,Derrick,Derrick,Paul,Brown,NULL,NULL,NULL,NULL,NULL,0,0,79,225,Xavier,NULL,1987-09-07,Oakland,CA,USA,Chaminade-Julienne,Dayton,OH,USA,0000-00-00,B
+browner01,Ernest,Ernest,NULL,Brown,NULL,NULL,NULL,NULL,C,0,0,84,244,"Indian Hills CC","Mesa CC",1979-05-17,Bronx,NY,USA,"St. Raymonds",Bronx,NY,USA,0000-00-00,B
+brownfr01,Fred,Fred,NULL,Brown,NULL,NULL,NULL,"Downtown, Freddie",G,0,0,75,182,Iowa,"Southeastern CC",1948-08-07,Milwaukee,WI,USA,Lincoln,Milwaukee,WI,USA,0000-00-00,B
+brownge01,George,George,Raff,Brown,NULL,NULL,NULL,"Sweet Georgia Brown",F,0,0,78,190,"Wayne State (MI)",NULL,1935-10-30,"New Orleans",LA,USA,"Cass Tech",Detroit,MI,USA,0000-00-00,B
+brownge02,Gerald,Gerald,NULL,Brown,NULL,NULL,NULL,NULL,G,0,0,76,210,Pepperdine,NULL,1975-07-28,"Los Angeles",CA,USA,"Carl Hayden",Phoenix,AZ,USA,0000-00-00,B
+brownge03,NULL,Eugene,NULL,Brown,NULL,NULL,NULL,Gene,G,0,0,75,170,"San Francisco",NULL,1935-11-13,NULL,NULL,NULL,Washington,"San Francisco",CA,USA,0000-00-00,B
+brownha01,Harold,Harold,V.,Brown,NULL,NULL,NULL,"Hal, Brownie",G,0,0,72,155,Evansville,NULL,1923-10-02,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+brownhe01,Herb,Herb,NULL,Brown,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+brownhi01,NULL,Hillery,L.,Brown,NULL,NULL,NULL,NULL,F-G,0,0,75,190,none,NULL,1912-07-30,Chicago,IL,USA,"Wendell Phillips",Chicago,IL,USA,1991-02-08,B
+brownhu01,Hubie,Hubie,NULL,Brown,NULL,NULL,NULL,NULL,NULL,0,0,72,160,Niagara,NULL,1933-09-25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+brownji01,Jim,James,NULL,Browne,NULL,NULL,NULL,"Jim, Stretch",C,0,0,82,235,none,NULL,1930-01-01,Midlothian,IL,USA,Tilden,Chicago,IL,USA,0000-00-00,W
+brownji02,NULL,Jim,NULL,Brown,NULL,NULL,NULL,NULL,G-F,0,0,73,190,Temple,NULL,0000-00-00,NULL,NULL,NULL,"South Philadelphia",Philadelphia,PA,USA,0000-00-00,W
+brownjo01,John,John,Young,Brown,NULL,NULL,NULL,NULL,F,0,0,79,220,Missouri,NULL,1951-12-14,Frankfurt,NULL,GER,Dixon,Dixon,MO,USA,0000-00-00,W
+brownke01,Kedrick,Albert,Kedrick,Brown,NULL,NULL,NULL,Kedrick,F,0,0,79,222,"Okaloosa-Walton CC",NULL,1981-03-18,Zachary,LA,USA,Zachary,Zachary,LA,USA,0000-00-00,B
+brownkw01,Kwame,Kwame,James,Brown,NULL,NULL,NULL,NULL,C-F,0,0,83,240,none,NULL,1982-03-10,Charleston,SC,USA,"Glynn Academy",Brunswick,GA,USA,0000-00-00,B
+brownla01,Larry,Lawrence,Harvey,Brown,NULL,NULL,NULL,Larry,G,0,0,69,160,"North Carolina ",NULL,1940-09-14,Brooklyn,NY,USA,"Long Beach / Hargrave Mil Acad","Long Beach / Chatham","NY / VA",USA,0000-00-00,W
+brownle01,Leon,Leon,NULL,Brown,NULL,NULL,NULL,Stretch,F,0,0,75,190,Wyoming,NULL,1919-10-12,NULL,NULL,NULL,Cheyenne,Cheyenne,WY,USA,1990-10-14,W
+brownle02,Lewis,Lewis,NULL,Brown,NULL,NULL,NULL,NULL,C,0,0,82,225,UNLV,NULL,1955-02-19,"Los Angeles",CA,USA,"Verbum Dei","Los Angeles",CA,USA,2011-09-14,B
+brownma01,Marcus,Marcus,James,Brown,NULL,NULL,NULL,NULL,G,0,0,75,185,"Murray State",NULL,1974-04-03,"West Memphis",AR,USA,"West Memphis","West Memphis",AR,USA,0000-00-00,B
+brownma02,NULL,Marshall,Earl,Brown,NULL,NULL,NULL,NULL,F,0,0,75,170,"Texas Tech","Lon Morris JC (TX.)",1918-06-28,Whitehouse,TX,USA,Whitehouse,Whitehouse,TX,USA,2008-08-20,W
+brownmi01,Mike,Michael,NULL,Brown,NULL,NULL,NULL,"Mike, Bear",C-F,0,0,81,257,"George Washington",NULL,1963-07-19,Newark,NJ,USA,"Clifford J. Scott","East Orange",NJ,USA,0000-00-00,B
+brownmi02,Mike,Mike,NULL,Brown,NULL,NULL,NULL,NULL,NULL,0,0,75,200,"San Diego",NULL,1970-03-05,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+brownmy01,Myron,Julian,Myron,Brown,NULL,NULL,NULL,Myron,G,0,0,74,180,"Slippery Rock",NULL,1969-11-03,"McKees Rocks",PA,USA,Sto-Rox,"McKees Rocks",PA,USA,0000-00-00,B
+brownph01,Philip,Philip,NULL,Brownstein,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+brownpj01,P.J.,Collier,NULL,Brown,NULL,NULL,Jr.,"P.J., Big Cat",C-F,0,0,83,225,"Louisiana Tech",NULL,1969-10-14,Detroit,MI,USA,"Winnfield Senior",Winnfield,LA,USA,0000-00-00,B
+brownra01,Raymond,Raymond,NULL,Brown,NULL,NULL,NULL,NULL,F,0,0,80,220,Idaho,"Mississippi State",1965-07-05,Atlanta,GA,USA,Sylvan,Atlanta,GA,USA,0000-00-00,B
+brownra02,Randy,Randy,NULL,Brown,NULL,NULL,NULL,NULL,G,0,0,74,190,"New Mexico State","Houston / Howard Co. (DNP)",1968-05-22,Chicago,IL,USA,Collins,Chicago,IL,USA,0000-00-00,B
+brownri01,Rickey,Rickey,Darnell,Brown,NULL,NULL,NULL,NULL,C-F,0,0,82,215,"Mississippi State",NULL,1958-08-20,"Madison County",MS,USA,"West Fulton",Atlanta,GA,USA,0000-00-00,B
+brownro01,"Roger A.",Roger,William,Brown,NULL,NULL,NULL,NULL,F-G,0,0,77,205,Dayton,NULL,1942-05-22,Brooklyn,NY,USA,Wingate,Brooklyn,NY,USA,1997-03-04,B
+brownro02,Roger,Walter,Roger,Brown,NULL,NULL,NULL,Roger,C,0,0,83,225,Kansas,NULL,1950-02-23,Chicago,IL,USA,Englewood,Chicago,IL,USA,0000-00-00,B
+brownro03,NULL,William,NULL,Brown,NULL,NULL,NULL,Rookie,F-C,0,0,76,190,Howard,"Virginia Union",1925-02-15,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1971-05-22,B
+brownsh01,Shannon,Shannon,NULL,Brown,NULL,NULL,NULL,NULL,G,0,0,76,205,"Michigan State",NULL,1985-11-29,Maywood,IL,USA,"Proviso East",Maywood,IL,USA,0000-00-00,B
+brownst01,Stan,Stanley,NULL,Brown,NULL,NULL,NULL,"Stan, Loady",F,0,0,75,200,none,NULL,1929-06-27,Philadelphia,PA,USA,"South Philadelphia",Philadelphia,PA,USA,2009-08-02,W
+brownti01,Tierre,Tierre,NULL,Brown,NULL,NULL,NULL,NULL,G,0,0,74,189,"McNeese State",NULL,1979-06-03,Iowa,LA,USA,Iowa,Iowa,LA,USA,0000-00-00,B
+brownto01,Tony,Anthony,William,Brown,NULL,NULL,NULL,Tony,F-G,0,0,75,185,Arkansas,NULL,1960-07-29,Chicago,IL,USA,Farragut,Chicago,IL,USA,0000-00-00,B
+brucejo01,NULL,John,NULL,Bruce,NULL,NULL,NULL,NULL,F-G,0,0,75,190,"Rhode Island State",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+bruchca01,NULL,Carl,NULL,Bruch,NULL,NULL,NULL,NULL,C-F,0,0,76,190,"Iowa State",NULL,0000-00-00,NULL,NULL,NULL,East,Waterloo,IA,USA,0000-00-00,W
+brundst01,Stanley,Stanley,Dwayne,Brundy,NULL,NULL,NULL,Stan,F,0,0,78,210,DePaul,NULL,1967-11-13,"New Orleans",LA,USA,Crenshaw,"Los Angeles",CA,USA,0000-00-00,B
+brunkbr01,Brian,Brian,J.,Brunkhorst,NULL,NULL,NULL,Bronk,F,0,0,77.5,208,Marquette,NULL,1945-06-12,Owen,WI,USA,Abbotsford,Abbotsford,WI,USA,0000-00-00,W
+brunsge01,George,George,William,Bruns,NULL,NULL,NULL,NULL,G,0,0,72,160,Manhattan,NULL,1946-08-30,Brooklyn,NY,USA,"St. Augustine",Brooklyn,NY,USA,0000-00-00,W
+brunsri01,Rick,Rick,Daniel,Brunson,NULL,NULL,NULL,NULL,G,0,0,76,190,Temple,NULL,1972-06-14,Syracuse,NY,USA,Salem,Salem,MA,USA,0000-00-00,B
+bryanch01,NULL,Chester,NULL,Bryan,NULL,NULL,NULL,Chet,G,0,0,70,170,"Oklahoma City","New Mexico Mines",0000-00-00,NULL,NULL,NULL,"Capitol Hill","Oklahoma City",OK,USA,0000-00-00,W
+bryanem01,Emmette,Emmette,NULL,Bryant,NULL,NULL,NULL,Em,G,0,0,73,175,DePaul,NULL,1938-11-04,Chicago,IL,USA,"Crane Tech",Chicago,IL,USA,0000-00-00,B
+bryanjo01,Joe,Joseph,Washington,Bryant,NULL,NULL,NULL,"Joe, Jellybean",F-C-G,0,0,81,185,LaSalle,NULL,1954-10-19,Philadelphia,PA,USA,"John Bartram",Philadelphia,PA,USA,0000-00-00,B
+bryanko01,Kobe,Kobe,Bean,Bryant,NULL,NULL,NULL,NULL,G,0,0,78,200,none,NULL,1978-08-23,Philadelphia,PA,USA,"Lower Merion",Ardmore,PA,USA,0000-00-00,B
+bryanma01,Mark,Mark,Craig,Bryant,NULL,NULL,NULL,NULL,F-C,0,0,81,245,"Seton Hall",NULL,1965-04-25,"Glen Ridge",CA,USA,Columbia,Maplewood,NJ,USA,0000-00-00,B
+bryanwa01,Wallace,Wallace,Gordon,Bryant,NULL,NULL,Jr.,NULL,C,0,0,84,245,"San Francisco",NULL,1959-07-14,Madrid,NULL,ESP,Emerson,Gary,IN,USA,0000-00-00,B
+brynto01,Torgeir,Torgeir,NULL,Bryn,NULL,NULL,NULL,NULL,C,0,0,81,250,"SW Texas State","Mira Costa College",1964-08-08,Oslo,NULL,NOR,NULL,NULL,NULL,NULL,0000-00-00,W
+buccige01,George,George,P.,Bucci,NULL,NULL,Jr.,"The King",G,0,0,75,200,Manhattan,NULL,1953-07-09,Cornwall,NY,USA,"Newburgh Free Academy",Newburgh,NY,USA,0000-00-00,W
+buckhjo01,Joe,Joseph,NULL,Buckhalter,NULL,NULL,NULL,"Joe, Jumpin' Joe",F,0,0,79,210,"Tennessee State",NULL,1937-08-01,Jacksonville,MS,USA,Tilden,Chicago,IL,USA,0000-00-00,B
+buckncl01,Cleveland,Cleveland,NULL,Buckner,NULL,NULL,NULL,NULL,F-C,0,0,81,210,"Jackson State",NULL,1938-08-17,"Yazoo City",MS,USA,NULL,NULL,NULL,NULL,2006-10-05,B
+buckngr01,Greg,Gregory,Derayle,Buckner,NULL,NULL,NULL,Greg,G,0,0,76,210,Clemson,NULL,1976-09-16,Hopkinsville,KY,USA,"University Heights Academy",Hopkinsville,KY,USA,0000-00-00,B
+bucknqu01,Quinn,William,Quinn,Buckner,NULL,NULL,NULL,"Quinn, Q.B.",G,0,0,75,190,Indiana,NULL,1954-08-20,Phoenix,IL,USA,Thornridge,Dolton,IL,USA,0000-00-00,B
+bucknst01,Steve,Steven,Lee,Bucknall,NULL,NULL,NULL,Steve,G,0,0,78,215,"North Carolina",NULL,1966-03-17,London,NULL,ENG,"Gov. Dummer",Byfield,MA,USA,0000-00-00,B
+buckwbu01,Bucky,Bucky,NULL,Buckwalter,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+buddda01,Dave,David,L.,Budd,NULL,NULL,NULL,Dave,F,0,0,78,205,"Wake Forest",NULL,1938-10-28,Woodbury,NJ,USA,Woodbury,Woodbury,NJ,USA,0000-00-00,W
+budinch01,Chase,Chase,Andrew,Budinger,NULL,NULL,NULL,NULL,G-F,0,0,79,218,Arizona,NULL,1988-05-22,Encinatas,CA,USA,"La Costa Canyon",Carlsbad,CA,USA,0000-00-00,W
+budkowa01,Walter,Walter,NULL,Budko,NULL,NULL,Jr.,Walt,F-C,0,0,77,220,Columbia,NULL,1925-06-30,Brooklyn,NY,USA,"F.K. Lane/ Trinity School","Brooklyn / New York",NY,USA,0000-00-00,W
+buechju01,Jud,Judson,Donald,Buechler,NULL,NULL,NULL,Jud,F-G,0,0,78,220,Arizona,NULL,1968-06-19,"San Diego",CA,USA,Poway,Poway,CA,USA,0000-00-00,W
+buehlke01,NULL,Ken,NULL,Buehler,NULL,NULL,NULL,NULL,F-C,0,0,74,180,"Milwaukee State Teachers",NULL,0000-00-00,NULL,NULL,NULL,Edgar,Edgar,WI,USA,0000-00-00,W
+buforro01,Rodney,Rodney,Alan,Buford,NULL,NULL,NULL,Buf,G-F,0,0,77,189,Creighton,NULL,1977-11-02,Milwaukee,WI,USA,Vincent,Milwaukee,WI,USA,0000-00-00,B
+bullama01,Matt,Matthew,Gordon,Bullard,NULL,NULL,NULL,Matt,F,0,0,82,215,Iowa,Colorado,1967-06-05,"West Des Moines",IA,USA,Valley,"West Des Moines",IA,USA,0000-00-00,W
+buncela01,Larry,Lawrence,Melvin,Bunce,NULL,NULL,NULL,Larry,C,0,0,84,240,"Utah State","UTEP/Riverside CC",1945-07-29,Tacoma,WA,USA,Ramona,Riverside,CA,USA,0000-00-00,W
+bunchgr01,Greg,Darnell,Greg,Bunch,NULL,NULL,NULL,Greg,F,0,0,78,190,"Cal. State - Fullerton",NULL,1956-05-15,"San Bernardino",CA,USA,Pacific,"San Bernadino",CA,USA,0000-00-00,B
+buntdi01,Dick,Richard,J.,Bunt,NULL,NULL,NULL,Dick,G,0,0,72,170,NYU,NULL,1930-07-13,"New York",NY,USA,Bayside,Bayside,NY,USA,0000-00-00,W
+buntibi01,Bill,William,L.,Buntin,NULL,NULL,NULL,Bill,C-F,0,0,79,250,Michigan,NULL,1942-05-05,Detroit,MI,USA,"Cass Tech / Northern",Detroit,MI,USA,1968-05-09,B
+buntibi02,Bill,William,Carl,Bunting,NULL,NULL,NULL,Bill,F-C,0,0,80,195,"North Carolina",NULL,1947-08-26,"New Bern",NC,USA,"New Bern","New Bern",NC,USA,0000-00-00,W
+burdeti01,Ticky,Luther,D.,Burden,NULL,NULL,NULL,Ticky,G,0,0,74,185,Utah,NULL,1953-02-28,"Haines City",FL,USA,"Philip Schuyler",Albany,NY,USA,0000-00-00,B
+burgefr01,NULL,Franklin,Douglas,Burgess,NULL,NULL,NULL,Frank,G,0,0,73,193,Gonzaga,"Arkansas AM&N",1935-03-09,Eudora,AR,USA,Eudora,Eudora,AR,USA,2010-03-26,B
+burkepa01,Pat,Patrick,John,Burke,NULL,NULL,NULL,Pat,F-C,0,0,83,250,Auburn,NULL,1973-12-14,Dublin,NULL,IRL,Mariner,"Cape Coral",FL,USA,0000-00-00,W
+burkmro01,Roger,Roger,Allen,Burkman,NULL,NULL,NULL,NULL,G,0,0,76,175,Louisville,NULL,1958-05-22,Indianapolis,IN,USA,"Franklin Central",Indianapolis,IN,USA,0000-00-00,W
+burksal01,Alec,Alec,NULL,Burks,NULL,NULL,NULL,NULL,G,0,0,78,202,Colorado,NULL,1991-07-20,Grandview,MO,USA,Grandview,Grandview,MO,USA,0000-00-00,B
+burksan01,Antonio,Antonio,Cornell,Burks,NULL,NULL,NULL,NULL,G,0,0,72,195,"Memphis ","Hiwassee JC",1980-02-25,Memphis,TN,USA,"Booker T. Washington",Memphis,TN,USA,0000-00-00,B
+burksfr01,NULL,Frank,NULL,Burks,NULL,NULL,NULL,NULL,F,0,0,76,191,Wisconsin,NULL,1939-09-05,Chicago,IL,USA,Wells,Chicago,IL,USA,0000-00-00,B
+burleke01,Kevin,Kevin,NULL,Burleson,NULL,NULL,NULL,K.B.,G,0,0,75,205,Minnesota,NULL,1979-04-09,Seattle,WA,USA,O'Dea,Seattle,WA,USA,0000-00-00,B
+burleto01,Tom,Tommy,Loren,Burleson,NULL,NULL,NULL,Tom,C,0,0,86,225,"North Carolina State",NULL,1952-02-24,Crossnore,NC,USA,"Avery County",Newland,NC,USA,0000-00-00,W
+burmaja01,Jack,John,H.,Burmaster,NULL,NULL,NULL,Jack,G,0,0,75,190,Illinois,NULL,1926-12-23,Elgin,IL,USA,Elgin,Elgin,IL,USA,2005-09-28,W
+burnsda01,David,David,Earl,Burns,NULL,NULL,NULL,NULL,G,0,0,74,180,"St. Louis","Navarro JC ",1958-07-03,Dallas,TX,USA,"South Oak Cliff",Dallas,TX,USA,0000-00-00,B
+burnsev01,Evers,Evers,Allen,Burns,NULL,NULL,NULL,NULL,F-C,0,0,80,250,Maryland,NULL,1971-08-24,Baltimore,MD,USA,Woodlawn,Baltimore,MD,USA,0000-00-00,B
+burnsji01,Jim,James,B.,Burns,NULL,NULL,NULL,Jim,G,0,0,75,195,Northwestern,NULL,1945-09-21,NULL,NULL,NULL,McLeansboro,McLeansboro,IL,USA,0000-00-00,W
+burresc01,Scott,Scott,David,Burrell,NULL,NULL,NULL,NULL,G-F,0,0,79,218,Connecticut,NULL,1971-01-12,"New Haven",CT,USA,Hamden,Hamden,CT,USA,0000-00-00,B
+burriar01,Art,Arthur,C.,Burris,NULL,NULL,NULL,Art,F,0,0,77,220,Tennessee,NULL,1924-04-07,NULL,NULL,NULL,Central,Nashville,TN,USA,1993-09-19,W
+burrobo01,Bob,Robert,Brantley,Burrow,NULL,NULL,NULL,"Bob, Tex",C-F,0,0,79,215,Kentucky,"Lon Morris",1934-06-29,Malvern,AR,USA,Wells,Wells,TX,USA,0000-00-00,W
+burroju01,Junior,Thomas,Harold,Burrough,NULL,NULL,NULL,Junior,F,0,0,80,242,Virginia,NULL,1973-01-18,Charlotte,NC,USA,"West Charlotte / Oak Hill Academy","Charlotte / Mouth of Wilson","NC / VA",USA,0000-00-00,B
+burtoed01,Ed,Edward,NULL,Burton,NULL,NULL,NULL,Ed,F,0,0,78,225,"Michigan State",NULL,1939-08-13,Blytheville,AR,USA,"Muskegeon Heights","Muskegon Heights",MI,USA,0000-00-00,B
+burtowi01,Willie,Willie,Ricardo,Burton,NULL,NULL,NULL,NULL,F-G,0,0,79,210,Minnesota,NULL,1968-05-26,Detroit,MI,USA,"St. Martin De Porres",Detroit,MI,USA,0000-00-00,B
+burttst01,Steve,Steven,Dwayne,Burtt,NULL,NULL,NULL,Steve,G,0,0,74,185,Iona,NULL,1962-11-05,"New York",NY,USA,"Charles Evans Hughes","New York",NY,USA,0000-00-00,B
+busedo01,Don,Donald,R.,Buse,NULL,NULL,NULL,"Don, Boo",G,0,0,76,190,Evansville,NULL,1950-08-10,Huntingburg,IN,USA,Holland,Holland,IN,USA,0000-00-00,W
+bushge01,NULL,George,NULL,Bush,NULL,NULL,NULL,NULL,G,0,0,74,185,Toledo,NULL,0000-00-00,NULL,NULL,NULL,Newtown,Elmhurst,NY,USA,0000-00-00,W
+bushje01,NULL,Gerard,L.,Bush,NULL,NULL,NULL,Jerry,F-C,0,0,75,200,"St. John's (NY)",NULL,1914-09-06,Brooklyn,NY,USA,Newtown,Elmhurst,NY,USA,1976-10-27,W
+bustida01,Dave,David,C.,Bustion,NULL,NULL,NULL,"Dave, Stretch",F,0,0,80,215,Denver,"Northeastern Christian JC",1949-08-30,Gadsden,AL,USA,Carver,Gadsden,AL,USA,0000-00-00,B
+butchdo01,Donnie,Donnis,NULL,Butcher,NULL,NULL,NULL,Donnie,G,0,0,74,200,Pikeville,NULL,1936-02-08,Williamsport,KY,USA,Meade,Williamsport,KY,USA,0000-00-00,W
+buthebo01,NULL,Bob,NULL,Butherus,NULL,NULL,NULL,NULL,G,0,0,74,185,none,NULL,0000-00-00,NULL,NULL,NULL,Maryville,Maryville,MO,USA,0000-00-00,W
+butleal01,Al,Elbert,J.,Butler,NULL,NULL,NULL,Al,G,0,0,74,175,Niagara,NULL,1938-07-09,Rochester,NY,USA,East,Rochester,NY,USA,2000-07-17,B
+butleca01,Caron,James,Caron,Butler,NULL,NULL,NULL,Caron,F,0,0,79,217,Connecticut,NULL,1980-03-13,Racine,WI,USA,"Park / Maine Central Institute","Racine / Pittsfield","WI / ME",USA,0000-00-00,B
+butlech01,NULL,Charles,J.,Butler,NULL,NULL,NULL,Charlie,F-G,0,0,74,165,"Notre Dame",NULL,0000-00-00,Chicago,IL,USA,"Mt. Carmel",Chicago,IL,USA,0000-00-00,W
+butlegr01,Greg,Gregory,Edward,Butler,NULL,NULL,NULL,"Greg, G-Man",C,0,0,83,240,Stanford,NULL,1966-03-11,Inglewood,CA,USA,"Rolling Hills","Rolling Hills Estates",CA,USA,0000-00-00,W
+butleja01,Jackie,Jackie,NULL,Butler,NULL,NULL,NULL,NULL,F-C,0,0,82,250,none,NULL,1985-03-10,McComb,MS,USA,"Coastal Christian / Laurinburg / McComb","Virginia Beach / Laurinburg / Mccomb","VA / NC / MS",USA,0000-00-00,B
+butleji01,Jimmy,Jimmy,NULL,Butler,NULL,NULL,NULL,NULL,G-F,0,0,79,220,Marquette,"Tyler JC",1989-09-14,Houston,TX,USA,Tomball,Tomball,TX,USA,0000-00-00,B
+butlemi01,Mike,Michael,Edward,Butler,NULL,NULL,NULL,Mike,G,0,0,74,170,"Memphis State",NULL,1946-10-22,Memphis,TN,USA,Kingsbury,Memphis,TN,USA,0000-00-00,W
+butlemi02,Mitchell,Mitchell,Leon,Butler,NULL,NULL,NULL,NULL,G-F,0,0,77,210,UCLA,NULL,1970-12-15,"Los Angeles",CA,USA,Oakwood,"North Hollywood",CA,USA,0000-00-00,B
+butlera01,Rasual,Rasual,NULL,Butler,NULL,NULL,NULL,NULL,F,0,0,79,205,LaSalle,NULL,1979-05-23,Philadelphia,PA,USA,"Roman Catholic",Philadelphia,PA,USA,0000-00-00,B
+buttebi01,NULL,Bill,NULL,Butterfield,NULL,NULL,Jr.,NULL,C,0,0,77,195,Purdue,NULL,0000-00-00,NULL,NULL,NULL,Bosse,Evansville,IN,USA,0000-00-00,W
+byarsde01,Derrick,Derrick,JaVaughn,Byars,NULL,NULL,NULL,NULL,G-F,0,0,79,220,Vanderbilt,"Virginia ",1984-04-25,Memphis,TN,USA,Ridgeway,Memphis,TN,USA,0000-00-00,B
+bynuman01,Andrew,Andrew,NULL,Bynum,NULL,NULL,NULL,NULL,C,0,0,84,285,none,NULL,1987-10-28,Plainsboro,NJ,USA,"St. Joseph / Solebury Prep","Metuchen / New Hope","NJ / PA",USA,0000-00-00,B
+bynumwi01,Will,William,NULL,Bynum,NULL,NULL,NULL,Will,G,0,0,72,185,"Georgia Tech",Arizona,1983-01-04,Chicago,IL,USA,"Crane Tech",Chicago,IL,USA,0000-00-00,B
+byrdwa01,Walt,Walter,NULL,Byrd,NULL,NULL,NULL,Walt,F,0,0,79,205,Temple,NULL,0000-00-00,NULL,NULL,NULL,Central,Philadelphia,PA,USA,0000-00-00,B
+byrnema01,Marty,Martin,William,Byrnes,NULL,NULL,NULL,Marty,F,0,0,79,215,Syracuse,NULL,1956-04-30,Syracuse,NY,USA,Sutherland,Pittsford,NY,USA,0000-00-00,W
+byrneto01,Tommy,Thomas,P.,Byrnes,NULL,NULL,NULL,Tommy,F-G,0,0,75,175,"Seton Hall",NULL,1923-02-19,"New York",NY,USA,"DeWitt Clinton",Bronx,NY,USA,1981-01-09,W
+bytzumi01,Michael,Michael,John,Bytzura,NULL,NULL,NULL,Mike,F,0,0,73,170,LIU,Duquesne,1922-06-18,NULL,NULL,NULL,Duquesne,Pittsburgh,PA,USA,1989-01-24,W
+bzdelje01,Jeff,Jeff,NULL,Bzdelik,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+cabarza01,Zarko,Zarko,NULL,Cabarkapa,NULL,NULL,NULL,NULL,F-C,0,0,83,235,none,NULL,1981-05-21,Zrenjanin,NULL,YUG,NULL,NULL,NULL,NULL,0000-00-00,W
+cableba01,Barney,Byrum,William,Cable,NULL,NULL,NULL,Barney,F,0,0,79,175,Bradley,NULL,1935-07-29,Monaca,PA,USA,Rochester,Rochester,PA,USA,0000-00-00,W
+cableso01,NULL,Howard,NULL,Cable,NULL,NULL,NULL,Soup,F-G-C,0,0,75,200,Akron,NULL,0000-00-00,NULL,NULL,NULL,"Akron West",Akron,OH,USA,0000-00-00,W
+caffeja01,Jason,Jason,Andre,Caffey,NULL,NULL,NULL,NULL,F,0,0,80,255,Alabama,NULL,1973-06-12,Mobile,AL,USA,Davidson,Mobile,AL,USA,0000-00-00,B
+cagemi01,Michael,Michael,Jerome,Cage,NULL,NULL,NULL,"John Shaft",F-C,0,0,81,224,"San Diego State",NULL,1962-01-28,"West Memphis",AR,USA,"West Memphis","West Memphis",AR,USA,0000-00-00,B
+calabge01,Gerry,Gerald,A.,Calabrese,NULL,NULL,NULL,Gerry,G,0,0,73,175,"St. John's (NY)",NULL,1925-02-04,NULL,NULL,NULL,"Cliffside Park","Cliffside Park",NJ,USA,0000-00-00,W
+caldejo01,Jose,Jose,Manuel,"Calderon Borrallo",NULL,NULL,NULL,NULL,G,0,0,75,210,none,NULL,1981-09-28,"Villanueva de La Serena",NULL,ESP,NULL,NULL,NULL,NULL,0000-00-00,W
+caldwad01,Adrian,Adrian,Bernard,Caldwell,NULL,NULL,NULL,A.C.,F-C,0,0,80,255,Lamar,"Navarro JC / Southern Methodist",1966-07-04,"Falls County",TX,USA,"West Oso","Corpus Christi",TX,USA,0000-00-00,B
+caldwji01,Jim,James,W.,Caldwell,NULL,NULL,Jr.,Jim,C,0,0,82,225,"Georgia Tech",NULL,1943-01-28,Durham,NC,USA,Lawrenceburg,Lawrenceburg,IN,USA,0000-00-00,W
+caldwjo01,Joe,Joe,Louis,Caldwell,NULL,NULL,NULL,Pogo,F-G,0,0,77,195,"Arizona State",NULL,1941-11-01,"Texas City",TX,USA,"John C. Fremont","Los Angeles",CA,USA,0000-00-00,B
+calhobi01,Bill,William,C.,Calhoun,NULL,NULL,NULL,Bill,F-G,0,0,75,180,"San Francisco City",NULL,1927-11-04,"San Francisco",CA,USA,Lowell,"San Francisco",CA,USA,0000-00-00,W
+calhoco01,Corky,David,L.,Calhoun,NULL,NULL,NULL,Corky,F,0,0,79,210,Pennsylvania,NULL,1950-11-01,Waukegan,IL,USA,Waukegan,Waukegan,IL,USA,0000-00-00,B
+calihbo01,NULL,Robert,J.,Calihan,NULL,NULL,NULL,Bob,F-G-C,0,0,75,200,Detroit,"San Francisco City?",1918-08-02,Perry,IA,USA,"St. George",Evanston,IL,USA,0000-00-00,W
+calipde01,Demetrius,Demetrius,NULL,Calip,NULL,NULL,NULL,NULL,G,0,0,73,165,Michigan,NULL,1969-11-18,Flint,MI,USA,Northern,Flint,MI,USA,0000-00-00,B
+calipjo01,John,John,NULL,Calipari,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+callato01,Tom,Thomas,Francis,Callahan,NULL,NULL,NULL,Tom,G,0,0,73,180,Rockhurst,"Notre Dame",1921-06-02,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1996-10-03,W
+callori01,Rick,Richard,Marlon,Calloway,NULL,NULL,NULL,"Rick, Ricky",F,0,0,78,180,Kansas,Indiana,1966-10-12,Cincinnati,OH,USA,Withrow,Cincinnati,OH,USA,0000-00-00,B
+calveer01,Ernie,Ernest,A.,Calverley,NULL,NULL,NULL,Ernie,G,0,0,70,145,"Rhode Island",NULL,1924-01-30,Pawtucket,RI,USA,East,Pawtucket,RI,USA,2003-10-20,W
+calvima01,Mack,Mack,NULL,Calvin,NULL,NULL,NULL,NULL,G,0,0,72,165,USC,"Long Beach City",1947-07-27,"Fort Worth",TX,USA,"Long Beach Polytech","Long Beach",CA,USA,0000-00-00,B
+cambrde01,Dexter,Dexter,Ryan,Cambridge,NULL,NULL,NULL,NULL,F,0,0,79,224,Texas,"Lon Morris J.C. (TX)",1970-01-29,Eleuthra,NULL,BAH,"A.F. Adderly",Nassau,NULL,BAH,0000-00-00,B
+cambyma01,Marcus,Marcus,D.,Camby,NULL,NULL,NULL,NULL,C-F,0,0,83,220,Massachusetts,NULL,1974-03-22,Hartford,CT,USA,"Hartford Public / Conard","Hartford / West Hartford",CT,USA,0000-00-00,B
+camicjo01,NULL,Joe,NULL,Camic,NULL,NULL,NULL,"The Rankin Razor",F-C,0,0,76.5,195,Duquesne,NULL,0000-00-00,NULL,NULL,NULL,Rankin,Rankin,PA,USA,0000-00-00,W
+campbel01,Elden,Elden,Jerome,Campbell,NULL,NULL,NULL,"Big E, Easy",F-C,0,0,83,215,Clemson,NULL,1968-07-23,"Los Angeles",CA,USA,Morningside,Inglewood,CA,USA,0000-00-00,B
+campbfr01,NULL,Fred,NULL,Campbell,NULL,NULL,NULL,NULL,G,0,0,71,175,"Southern Illinois",NULL,0000-00-00,NULL,NULL,NULL,Herrin,Herrin,IL,USA,0000-00-00,W
+campbke01,NULL,Albert,NULL,Campbell,NULL,NULL,NULL,"Kenton, Ken, Dutch",F,0,0,76,195,Kentucky,NULL,0000-00-00,NULL,NULL,NULL,Newark,Newark,OH,USA,0000-00-00,W
+campbto01,Tony,Anthony,NULL,Campbell,NULL,NULL,NULL,"Tony, Top Cat, T.C.",F-G,0,0,79,215,"Ohio State",NULL,1962-05-07,Teaneck,NJ,USA,Teaneck,Teaneck,NJ,USA,0000-00-00,B
+campied01,NULL,Ed,NULL,Campion,NULL,NULL,NULL,NULL,G,0,0,74,190,DePaul,NULL,0000-00-00,NULL,NULL,NULL,"St. George",Evanston,IL,USA,0000-00-00,W
+canalka01,Kaleb,Kaleb,NULL,Canales,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+cannola01,Larry,Lawrence,T.,Cannon,NULL,NULL,NULL,Larry,G,0,0,76,195,LaSalle,NULL,1947-04-12,Philadelphia,PA,USA,Lincoln,Philadelphia,PA,USA,0000-00-00,W
+caracde01,Derrick,Derrick,NULL,Caracter,NULL,NULL,NULL,NULL,F,0,0,81,275,UTEP,NULL,1988-05-04,Fanwood,NJ,USA,"St. Patrick's /Scotch Plains-Fanwood/ Notre Dame Prep","Elizabeth / Scotch Plains / Fitchburg","NJ / NJ / MA",USA,0000-00-00,B
+cardfr01,Frank,Frank,Howard,Card,NULL,NULL,NULL,NULL,F,0,0,79,195,"South Carolina State",NULL,1944-12-28,Philadelphia,PA,USA,West,Philadelphia,PA,USA,0000-00-00,B
+cardibr01,Brian,Brian,Lee,Cardinal,NULL,NULL,NULL,NULL,F,0,0,80,245,Purdue,NULL,1977-05-02,Tolono,IL,USA,Unity,Tolono,IL,USA,0000-00-00,W
+careyke01,NULL,Keith,E.,Carey,NULL,NULL,NULL,NULL,G,0,0,75,190,Alma,NULL,1920-03-05,NULL,NULL,NULL,Charlevoix,Charlevoix,MI,USA,1999-02-15,W
+carlepj01,PJ,PJ,NULL,Carlesimo,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+carlho01,Howie,Howard,Hershey,Carl,NULL,NULL,NULL,"Howie, Hersh",G,0,0,69,160,DePaul,Illinois,1938-06-07,Chicago,IL,USA,"Von Steuben",Chicago,IL,USA,2005-10-24,W
+carlich01,Chet,Chester,Gray,Carlisle,NULL,NULL,NULL,Chet,F-C,0,0,77,195,California,NULL,1916-11-02,NULL,LA,USA,Pomona,Pomona,CA,USA,1988-08-03,W
+carlige01,Geno,Geno,Marcellus,Carlisle,NULL,NULL,NULL,NULL,G,0,0,75,191,California,NULL,1976-08-13,"Grand Rapids",MI,USA,"Ottawa Hills","Grand Rapids",MI,USA,0000-00-00,B
+carliri01,Rick,Richard,Preston,Carlisle,NULL,NULL,NULL,Rick,G,0,0,77,207,Virginia,Maine,1959-10-27,Ogdensburg,NY,USA,"Worcester Academy/Central","Worcester / Lisbon","MA / NY",USA,0000-00-00,W
+carlodo01,Don,Don,A.,Carlos,NULL,NULL,NULL,NULL,G-F,0,0,76.5,210,Otterbein,NULL,1944-03-03,Columbus,OH,USA,"Eastmoor / Whitehall",Columbus,OH,USA,0000-00-00,W
+carlsal01,Al,Alvin,Harold,Carlson,NULL,NULL,NULL,Al,C,0,0,83,235,"Southern California College         ",Oregon,1951-09-17,Oceanside,CA,USA,"Garden Grove","Garden Grove",CA,USA,0000-00-00,W
+carlsdo01,Don,Donald,Vernon,Carlson,NULL,NULL,NULL,"Don, Swede",G-F,0,0,72,170,Minnesota,NULL,1919-03-22,NULL,MN,USA,Edison,Minneapolis,MN,USA,2004-10-16,W
+carltle01,NULL,Leroy,NULL,Carlton,NULL,NULL,NULL,NULL,C,0,0,78,200,"North Carolina",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+carnebo01,Bob,Robert,Lee,Carney,NULL,NULL,NULL,Bob,G,0,0,75,170,Bradley,NULL,1932-08-03,NULL,NULL,NULL,West,Aurora,IL,USA,2011-11-09,W
+carneda01,NULL,Daniel,J.,Carnevale,NULL,NULL,NULL,Dan,G,0,0,72,185,Canisius,NULL,1918-02-08,Buffalo,NY,USA,"St. Josephs",Buffalo,NY,USA,2005-12-29,W
+carnelo01,Lou,Lou,NULL,Carnesecca,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+carnero01,Rodney,Rodney,Dion,Carney,NULL,NULL,NULL,NULL,F,0,0,79,205,Memphis,NULL,1984-04-15,Memphis,TN,USA,"Northwest ",Indianapolis,IN,USA,0000-00-00,B
+carpebo01,Bob,Robert,M.,Carpenter,NULL,NULL,NULL,Bob,F-C,0,0,77,200,"East Texas State",NULL,1917-11-06,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1997-04-18,W
+carpto01,NULL,Anthony,NULL,Carp,NULL,NULL,NULL,Tony,F,0,0,79,215,"St. John's (NY)",NULL,1911-03-02,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+carran01,Antoine,Antoine,Labotte,Carr,NULL,NULL,NULL,"A.C., The Big Dog",F-C,0,0,81,225,"Wichita State",NULL,1961-07-23,"Oklahoma City",OK,USA,"Wichita Heights",Wichita,KS,USA,0000-00-00,B
+carrau01,Austin,Austin,George,Carr,NULL,NULL,NULL,NULL,G,0,0,76,200,"Notre Dame",NULL,1948-03-10,Washington,DC,USA,Mackin,Washington,DC,USA,0000-00-00,B
+carrch01,Chris,Chris,Dean,Carr,NULL,NULL,NULL,NULL,G,0,0,77,207,"Southern Illinois",NULL,1974-03-12,Ironton,MI,USA,"Arcadia Valley","Pilot Knob",MO,USA,0000-00-00,B
+carrco01,Cory,Cory,Jermaine,Carr,NULL,NULL,NULL,NULL,G,0,0,75,210,"Texas Tech",NULL,1975-12-05,Fordyce,AR,USA,Kingsland,Kingsland,AR,USA,0000-00-00,B
+carribo01,Bob,Robert,Frederick,Carrington,NULL,NULL,NULL,Bob,G-F,0,0,78,195,"Boston College",NULL,1953-07-03,Brookline,MA,USA,"Archbishop Williams",Braintree,MA,USA,0000-00-00,B
+carrida01,Darel,James,Darel,Carrier,NULL,NULL,NULL,Darel,G,0,0,75,185,"Western Kentucky",NULL,1940-10-26,"Warren County",KY,USA,Bristow,Bristow,KY,USA,0000-00-00,W
+carrke01,Kenny,Kenneth,Alan,Carr,NULL,NULL,NULL,Kenny,F,0,0,79,220,"North Carolina State",NULL,1955-08-15,Washington,DC,USA,"DeMatha Catholic",Hyattsville,MD,USA,0000-00-00,B
+carrml01,M.L.,Michael,Leon,Carr,NULL,NULL,NULL,M.L.,F-G,0,0,78,205,Guilford,NULL,1951-01-09,Wallace,NC,USA,"Wallace Rose Hill",Teachey,NC,USA,0000-00-00,B
+carrode01,DeMarre,DeMarre,LaEdrick,Carroll,NULL,NULL,NULL,NULL,F,0,0,80,212,Missouri,Vanderbilt,1986-07-27,Birmingham,AL,USA,"John Carroll Catholic",Birmingham,AL,USA,0000-00-00,B
+carrojo01,"Joe Barry",Joe,Barry,Carroll,NULL,NULL,NULL,"Joe Barry, J.B.",C-F,0,0,82,225,Purdue,NULL,1958-07-24,"Pine Bluff",AR,USA,East,Denver,CO,USA,0000-00-00,B
+carrojo02,John,John,NULL,Carroll,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+carroma01,Matt,Matthew,John,Carroll,NULL,NULL,NULL,Matt,G,0,0,78,212,"Notre Dame",NULL,1980-08-28,Pittsburgh,PA,USA,Hatsboro-Horsham,Horsham,PA,USA,0000-00-00,W
+carruji01,Jimmy,Jimmy,Dawn,Carruth,NULL,NULL,II,NULL,C-F,0,0,82,265,"Virginia Tech",NULL,1969-11-04,"El Paso",TX,USA,"Stephen F. Austin","Port Arthur",TX,USA,0000-00-00,B
+carswte01,NULL,Frank,Willis,Carswell,NULL,NULL,NULL,"Tex, Wheels",G,0,0,72,185,Rice,NULL,1919-11-06,Palestine,TX,USA,"Jefferson Davis",Houston,TX,USA,1998-10-16,W
+cartean01,Anthony,Anthony,Bernard,Carter,NULL,NULL,NULL,NULL,G,0,0,73,190,Hawaii,"Saddleback CC",1975-06-16,Atlanta,GA,USA,"Alonzo A. Crim",Atlanta,GA,USA,0000-00-00,B
+cartebu01,Butch,Clarence,Eugene,Carter,NULL,NULL,Jr.,Butch,G,0,0,77,180,Indiana,NULL,1958-06-11,Springfield,OH,USA,Middletown,Middletown,OH,USA,0000-00-00,B
+cartefr01,Fred,Frederick,James,Carter,NULL,NULL,NULL,"Fred, Mad Dog",G-F,0,0,75,185,"Mount St. Mary's",NULL,1945-02-14,Philadelphia,PA,USA,"Temple / Benjamin Franklin / Roman Catholic",Philadelphia,PA,USA,0000-00-00,B
+cartege01,George,George,NULL,Carter,NULL,NULL,NULL,"Dirty Dingus",F-G,0,0,76,210,"St. Bonaventure",NULL,1944-01-10,Buffalo,NY,USA,"Silver Creek","Silver Creek",NY,USA,0000-00-00,B
+carteho01,Howard,Howard,O'Neal,Carter,NULL,NULL,NULL,NULL,G,0,0,77,215,"Louisiana State",NULL,1961-10-26,"Baton Rouge",LA,USA,Redemptorist,"Baton Rouge",LA,USA,0000-00-00,B
+cartehu01,NULL,Hugh,NULL,Carter,NULL,NULL,NULL,NULL,G,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+carteja01,Jake,John,Douglas,Carter,NULL,NULL,NULL,"Jake, Jack",F-C,0,0,76,195,"East Texas State",NULL,1924-07-25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+cartema01,Maurice,Maurice,NULL,Carter,NULL,NULL,NULL,NULL,G,0,0,77,210,"Louisiana State",NULL,1976-10-12,Jackson,MS,USA,"Forrest Hill",Jackson,MS,USA,0000-00-00,B
+cartere01,Reggie,Reginald,NULL,Carter,NULL,NULL,NULL,Reggie,G,0,0,75,169,"St. John's (NY)",Hawaii,1957-10-10,"New York",NY,USA,"Long Island Lutheran",Brookville,NY,USA,1999-12-24,B
+cartero01,Ron,Ronald,NULL,Carter,NULL,NULL,Jr.,Ron,G,0,0,77,190,VMI,NULL,1956-08-31,Pittsburgh,PA,USA,Perry,Pittsburgh,PA,USA,0000-00-00,B
+cartevi01,Vince,Vincent,Lamar,Carter,NULL,NULL,Jr.,"Vince, Air Canada, Half-Man/Half-Amazing",F,0,0,78,215,"North Carolina",NULL,1977-01-26,"Daytona Beach",FL,USA,"Daytona Beach Mainland","Daytona Beach",FL,USA,0000-00-00,B
+cartwbi01,Bill,James,William,Cartwright,NULL,NULL,NULL,"Bill, Mr. Bill",C,0,0,85,230,"San Francisco   ",NULL,1957-07-30,Lodi,CA,USA,"Elk Grove","Elk Grove",CA,USA,0000-00-00,B
+cartyja01,Jay,Jay,J.,Carty,NULL,NULL,Jr.,NULL,F,0,0,79.5,220,"Oregon State",NULL,1941-07-04,"West Plains",MO,USA,Burroughs,"China Lake",CA,USA,0000-00-00,W
+caseydo01,Don,Don,NULL,Casey,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+caseydw01,Dwane,Dwane,NULL,Casey,NULL,NULL,NULL,NULL,NULL,0,0,0,0,Kentucky,NULL,1957-04-17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+cashco01,Cornelius,Cornelius,NULL,Cash,NULL,NULL,Jr.,NULL,F,0,0,80,215,"Bowling Green",NULL,1952-03-03,Macon,MS,USA,Dunbar,Dayton,OH,USA,0000-00-00,B
+cashsa01,Sam,Sam,NULL,Cash,NULL,NULL,NULL,NULL,F,0,0,80,230,California-Riverside,"San Bernadino Valley",1950-11-13,NULL,NULL,NULL,Pacific,"San Bernadino",CA,USA,0000-00-00,B
+cassesa01,Sam,Samuel,James,Cassell,NULL,NULL,NULL,Sam,G,0,0,75,185,"Florida State","San Jacinto JC",1969-11-18,Baltimore,MD,USA,Dunbar,Baltimore,MD,USA,0000-00-00,B
+casspom01,Omri,Omri,NULL,Casspi,NULL,NULL,NULL,NULL,F,0,0,81,211,none,NULL,1988-06-22,Holon,NULL,ISR,NULL,NULL,NULL,NULL,0000-00-00,W
+castejo01,John,John,NULL,Castellani,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+catchha01,Harvey,Harvey,Lee,Catchings,NULL,NULL,NULL,NULL,C-F,0,0,81,218,Hardin-Simmons,Weatherford,1951-09-02,Jackson,MS,USA,"Jim Hill",Jackson,MS,USA,0000-00-00,B
+catebu01,NULL,Buddy,NULL,Cate,NULL,NULL,NULL,NULL,F,0,0,77,195,"Western Kentucky",NULL,0000-00-00,NULL,NULL,NULL,Bradley,Cleveland,TN,USA,0000-00-00,W
+cathcji01,NULL,Jim,NULL,Cathcart,NULL,NULL,NULL,NULL,F,0,0,76,205,Arkansas,NULL,0000-00-00,NULL,NULL,NULL,Central,"Little Rock",AR,USA,0000-00-00,W
+catlesi01,Sid,Sidny,Leon,Catlett,NULL,NULL,NULL,Sid,F,0,0,78,230,"Notre Dame",NULL,1948-04-18,NULL,NULL,NULL,"DeMatha Catholic",Hyattsville,MD,USA,0000-00-00,B
+catlete01,Terry,Terry,DeWayne,Catledge,NULL,NULL,NULL,"Cat Man",F,0,0,80,220,"South Alabama","Itawamba JC",1963-08-22,Houston,MS,USA,Houston,Houston,MS,USA,0000-00-00,B
+catoke01,Kelvin,Kelvin,T.,Cato,NULL,NULL,NULL,NULL,C,0,0,83,255,"Iowa State","South Alabama",1974-08-26,Atlanta,GA,USA,Lithonia,Decatur,GA,USA,0000-00-00,B
+cattabo01,Bobby,Robert,Lewis,Cattage,NULL,NULL,NULL,Bobby,F,0,0,81,250,Auburn,NULL,1958-08-17,Huntsville,AL,USA,"J.O. Johnson",Huntsville,AL,USA,0000-00-00,B
+causwdu01,Duane,Duane,NULL,Causwell,NULL,NULL,NULL,NULL,C,0,0,84,240,Temple,NULL,1968-05-31,"Queens Village",NY,USA,"Benjamin Cardozo",Bayside,NY,USA,0000-00-00,B
+cavenro01,Ron,Ronnie,Goodall,Cavenall,NULL,NULL,NULL,Ron,C,0,0,85,230,"Texas Southern",NULL,1959-04-30,Beaumont,TX,USA,Charlton-Pollard,Beaumont,TX,USA,0000-00-00,B
+cazzevi01,Vince,Vince,NULL,Cazzetta,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+cebalce01,Cedric,Cedric,Z.,Ceballos,NULL,NULL,NULL,Ice,F,0,0,78,190,"Cal. State- Fullerton",Ventura,1969-08-02,Maui,HI,USA,Dominguez,Compton,CA,USA,0000-00-00,B
+celesjo01,John,John,NULL,Celestand,NULL,NULL,NULL,NULL,G,0,0,75,178,Villanova,NULL,1977-03-06,Houston,TX,USA,Piscataway,Piscataway,NJ,USA,0000-00-00,B
+cervial01,Al,Alfred,Nicholas,Cervi,NULL,NULL,NULL,"Al, Digger",G-F,0,0,71,170,none,NULL,1917-02-12,Buffalo,NY,USA,East,Buffalo,NY,USA,2009-11-09,W
+chalmli01,Lionel,Lionel,NULL,Chalmers,NULL,NULL,Jr.,NULL,G,0,0,72,180,Xavier,NULL,1980-11-10,Albany,NY,USA,Albany,Albany,NY,USA,0000-00-00,B
+chalmma01,Mario,Almario,Vernard,Chalmers,NULL,NULL,NULL,Mario,NULL,0,0,73,190,Kansas,NULL,1986-05-19,Anchorage,AK,USA,Bartlett,Anchorage,AK,USA,0000-00-00,B
+chambbi01,Bill,William,Martin,Chamberlain,NULL,NULL,NULL,Bill,F,0,0,78,181,"North Carolina",NULL,1949-12-16,NULL,NULL,NULL,"Long Island Lutheran",Brookville,NY,USA,0000-00-00,B
+chambje01,Jerry,Jerome,Purcell,Chambers,NULL,NULL,NULL,Jerry,F,0,0,77,185,Utah,"Trinidad State JC",1943-07-18,Washington,DC,USA,Eastern,Washington,DC,USA,0000-00-00,B
+chambto01,Tom,Thomas,Doane,Chambers,NULL,NULL,NULL,Tom,F-C,0,0,81,220,Utah,NULL,1959-06-21,Ogden,UT,USA,Fairview,Boulder,CO,USA,0000-00-00,W
+chambwi01,Wilt,Wilton,Norman,Chamberlain,NULL,NULL,NULL,"Wilt, Wilt the Stilt, the Big Dipper",C,0,0,85,250,Kansas,NULL,1936-08-21,Philadelphia,PA,USA,Overbrook,Philadelphia,PA,USA,1999-10-12,B
+champmi01,Mike,Mike,O.,Champion,NULL,NULL,NULL,NULL,F,0,0,82,230,Gonzaga,NULL,1964-04-05,Everett,WA,USA,Everett,Everett,WA,USA,0000-00-00,W
+chandty01,Tyson,Tyson,Cleotis,Chandler,NULL,NULL,NULL,NULL,F-C,0,0,84,235,none,NULL,1982-10-02,Hanford,CA,USA,Dominguez,Compton,CA,USA,0000-00-00,B
+chandwi01,Wilson,Wilson,Jamall,Chandler,NULL,NULL,NULL,NULL,F,0,0,80,220,DePaul,NULL,1987-05-10,"Benton Harbor",MI,USA,"Benton Harbor","Benton Harbor",MI,USA,0000-00-00,B
+chanedo01,Don,Donald,R.,Chaney,NULL,NULL,NULL,"Don, Duck",G,0,0,77,210,Houston,NULL,1946-03-22,"Baton Rouge",LA,USA,McKinley,"Baton Rouge",LA,USA,0000-00-00,B
+chanejo01,John,John,Louie,Chaney,NULL,NULL,NULL,NULL,F-C-G,0,0,75,185,"Louisiana State",NULL,1920-02-29,NULL,NULL,NULL,Zachary,Zachary,LA,USA,2004-08-09,W
+chapmre01,Rex,Rex,Everett,Chapman,NULL,NULL,NULL,"The Boy Wonder",G,0,0,76,185,Kentucky,NULL,1967-10-05,"Bowling Green",KY,USA,Apollo,Owensboro,KY,USA,0000-00-00,W
+chapmwa01,Wayne,Wayne,G.,Chapman,NULL,NULL,NULL,NULL,G-F,0,0,77,190,"Western Kentucky",NULL,1945-06-15,Owensboro,KY,USA,"Daviess Co.",Owensboro,KY,USA,0000-00-00,W
+chapple01,Len,Leonard,Roy,Chappell,NULL,NULL,NULL,"Len, Lennie, Tyrone, Stein",F-C,0,0,80,240,"Wake Forest",NULL,1941-01-31,Portage,PA,USA,Portage,Portage,PA,USA,0000-00-00,W
+charlke01,Ken,Kenneth,M.,Charles,NULL,NULL,NULL,Ken,G,0,0,75,180,Fordham,NULL,1951-07-10,NULL,NULL,TRI,"Brooklyn Prep",Brooklyn,NY,USA,0000-00-00,B
+charllo01,Lorenzo,Lorenzo,Emile,Charles,NULL,NULL,NULL,NULL,F,0,0,79,225,"North Carolina State",NULL,1963-11-25,Brooklyn,NY,USA,"Brooklyn Tech",Brooklyn,NY,USA,2011-06-27,B
+cheanca01,Calbert,Calbert,Nathaniel,Cheaney,NULL,NULL,NULL,Cal,F-G,0,0,79,209,Indiana,NULL,1971-07-17,Evansville,IN,USA,Harrison,Evansville,IN,USA,0000-00-00,B
+cheekma01,Maurice,Maurice,Edward,Cheeks,NULL,NULL,NULL,Mo,G,0,0,73,180,"West Texas State",NULL,1956-09-08,Chicago,IL,USA,DuSable,Chicago,IL,USA,0000-00-00,B
+cheniph01,Phil,Philip,NULL,Chenier,NULL,NULL,NULL,Phil,G,0,0,75,180,California,NULL,1950-10-30,Berkeley,CA,USA,Berkeley,Berkeley,CA,USA,0000-00-00,B
+chestge01,NULL,George,NULL,Chestnut,NULL,NULL,NULL,NULL,C-F,0,0,77,210,"Indiana State",NULL,1911-09-27,Odon,IN,USA,NULL,NULL,NULL,NULL,0000-00-00,W
+chievde01,Derrick,Derrick,Joseph,Chievous,NULL,NULL,NULL,Band-Aid,F,0,0,79,195,Missouri,NULL,1967-07-03,"New York",NY,USA,"Holy Cross",Flushing,NY,USA,0000-00-00,B
+chilcpe01,Pete,Peter,Shawn,Chilcutt,NULL,NULL,NULL,"Pete, Chili Pete",F-C,0,0,82,230,"North Carolina",NULL,1968-09-14,Sumter,SC,USA,"Tuscaloosa Academy",Eutaw,AL,USA,0000-00-00,W
+childch01,Chris,Chris,NULL,Childs,NULL,NULL,NULL,NULL,G,0,0,75,195,"Boise State",NULL,1967-11-20,Bakersfield,CA,USA,Foothill,Bakersfield,CA,USA,0000-00-00,B
+childjo01,Josh,Joshua,Malik,Childress,NULL,NULL,NULL,Josh,F-G,0,0,80,210,Stanford,NULL,1983-06-20,"Harbor City",CA,USA,Mayfair,Lakewood,CA,USA,0000-00-00,B
+childra01,Randolph,Randolph,NULL,Childress,NULL,NULL,NULL,NULL,G,0,0,74,188,"Wake Forest",NULL,1972-09-21,Washington,DC,USA,"Flint Hill Prep",Oakton,VA,USA,0000-00-00,B
+chmiemo01,NULL,William,I.,Chmielewski,NULL,NULL,NULL,"Bill, Moose",C,0,0,81,235,Dayton,NULL,1941-12-12,NULL,NULL,NULL,"Holy Redeemer",Detroit,MI,USA,0000-00-00,W
+chollle01,Leroy,Leroy,Patrick,Chollet,NULL,NULL,NULL,NULL,F,0,0,74,190,Canisius,"Loyola (LA)",1924-03-05,"New Orleans",LA,USA,"Holy Cross","New Orleans",LA,USA,1998-06-10,W
+choneji01,Jim,James,Bernett,Chones,NULL,NULL,NULL,Jim,C-F,0,0,83,220,Marquette,NULL,1949-11-30,Racine,WI,USA,"Washington Park / St. Catherines",Racine,WI,USA,0000-00-00,B
+chrisbo01,Bob,Bob,NULL,Christian,NULL,NULL,NULL,Bobby,C,0,0,82,255,Grambling,NULL,1946-05-11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,B
+chrisca01,Cal,Calvin,Lawrence,Christensen,NULL,NULL,NULL,Cal,F-C,0,0,77,210,Toledo,NULL,1927-06-06,Toledo,OH,USA,Macomber,Toledo,OH,USA,2011-08-31,W
+chrisdo01,Doug,Douglas,Dale,Christie,NULL,NULL,NULL,Doug,G-F,0,0,78,200,Pepperdine,NULL,1970-05-09,Seattle,WA,USA,"Rainier Beach",Seattle,WA,USA,0000-00-00,B
+chrisfr01,Fred,Frederick,L.,Christ,NULL,NULL,NULL,Fred,G,0,0,76,210,Fordham,NULL,1930-08-06,Glendale,NY,USA,"St. John's Prep",Brooklyn,NY,USA,0000-00-00,W
+chubist01,Steve,Stephen,NULL,Chubin,NULL,NULL,NULL,"Steve, Chube",G,0,0,74,200,"Rhode Island",NULL,1944-02-08,"New York",NY,USA,"Forest Hills","Forest Hills",NY,USA,0000-00-00,W
+chuckch01,NULL,Charles,H.,Chuckovits,NULL,NULL,NULL,Chuck,F-G,0,0,73,175,Toledo,NULL,1912-07-10,Akron,OH,USA,"St. Vincents",Akron,OH,USA,1991-08-12,W
+churcra01,NULL,Ralph,L.,Churchfield,NULL,NULL,NULL,NULL,G-F,0,0,77,220,"Washington & Jefferson",NULL,1918-01-01,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1995-10-07,W
+churcro01,Robert,Robert,NULL,Churchwell,NULL,NULL,NULL,NULL,G-F,0,0,78,195,Georgetown,NULL,1972-02-20,"South Bend",IN,USA,Gonzaga,Washington,DC,USA,0000-00-00,B
+cihlaha01,NULL,Harold,J.,Cihlar,NULL,NULL,NULL,Hal,F-C,0,0,77,210,"Case Reserve",NULL,1914-07-16,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1995-08-21,W
+cincejo01,NULL,Jon,NULL,Cincebox,NULL,NULL,NULL,NULL,F-C,0,0,79,230,Syracuse,NULL,1936-12-12,NULL,NULL,NULL,"Binghamton Central",Binghamton,NY,USA,0000-00-00,W
+clarkar01,Archie,Archie,L.,Clark,NULL,NULL,NULL,NULL,G,0,0,74,175,Minnesota,NULL,1941-07-15,Conway,AR,USA,Ecorse,Ecorse,MI,USA,0000-00-00,B
+clarkbo01,NULL,Bob,NULL,Clarke,NULL,NULL,NULL,NULL,F,0,0,81,200,"St. Joseph's",NULL,1939-03-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+clarkca01,Carlos,Carlos,R.,Clark,NULL,NULL,NULL,NULL,G,0,0,76,209,Mississippi,NULL,1960-08-10,Somerville,TN,USA,Fayette-Ware,Somerville,TN,USA,0000-00-00,B
+clarkdi01,Dick,Richard,C.,Clark,NULL,NULL,NULL,Dick,G,0,0,76,190,"Eastern Kentucky",NULL,1944-01-05,Findley,OH,USA,Naperville,Naperville,IL,USA,1988-09-04,W
+clarkea01,Earl,Earl,Rashad,Clark,NULL,NULL,NULL,NULL,F,0,0,82,226,Louisville,NULL,1988-01-17,Plainfield,NJ,USA,Rahway,Rahway,NJ,USA,0000-00-00,B
+clarkjo01,John,John,NULL,Clark,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+clarkke01,Keon,Arian,Keon,Clark,NULL,NULL,NULL,Keon,F,0,0,83,220,UNLV,"Irvine Valley / Dixie",1975-04-16,Danville,IL,USA,Danville,Danville,IL,USA,0000-00-00,B
+clawsjo01,John,John,Richard,Clawson,NULL,NULL,NULL,NULL,F,0,0,76,200,Michigan,NULL,1944-05-15,Duluth,MN,USA,Naperville,Naperville,IL,USA,0000-00-00,W
+claxtch01,Charles,Charles,NULL,Claxton,NULL,NULL,Jr.,NULL,C,0,0,84,265,Georgia,NULL,1970-12-13,"St. Thomas",NULL,ISV,"Carol City",Miami,FL,USA,0000-00-00,B
+claxtsp01,Speedy,Craig,NULL,Claxton,NULL,NULL,NULL,Speedy,G,0,0,71,166,Hofstra,NULL,1978-05-08,Hempstead,NY,USA,"Christ the King","Middle Village",NY,USA,0000-00-00,B
+cleamji01,Jim,James,Mitchell,Cleamons,NULL,NULL,NULL,"Jim, Jimmy",G,0,0,75,184,"Ohio State",NULL,1949-09-13,Lincolnton,NC,USA,"Linden McKinley",Columbus,OH,USA,0000-00-00,B
+cleardo01,NULL,Don,NULL,Cleary,NULL,NULL,NULL,NULL,F,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+cleavma01,Mateen,Mateen,NULL,Cleaves,NULL,NULL,NULL,NULL,G,0,0,74,205,"Michigan State",NULL,1977-09-07,Flint,MI,USA,Northern,Flint,MI,USA,0000-00-00,B
+clemeba01,Barry,John,Barry,Clemens,NULL,NULL,NULL,Barry,F,0,0,78,210,"Ohio Wesleyan",NULL,1943-05-01,Dayton,OH,USA,Xenia,Xenia,OH,USA,0000-00-00,W
+cliffro01,Roy,Roy,NULL,Clifford,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+cliftna01,Nat,Nathaniel,NULL,Clifton,NULL,"Clifton Nathaniel",NULL,"Sweetwater, Nat, Sweets",C-F,0,0,78,220,"Xavier (LA)",NULL,1922-10-13,England,AR,USA,Dusable,Chicago,IL,USA,1990-08-31,B
+clossbi01,Bill,Bill,Tom,Closs,NULL,NULL,NULL,"Bill, Bill Tom",F-C,0,0,77,195,Rice,NULL,1922-01-08,Edge,TX,USA,Hearne,Hearne,TX,USA,2011-06-20,W
+closske01,Keith,Keith,Mitchell,Closs,NULL,NULL,Jr.,NULL,C,0,0,87,212,"Central Connecticut State",NULL,1976-04-03,Hartford,CT,USA,"Sierra Vista","Baldwin Park",CA,USA,0000-00-00,B
+cloydpa01,Paul,Paul,V.,Cloyd,NULL,NULL,NULL,NULL,G-F,0,0,74,180,Wisconsin,NULL,1920-06-13,Madison,WI,USA,Baraboo,Baraboo,WI,USA,2005-12-28,W
+cluggbo01,Bob,Robert,Marion,Cluggish,NULL,NULL,NULL,"Bob, Marion",C,0,0,80,235,Kentucky,NULL,1917-09-18,Marion,KY,USA,"Corbin / Williamsburgh / Catlettsburg","Corbin / Williamsburgh / Catlettsburg",KY,USA,2008-09-05,W
+clydebe01,Ben,Bennie,J.,Clyde,NULL,NULL,NULL,"Ben, Glide",F,0,0,79,198,"Florida State","Ellsworth CC",1951-06-10,Albany,GA,USA,Gibbs,"St. Petersburg",FL,USA,0000-00-00,B
+coferdo01,NULL,Doyle,NULL,Cofer,NULL,NULL,NULL,NULL,F,0,0,76,0,"Indiana State",NULL,1923-01-18,Bruceville,IN,USA,NULL,NULL,NULL,NULL,1999-01-15,W
+cofferi01,Richard,Richard,Lee,Coffey,NULL,NULL,NULL,NULL,F,0,0,78,212,Minnesota,NULL,1965-09-02,Aurora,NC,USA,Aurora,Aurora,NC,USA,0000-00-00,B
+cofiefr01,Fred,Frederick,NULL,Cofield,NULL,NULL,NULL,Fred,G,0,0,75,190,"Eastern Michigan",Oregon,1962-01-04,Ypsilanti,MI,USA,Ypsilanti,Ypsilanti,MI,USA,0000-00-00,B
+cohalne01,Neil,Neil,NULL,Cohalan,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,1906-07-31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1968-01-22,NULL
+cohenje01,NULL,Jeffrey,Maxwell,Cohen,NULL,NULL,NULL,Jeff,F-C,0,0,79,225,"William and Mary",NULL,1939-10-06,Kenosha,WI,USA,Kenosha,Kenosha,WI,USA,1978-06-23,W
+cokerjo01,John,John,Michael,Coker,NULL,NULL,NULL,NULL,C,0,0,84,253,"Boise State",NULL,1971-10-28,Richland,WA,USA,Olympic,Bremerton,WA,USA,0000-00-00,W
+colanje01,Jerry,Jerry,NULL,Colangelo,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+colbubo01,NULL,Robert,H.,Colburn,NULL,NULL,NULL,"Bob, Bobby",F,0,0,70,190,"Ohio State",NULL,1911-03-23,Lockland,OH,USA,Stivers,Dayton,OH,USA,2001-02-03,W
+colembe01,Ben,Benjamin,NULL,Coleman,NULL,NULL,NULL,"Ben, Big Ben",F,0,0,81,235,Maryland,Minnesota,1961-11-14,Minneapolis,MN,USA,North,Minneapolis,MN,USA,0000-00-00,B
+colemde01,Derrick,Derrick,D.,Coleman,NULL,NULL,NULL,D.C.,F,0,0,82,230,Syracuse,NULL,1967-06-21,Mobile,AL,USA,Cooley/Northern,Detroit,MI,USA,0000-00-00,B
+colemec01,E.C.,E.C.,NULL,Coleman,NULL,NULL,Jr.,NULL,F,0,0,80,225,"Houston Baptist",NULL,1950-09-25,Flora,MS,USA,"E. Flora",Flora,MS,USA,0000-00-00,B
+colemja01,Jack,Jack,L.,Coleman,NULL,NULL,NULL,"Old Rancher, Blackjack",F-C,0,0,79,195,Louisville,NULL,1924-05-23,Burgin,KY,USA,Burgin,Burgin,KY,USA,1997-12-08,W
+colemki01,NULL,Kelly,NULL,Coleman,NULL,NULL,NULL,King,G-F,0,0,75,215,"Kentucky Wesleyan",NULL,1938-09-21,Wayland,KY,USA,Wayland,Wayland,KY,USA,0000-00-00,W
+colemno01,Norris,Norris,J.,Coleman,NULL,NULL,NULL,NULL,F,0,0,80,210,"Kansas State",NULL,1961-09-27,Jacksonville,FL,USA,Paxon,Jacksonville,FL,USA,0000-00-00,B
+colempa01,NULL,Paul,NULL,Coleman,NULL,NULL,NULL,NULL,G,0,0,74,160,Buffalo,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+colenma01,NULL,Marvin,W.,Colen,NULL,NULL,NULL,Marv,G,0,0,72,170,"Loyola (IL)",NULL,1915-03-08,NULL,NULL,NULL,Roosevelt,Chicago,IL,USA,1989-05-14,W
+coleno01,Norris,Norris,NULL,Cole,NULL,NULL,NULL,NULL,G,0,0,74,170,"Cleveland State",NULL,1988-10-13,Dayton,OH,USA,Dunbar,Dayton,OH,USA,0000-00-00,B
+colesbi01,Bimbo,Vernell,Eufaye,Coles,NULL,NULL,NULL,Bimbo,G,0,0,73,180,"Virginia Tech",NULL,1968-04-22,Covington,VA,USA,"Greenbriar East",Lewisburg,WV,USA,0000-00-00,B
+colliar01,Art,Arthur,NULL,Collins,NULL,NULL,NULL,Art,G,0,0,76,185,Biscayne,NULL,1954-04-14,Sandersville,GA,USA,Jackson,Miami,FL,USA,0000-00-00,B
+collida01,Darren,Darren,Michael,Collison,NULL,NULL,NULL,NULL,G,0,0,72,160,UCLA,NULL,1987-08-23,"Rancho Cucamonga",CA,USA,Etiwanda,"Rancho Cucamonga",CA,USA,0000-00-00,B
+collido01,Doug,Paul,Douglas,Collins,NULL,NULL,NULL,Doug,G-F,0,0,78,180,"Illinois State",NULL,1951-07-28,Christopher,IL,USA,Benton,Benton,IL,USA,0000-00-00,W
+collido02,Don,Donald,NULL,Collins,NULL,NULL,NULL,Don,F-G,0,0,78,190,"Washington State",NULL,1958-11-28,Toledo,OH,USA,Scott,Toledo,OH,USA,0000-00-00,B
+collija01,James,James,Edgar,Collins,NULL,NULL,NULL,NULL,G,0,0,76,196,"Florida State",NULL,1973-11-05,Jacksonville,FL,USA,Jackson,Jacksonville,FL,USA,0000-00-00,B
+collija02,Jason,Jason,Jeffrey,Collier,NULL,NULL,NULL,NULL,F-C,0,0,84,260,"Georgia Tech",Indiana,1977-09-08,Springfield,OH,USA,"Central Catholic",Springfield,OH,USA,2005-10-15,W
+collija03,Jarron,Jarron,Thomas,Collins,NULL,NULL,NULL,NULL,F,0,0,83,252,Stanford,NULL,1978-12-02,Northridge,CA,USA,"Harvard-Westlake Prep","N. Hollywood",CA,USA,0000-00-00,B
+collija04,Jason,Jason,Paul,Collins,NULL,NULL,NULL,NULL,C,0,0,84,260,Stanford,NULL,1978-12-02,Northridge,CA,USA,"Harvard-Westlake Prep","N. Hollywood",CA,USA,0000-00-00,B
+colliji01,Jimmy,James,E.,Collins,NULL,NULL,NULL,Jimmy,G,0,0,74,175,"New Mexico State",NULL,1946-11-24,Syracuse,NY,USA,Corcoran,Syracuse,NY,USA,0000-00-00,B
+collima01,Mardy,Maurice,Rodney,Collins,NULL,NULL,NULL,Mardy,G,0,0,78,220,Temple,NULL,1984-08-04,Philadelphia,PA,USA,"Simon Gratz",Philadelphia,PA,USA,0000-00-00,B
+collini01,Nick,Nicholas,John,Collison,NULL,NULL,NULL,Nick,F,0,0,81,255,Kansas,NULL,1980-10-26,"Orange City",IA,USA,"Iowa Falls","Iowa Falls",IA,USA,0000-00-00,W
+collish01,Sherron,Sherron,Marlon,Collins,NULL,NULL,NULL,NULL,G,0,0,71,205,Kansas,NULL,1987-05-18,Chicago,IL,USA,Crane,Chicago,IL,USA,0000-00-00,B
+colonjo01,Joe,Joseph,F.,Colone,NULL,NULL,NULL,"Joe, Bells",F,0,0,77,210,"Bloomsburg State",NULL,1926-01-23,Berwick,PA,USA,Berwick,Berwick,PA,USA,2009-07-01,W
+colsose01,Sean,Sean,Tyree,Colson,NULL,NULL,NULL,NULL,G,0,0,72,165,"UNC - Charlotte","Hagerstown CC/ Rhode Island",1975-07-01,Philadelphia,PA,USA,"Franklin / Maine Central","Philadelphia / Pittsfield","PA / ME",USA,0000-00-00,B
+coltest01,Steve,R.,Steven,Colter,NULL,NULL,NULL,Steve,G,0,0,75,165,"New Mexico State",NULL,1962-07-24,Phoenix,AZ,USA,Union,Phoenix,AZ,USA,0000-00-00,B
+combsgl01,Glen,Glen,Courtney,Combs,NULL,NULL,NULL,"The Kentucky Rifle",G,0,0,74,185,"Virginia Tech",NULL,1946-10-30,Hazard,KY,USA,"Carr Creek","Carr Creek",KY,USA,0000-00-00,W
+combsle01,Leroy,Edwin,Leroy,Combs,NULL,NULL,NULL,Leroy,F,0,0,80,210,"Oklahoma State",NULL,1961-01-01,"Oklahoma City",OK,USA,Star-Spencer,Spencer,OK,USA,0000-00-00,B
+comeajo01,John,John,Roosevelt,Comeaux,NULL,NULL,NULL,NULL,F,0,0,77,193,Grambling,NULL,1943-09-15,Lafayette,LA,USA,Mossville,"West Lake",LA,USA,0000-00-00,B
+comegda01,Dallas,Dallas,Alonzo,Comegys,NULL,NULL,NULL,NULL,F,0,0,81,205,DePaul,NULL,1964-08-17,Philadelphia,PA,USA,"Roman Catholic",Philadelphia,PA,USA,0000-00-00,B
+cominji01,NULL,Jim,NULL,Cominsky,NULL,NULL,NULL,Jimmy,G,0,0,74,185,DePaul,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+comlela01,Larry,Lawrence,Robert,Comley,NULL,NULL,NULL,Larry,G,0,0,77,210,"Kansas State",NULL,1939-08-17,NULL,NULL,NULL,Wyandotte,"Kansas City",KS,USA,2006-01-21,W
+congdje01,Jeff,Jeffrey,D.,Congdon,NULL,NULL,NULL,"Jeff, Mutt",G,0,0,73,180,"Brigham Young",NULL,1943-10-17,Elkhorn,WI,USA,"Bolsa Grande","Garden Grove",CA,USA,0000-00-00,W
+conlege01,Gene,Donald,Eugene,Conley,NULL,NULL,NULL,"Gene, Long Gene, Gino",C-F,0,0,80,215,"Washington State",NULL,1930-11-10,Muskogee,OK,USA,Columbia,Richland,WA,USA,0000-00-00,W
+conlela01,Larry,George,Larry,Conley,NULL,NULL,NULL,Larry,G,0,0,75,175,Kentucky,NULL,1944-01-22,NULL,NULL,NULL,Ashland,Ashland,KY,USA,0000-00-00,W
+conlemi01,Mike,Michael,Alex,Conley,NULL,NULL,Jr.,Mike,G,0,0,73,175,"Ohio State",NULL,1987-10-11,Indianapolis,IN,USA,"Lawrence North",Indianapolis,IN,USA,0000-00-00,B
+conlied01,Ed,Edward,James,Conlin,NULL,NULL,NULL,"Ed, Eddie",F-G,0,0,77,200,Fordham,NULL,1933-09-02,NULL,NULL,NULL,"St. Michael's",Brooklyn,NY,USA,0000-00-00,W
+conloma01,Marty,Martin,McBride,Conlon,NULL,NULL,NULL,Marty,F-C,0,0,82,224,Providence,NULL,1968-01-19,Bronx,NY,USA,"Archbishop Stepinac","White Plains",NY,USA,0000-00-00,W
+conneji01,Jimmy,Jimmy,Dan,Conner,NULL,NULL,NULL,"Jimmy Dan",G,0,0,76,190,Kentucky,NULL,1953-03-20,Lawrenceburg,KY,USA,"Anderson County",Lawrenceburg,KY,USA,0000-00-00,W
+connele01,Lester,Lester,Allen,Conner,NULL,NULL,NULL,"The Molester",G,0,0,76,180,"Oregon State","Los Medanos JC / Chabot JC",1959-09-17,Memphis,TN,USA,Fremont,Oakland,CA,USA,0000-00-00,B
+connoch01,Chuck,Kevin,"Joseph Aloysius",Connors,NULL,NULL,NULL,"Chuck, The Rifleman",F-C,0,0,77,190,"Seton Hall",NULL,1921-04-10,Brooklyn,NY,USA,"Erasmus Hall / Adelphi Academy","Brooklyn / Garden City",NY,USA,1992-11-10,W
+conrowi01,Will,William,James,Conroy,NULL,NULL,NULL,Will,G,0,0,74,195,Washington,NULL,1982-12-08,Portland,OR,USA,Garfield,Seattle,WA,USA,0000-00-00,B
+cookan01,Anthony,Anthony,Lacquise,Cook,NULL,NULL,NULL,NULL,F-C,0,0,81,205,Arizona,NULL,1967-03-19,"Los Angeles",CA,USA,"Van Nuys","Van Nuys",CA,USA,0000-00-00,B
+cookbe01,Bert,Bertram,E.,Cook,NULL,NULL,NULL,Bert,G-F,0,0,75,185,"Utah State",NULL,1929-04-26,Ogden,UT,USA,"Weber County","Weber County",UT,USA,1998-11-24,W
+cookbo01,Bobby,Robert,Bernard,Cook,NULL,NULL,NULL,"Bobby, Cookie",G-F,0,0,70,155,Wisconsin,NULL,1923-04-01,NULL,NULL,NULL,Harvard,Harvard,IL,USA,2004-10-11,W
+cookbr01,Brian,Brian,Joshua,Cook,NULL,NULL,NULL,NULL,F,0,0,81,234,"Illinois ",NULL,1980-12-04,Lincoln,IL,USA,Lincoln,Lincoln,IL,USA,0000-00-00,B
+cookda01,Darwin,Darwin,Louis,Cook,NULL,NULL,NULL,Sparkplug,G,0,0,75,184,Portland,NULL,1958-08-06,"Los Angeles",CA,USA,Crenshaw,"Los Angeles",CA,USA,0000-00-00,B
+cookda02,Daequan,Daequan,NULL,Cook,NULL,NULL,NULL,NULL,G,0,0,77,205,"Ohio State",NULL,1987-04-28,Dayton,OH,USA,Dunbar,Dayton,OH,USA,0000-00-00,B
+cookeda01,David,David,D.,Cooke,NULL,NULL,NULL,NULL,F,0,0,80,230,"St. Mary's (CA)",NULL,1963-09-27,Sacramento,CA,USA,"Christian Brothers",Sacramento,CA,USA,0000-00-00,B
+cookejo01,Joe,Joseph,NULL,Cooke,NULL,NULL,Jr.,Joe,G,0,0,75,175,Indiana,NULL,1948-08-14,Fairmont,WV,USA,Libbey,Toledo,OH,USA,2006-11-12,B
+cookje01,Jeff,Jeffrey,James,Cook,NULL,NULL,NULL,Jeff,F-C,0,0,82,215,"Idaho State",NULL,1956-10-21,"West Covina",CA,USA,Edgewood,"West Covina",CA,USA,0000-00-00,W
+cookno01,Norm,Norman,NULL,Cook,NULL,NULL,NULL,Norm,F,0,0,80,210,Kansas,NULL,1955-03-02,Chicago,IL,USA,"Lincoln / Farragut (fr)","Lincoln / Chicago",IL,USA,2008-12-22,B
+cookom01,Omar,Omar,NULL,Cook,NULL,NULL,NULL,NULL,G,0,0,73,190,"St. John's (NY)",NULL,1982-01-28,Brooklyn,NY,USA,"Christ The King","Middle Village",NY,USA,0000-00-00,B
+cookte01,NULL,Theodore,Walter,Cook,NULL,NULL,NULL,Ted,G,0,0,72,160,Alabama,Tennessee?,1922-02-06,Birmingham,AL,USA,"Woodlawn/West End",Woodlawn,AL,USA,1990-05-02,W
+coopech01,Chuck,Charles,Henry,Cooper,NULL,NULL,NULL,Chuck,F,0,0,77,205,Duquesne,"West Virginia State",1926-09-29,NULL,NULL,NULL,Westinghouse,Pittsburgh,PA,USA,1984-02-05,B
+coopedu01,Duane,Samuel,Duane,Cooper,NULL,NULL,NULL,Duane,G,0,0,73,185,USC,NULL,1969-06-25,"Benton Harbor",MI,USA,Lakewood,Lakewood,CA,USA,0000-00-00,B
+coopejo01,Joe,Joseph,Edward,Cooper,NULL,NULL,NULL,Joe,C-F,0,0,82,225,Colorado,"Howard College (TX) / Tulsa",1957-09-01,Houston,TX,USA,Kashmere,Houston,TX,USA,0000-00-00,B
+coopemi01,Michael,Michael,Jerome,Cooper,NULL,NULL,NULL,Mike,G-F,0,0,77,170,"New Mexico   ","Pasadena CC",1956-04-15,"Los Angeles",CA,USA,Pasadena,Pasadena,CA,USA,0000-00-00,B
+coopewa01,Wayne,Artis,Wayne,Cooper,NULL,NULL,NULL,"Wayne. Coop",C-F,0,0,82,220,"New Orleans",NULL,1956-11-16,Milan,GA,USA,"Telfair County",McRae,GA,USA,0000-00-00,B
+copato01,Tom,Thomas,James,Copa,NULL,NULL,NULL,Tom,C,0,0,82,265,Marquette,NULL,1964-10-30,Robbinsdale,MN,USA,"Coon Rapids","Coon Rapids",MN,USA,0000-00-00,W
+copebo01,NULL,Robert,NULL,Cope,NULL,NULL,NULL,Bob,C-F,0,0,76,190,"Mount Union",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+copelho01,Hollis,Hollis,Alphonso,Copeland,NULL,NULL,Jr.,NULL,F,0,0,78,180,Rutgers,NULL,1955-12-20,Trenton,NJ,USA,Ewing,Trenton,NJ,USA,0000-00-00,B
+copella01,Lanard,Lanard,NULL,Copeland,NULL,NULL,NULL,NULL,G,0,0,78,190,"Georgia State",NULL,1965-07-16,Atlanta,GA,USA,"Booker T. Washington (DNP)",Atlanta,GA,USA,0000-00-00,B
+corbity01,Tyrone,Tyrone,Kennedy,Corbin,NULL,NULL,NULL,Ty,G-F,0,0,78,210,DePaul,NULL,1962-12-31,Columbia,SC,USA,"A.C. Flora",Columbia,SC,USA,0000-00-00,B
+corchch01,Chris,Christopher,NULL,Corchiani,NULL,NULL,NULL,"Chris, Fire",G,0,0,71,185,"North Carolina State",NULL,1968-03-28,"Coral Gables",FL,USA,"Hialeah Miami Lakes",Hialeah,FL,USA,0000-00-00,W
+corleke01,Ken,Kenneth,NULL,Corley,NULL,NULL,NULL,Ken,C,0,0,76.5,210,"Oklahoma St. Teachers",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+corlera01,Ray,Raymond,Charles,Corley,NULL,NULL,NULL,Ray,G,0,0,72,180,Georgetown,"Notre Dame",1928-01-14,NULL,NULL,NULL,"St. Peters","New York",NY,USA,2007-02-05,W
+corzida01,Dave,David,John,Corzine,NULL,NULL,NULL,"Dave, Lumber",C,0,0,83,240,DePaul,NULL,1956-04-25,"Arlington Heights",IL,USA,"John Hersey","Arlington Heights",IL,USA,0000-00-00,W
+costaed01,NULL,Edric,George,Costain,NULL,NULL,NULL,Ed,G,0,0,72,170,none,NULL,1923-11-04,Wheeling,WV,USA,NULL,NULL,NULL,NULL,2009-09-30,W
+coste01,NULL,NULL,NULL,Costello,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+costela01,Larry,Lawrence,Ronald,Costello,NULL,NULL,NULL,"Larry, Ronnie",G,0,0,73,185,Niagara,NULL,1931-07-02,Minoa,NY,USA,Minoa,Minoa,NY,USA,2001-12-11,W
+cottobo01,NULL,Bob,NULL,Cotton,NULL,NULL,NULL,NULL,F-C-G,0,0,79,205,"Texas Wesleyan",NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+cottoja01,Jack,John,J.,Cotton,NULL,NULL,NULL,Jack,F-C,0,0,79,200,Wyoming,"Miles CC",1924-10-15,NULL,NULL,NULL,"Custer County","Miles City",MT,USA,0000-00-00,W
+cottoja02,James,James,Wesley,Cotton,NULL,NULL,NULL,NULL,G-F,0,0,77,220,"Long Beach State",NULL,1975-12-14,"Los Angeles",CA,USA,"St. John Bosco",Bellflower,CA,USA,0000-00-00,B
+coughjo01,John,John,Douglas,Coughran,NULL,NULL,NULL,NULL,F,0,0,79,225,California,NULL,1951-09-12,Pittsburg,CA,USA,"Piedmont Hills","San Jose",CA,USA,0000-00-00,W
+countme01,Mel,Mel,Grant,Counts,NULL,NULL,NULL,Goose,C-F,0,0,84,230,"Oregon State",NULL,1941-10-16,"Coos Bay",OR,USA,Marshfield,"Coos Bay",OR,USA,0000-00-00,W
+courtjo01,Joe,Joseph,Pierre,Courtney,NULL,NULL,III,Joe,F,0,0,80,220,"Southern Mississippi","Mississippi State",1969-10-17,Jackson,MS,USA,Callaway,Jackson,MS,USA,0000-00-00,B
+courtst01,Steve,Stephen,Edward,Courtin,NULL,NULL,NULL,Steve,G,0,0,73,188,"St. Joseph's (PA)",NULL,1942-09-21,NULL,NULL,NULL,"St. James",Philadelphia,PA,USA,0000-00-00,W
+couside01,DeMarcus,DeMarcus,Amir,Cousins,NULL,NULL,NULL,NULL,C,0,0,83,270,Kentucky,NULL,1990-08-13,Mobile,AL,USA,LeFlore,Mobile,AL,USA,0000-00-00,B
+cousima01,Marcus,Marcus,Lynn,Cousin,NULL,NULL,NULL,NULL,F,0,0,83,245,Houston,"Seton Hall",1986-12-18,Baltimore,MD,USA,Randallstown,Randallstown,MD,USA,0000-00-00,B
+cousybo01,Bob,Robert,Joseph,Cousy,NULL,NULL,NULL,"Bob, Cooz, Houdini of the Hardwood",G,0,0,73,175,"Holy Cross",NULL,1928-08-09,"New York",NY,USA,"Andrew Jackson",Jamaica,NY,USA,0000-00-00,W
+covenbi01,NULL,Bill,NULL,Coven,NULL,NULL,NULL,NULL,F-C,0,0,79,220,Baldwin-Wallace,Toledo/N.Carolina,0000-00-00,NULL,NULL,NULL,Elyria,Elyria,OH,USA,0000-00-00,W
+cowenda01,Dave,David,William,Cowens,NULL,NULL,NULL,"Dave, Big Red",C-F,0,0,80.5,225,"Florida State",NULL,1948-10-25,Newport,KY,USA,"Central Catholic",Newport,KY,USA,0000-00-00,W
+coxch01,Chubby,John,Arthur,Cox,NULL,NULL,III,Chubby,G,0,0,74,180,"San Francisco",Villanova,1955-12-29,Philadelphia,PA,USA,Roxborough,Philadelphia,PA,USA,0000-00-00,B
+coxjo01,Johnny,Johnny,W.,Cox,NULL,NULL,NULL,NULL,G,0,0,76,180,Kentucky,NULL,1936-11-01,Neon,KY,USA,Hazard,Hazard,KY,USA,0000-00-00,W
+coxro01,NULL,Roy,NULL,Cox,NULL,NULL,NULL,NULL,G,0,0,69,150,"Texas ",NULL,0000-00-00,NULL,NULL,NULL,Lamar,Houston,TX,USA,0000-00-00,W
+coxwe01,Wesley,Wesley,NULL,Cox,NULL,NULL,NULL,NULL,F,0,0,78,215,Louisville,NULL,1955-01-27,Louisville,KY,USA,Male,Louisville,KY,USA,0000-00-00,B
+cramebi01,NULL,Bill,NULL,Cramer,NULL,NULL,NULL,NULL,C,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+crawfch01,Chris,Christopher,Lee,Crawford,NULL,NULL,NULL,Chris,F,0,0,81,235,Marquette,NULL,1975-05-13,Kalamazoo,MI,USA,Comstock,Kalamazoo,MI,USA,0000-00-00,W
+crawffr01,Freddie,Frederick,Russell,Crawford,NULL,NULL,Jr.,"Freddie, Fred",G-F,0,0,76,189,"St. Bonaventure",NULL,1940-12-23,"New York",NY,USA,"Samuel Gompers","New York",NY,USA,0000-00-00,B
+crawfja01,Jamal,Aaron,Jamal,Crawford,NULL,NULL,NULL,"Jamal, JC",G,0,0,77,175,Michigan,NULL,1980-03-20,Seattle,WA,USA,"Rainier Beach",Seattle,WA,USA,0000-00-00,B
+crawfjo01,Joe,Joseph,Reshard,Crawford,NULL,NULL,III,Joe,G,0,0,77,210,Kentucky,NULL,1986-06-17,Detroit,MI,USA,Renaissance,Detroit,MI,USA,0000-00-00,B
+crawfjo02,Jordan,Jordan,Lee,Crawford,NULL,NULL,NULL,NULL,G,0,0,76,195,"Xavier (OH)",NULL,1988-10-23,Detroit,MI,USA,"Communication & Media Arts / Hargrave Military Acad.","Detroit / Chatham","MI / VA",USA,0000-00-00,B
+creigji01,Jim,Jim,NULL,Creighton,NULL,NULL,NULL,NULL,F,0,0,80,200,Colorado,NULL,1950-04-18,Billings,MT,USA,North,Denver,CO,USA,0000-00-00,W
+creviro01,Ron,Ronald,"Joseph Oscar Camille",Crevier,NULL,NULL,NULL,Ron,C,0,0,84,235,"Boston College",NULL,1958-04-14,Montreal,QU,CAN,Dawson,Montreal,QU,CAN,0000-00-00,W
+crislha01,Hal,Harold,James,Crisler,NULL,NULL,NULL,Hal,F,0,0,75,215,"Iowa State","San Jose State",1923-12-31,Richmond,CA,USA,Richmond,Richmond,CA,USA,1987-11-02,W
+crispjo01,Joe,Joseph,Steven,Crispin,NULL,NULL,NULL,Joe,G,0,0,72,185,"Penn State",NULL,1979-07-18,Pitman,NJ,USA,Pitman,Pitman,NJ,USA,0000-00-00,W
+crissch01,Charlie,Charles,Washington,Criss,NULL,NULL,Jr.,Charlie,G,0,0,68,165,"New Mexico State","New Mexico JC",1948-11-06,Valhalla,NY,USA,Yonkers,Yonkers,NY,USA,0000-00-00,B
+critcru01,Russ,Russell,Dean,Critchfield,NULL,NULL,NULL,"Rusty, Russ",G,0,0,70,150,California,NULL,1946-06-27,Salinas,CA,USA,Salinas,Salinas,CA,USA,0000-00-00,W
+critewi01,Winston,Winston,Arnel,Crite,NULL,NULL,NULL,NULL,F,0,0,79,233,"Texas A&M",NULL,1965-06-20,Bakersfield,CA,USA,South,Bakersfield,CA,USA,0000-00-00,B
+crittja01,Javaris,Javaris,Cortez,Crittenton,NULL,NULL,NULL,NULL,G,0,0,77,198,"Georgia Tech",NULL,1987-12-31,Atlanta,GA,USA,"Southwest Atlanta Christian Academy",Atlanta,GA,USA,0000-00-00,B
+crockdi01,Dillard,James,Dillard,Crocker,NULL,NULL,NULL,Dillard,F-G,0,0,76,205,"Western Michigan",NULL,1925-01-19,Niles,MI,USA,Niles,Niles,MI,USA,0000-00-00,W
+croftbo01,Bobby,Robert,Alexander,Croft,NULL,NULL,NULL,"Bobby, Bob",C,0,0,82,200,Tennessee,NULL,1947-08-10,NULL,NULL,CAN,"Hill Park",Hamilton,ON,CAN,0000-00-00,W
+crompge01,Geoff,Geffery,NULL,Crompton,NULL,NULL,NULL,"Geoff, Geff",C,0,0,83,268,"North Carolina",NULL,1955-07-04,Burlington,NC,USA,"Walter Williams",Burlington,NC,USA,2002-01-07,B
+crosbte01,Terry,Terry,Dale,Crosby,NULL,NULL,NULL,NULL,G,0,0,76,195,Tennessee,NULL,1957-01-04,Toledo,OH,USA,DeVilbiss,Toledo,OH,USA,0000-00-00,B
+croshau01,Austin,Austin,Nathan,Croshere,NULL,NULL,NULL,NULL,F,0,0,81,235,Providence,NULL,1975-05-01,"Los Angeles",CA,USA,"Crossroads School","Santa Monica",CA,USA,0000-00-00,W
+crossch01,Chink,Francis,P.,Crossin,NULL,NULL,NULL,"Chink, Fran",G,0,0,71,165,Pennsylvania,NULL,1924-07-04,Luzerne,PA,USA,Luzerne,Luzerne,PA,USA,1981-01-10,W
+crossje01,Jeff,Jeffrey,A.,Cross,NULL,NULL,NULL,Jeff,F,0,0,82,240,Maine,NULL,1961-09-01,Chicago,IL,USA,"Portsmouth / Worcester Academy","Portsmouth / Worcester","NH / MA",USA,0000-00-00,W
+crosspe01,Pete,Peter,Michael,Cross,NULL,NULL,NULL,Pete,C-F,0,0,81,228,"San Francisco",NULL,1948-03-28,NULL,NULL,NULL,Bakersfield,Bakersfield,CA,USA,1977-01-02,W
+crossru01,Russell,Russell,NULL,Cross,NULL,NULL,Jr.,NULL,C,0,0,81,215,Purdue,NULL,1961-09-05,Chicago,IL,USA,Manley,Chicago,IL,USA,0000-00-00,B
+crottjo01,John,John,Kevin,Crotty,NULL,NULL,NULL,NULL,G,0,0,73,185,Virginia,NULL,1969-07-15,Orange,NJ,USA,"Christian Brothers",Lincroft,NJ,USA,0000-00-00,W
+crowbi01,Bill,William,R.,Crow,NULL,NULL,NULL,Bill,G,0,0,73,180,"Westminster (UT)","Brigham Young / Cerritos",1940-12-09,NULL,NULL,NULL,Downey,Downey,CA,USA,0000-00-00,W
+crowdco01,Corey,Jonathan,Corey,Crowder,NULL,NULL,NULL,Corey,G-F,0,0,77,214,"Kentucky Wesleyan",NULL,1969-04-13,Carrollton,GA,USA,Carrollton,Carrollton,GA,USA,0000-00-00,B
+crowege01,NULL,George,Daniel,Crowe,NULL,NULL,NULL,"Big George",F-C,0,0,74,206,"Indiana Central",NULL,1921-03-22,Whiteland,IN,USA,Franklin,Franklin,IN,USA,2011-01-18,B
+crowele01,NULL,Leo,Jerome,Crowe,NULL,NULL,NULL,NULL,G,0,0,71,170,"Notre Dame",NULL,1912-04-12,Lafayette,IN,USA,NULL,NULL,NULL,NULL,1966-04-24,W
+crowlki01,NULL,Kiernan,NULL,Crowley,NULL,NULL,NULL,NULL,G,0,0,68,155,DePaul,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+crowma01,Mark,Mark,Harvey,Crow,NULL,NULL,NULL,Crow-bar,F,0,0,79,195,Duke,NULL,1954-10-22,"Edwards AFB",CA,USA,"Benedictine Academy",Richmond,VA,USA,0000-00-00,W
+crumfr01,NULL,Fred,NULL,Crum,NULL,NULL,NULL,Freddie,G-F,0,0,72,170,none,NULL,0000-00-00,NULL,NULL,NULL,Schenley,Pittsburgh,PA,USA,0000-00-00,W
+cuetoal01,Al,Alfonso,Angel,Cueto,NULL,NULL,NULL,Al,C-F,0,0,79,230,Tulsa,"St. Gregory's JC",1946-08-02,Havana,NULL,CUB,"Coral Gables","Coral Gables",FL,USA,0000-00-00,W
+cullema01,NULL,Marty,NULL,Cullen,NULL,NULL,NULL,NULL,G-F,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+cumbedu01,NULL,Roscoe,NULL,Cumberland,NULL,NULL,NULL,Duke,F,0,0,74,189,Knoxville,NULL,0000-00-00,NULL,NULL,NULL,Libby/Scott?,Toledo,OH,USA,0000-00-00,B
+cummipa01,Pat,Patrick,Michael,Cummings,NULL,NULL,NULL,"Pat, Roadblock",F-C,0,0,81,230,Cincinnati,NULL,1956-07-11,Johnstown,PA,USA,Johnstown,Johnstown,PA,USA,2012-06-26,W
+cummite01,Terry,Robert,Terrell,Cummings,NULL,NULL,NULL,"Terry, T.C.",F,0,0,81,220,DePaul,NULL,1961-03-15,Chicago,IL,USA,Carver,Chicago,IL,USA,0000-00-00,B
+cummivo01,Vonteego,Vonteego,Marfeek,Cummings,NULL,NULL,NULL,NULL,G,0,0,75,185,Pittsburgh,NULL,1976-02-29,Thomson,GA,USA,Thomson,Thomson,GA,USA,0000-00-00,B
+cunnibi01,Billy,William,John,Cunningham,NULL,NULL,NULL,"Billy, The Kangaroo Kid",F-C,0,0,77,195,"North Carolina",NULL,1943-06-03,Brooklyn,NY,USA,"Erasmus Hall",Brooklyn,NY,USA,0000-00-00,W
+cunnico01,NULL,Harold,Brewer,Cunningham,NULL,NULL,NULL,Cookie,F-C,0,0,75,210,"Ohio State",NULL,1905-02-04,"Mt. Vernon",OH,USA,"Mt. Vernon","Mt. Vernon",OH,USA,1995-11-03,W
+cunnida01,Dante,Dante,NULL,Cunningham,NULL,NULL,NULL,NULL,F,0,0,80,227,Villanova,NULL,1987-04-22,Clinton,MD,USA,"Potomac / St. John's","Silver Spring / Washington","MD / DC",USA,0000-00-00,B
+cunnidi01,Dick,Dick,NULL,Cunningham,NULL,NULL,NULL,"Cement Mixer",C,0,0,82,240,"Murray State",NULL,1946-07-11,Canton,OH,USA,"South Canton",Canton,OH,USA,0000-00-00,W
+cunniwi01,William,William,NULL,Cunningham,NULL,NULL,NULL,Will,C,0,0,83,240,Temple,NULL,1974-03-25,Augusta,GA,USA,"Glenn Hills",Augusta,GA,USA,0000-00-00,B
+curcira01,Radisav,Radisav,NULL,Curcic,NULL,NULL,NULL,NULL,C,0,0,82,275,none,NULL,1965-09-26,Cacak,NULL,YUG,Cacak,Cacak,NULL,YUG,0000-00-00,W
+curear01,Armand,Armand,Arthur,Cure,NULL,NULL,NULL,NULL,F,0,0,72,198,"Rhode Island",NULL,1919-08-07,"New Bedford",MA,USA,"New Bedford","New Bedford",MA,USA,2003-11-28,W
+curetea01,Earl,Earl,NULL,Cureton,NULL,NULL,NULL,"The Twirl",F-C,0,0,81,210,Detroit,"Robert Morris",1957-09-03,Detroit,MI,USA,Finney,Detroit,MI,USA,0000-00-00,B
+curlebi01,Bill,William,Michael,Curley,NULL,NULL,NULL,Bill,F,0,0,81,245,"Boston College",NULL,1972-05-29,Boston,MA,USA,Duxbury,Duxbury,MA,USA,0000-00-00,W
+currafr01,Fran,Francis,Hugh,Curran,NULL,NULL,NULL,Fran,G,0,0,72,165,"Notre Dame",NULL,1925-09-19,NULL,NULL,NULL,Luzerne,Luzerne,PA,USA,0000-00-00,W
+curriji01,NULL,Jim,NULL,Currie,NULL,NULL,NULL,NULL,G-F,0,0,74,185,Northwestern,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+curryde01,Dell,Wardell,Stephen,Curry,NULL,NULL,NULL,Dell,G,0,0,76,190,"Virginia Tech",NULL,1964-06-25,Harrisonburg,VA,USA,"Fort Defiance","Fort Defiance",VA,USA,0000-00-00,B
+curryed01,Eddy,Eddy,NULL,Curry,NULL,NULL,Jr.,NULL,F-C,0,0,83,285,none,NULL,1982-12-05,"South Holland",IL,USA,Thornwood,"S. Holland",IL,USA,0000-00-00,B
+curryja01,JamesOn,JamesOn,NULL,Curry,NULL,NULL,NULL,NULL,G,0,0,75,190,"Oklahoma State",NULL,1986-01-07,"Pleasant Grove",NC,USA,"Eastern Alamance",Mebane,NC,USA,0000-00-00,B
+currymi01,Michael,Michael,Edward,Curry,NULL,NULL,NULL,Mike,F-G,0,0,77,210,"Georgia Southern",NULL,1968-08-22,Anniston,AL,USA,"Glenn Hills",Augusta,GA,USA,0000-00-00,B
+curryst01,Stephen,Wardell,Stephen,Curry,NULL,NULL,II,Stephen,G,0,0,75,185,Davidson,NULL,1988-03-14,Akron,OH,USA,"Charlotte Christian",Charlotte,NC,USA,0000-00-00,B
+curtich01,NULL,Charles,W.,Curtis,NULL,NULL,NULL,"Charlie, Chuck",F,0,0,79,200,"Pacific Lutheran",NULL,1937-10-22,NULL,NULL,NULL,Columbia,Richland,WA,USA,2004-10-31,W
+curtigl01,Glenn,Glenn,NULL,Curtis,NULL,NULL,NULL,NULL,NULL,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+curtihe01,Henry,Henry,NULL,Curtis,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+cvetkra01,Rastko,Rastko,NULL,Cvetkovic,NULL,NULL,NULL,NULL,C,0,0,85,260,none,NULL,1970-06-22,Belgrade,NULL,YUG,"14 Belgrade","Belgrade   ",NULL,YUG,0000-00-00,W
+czarnwa01,NULL,Walt,NULL,Czarnecki,NULL,NULL,NULL,NULL,F,0,0,77,215,none,NULL,0000-00-00,NULL,NULL,NULL,Fordson,Dearborn,MI,USA,0000-00-00,W
+dabicmi01,Mike,Michael,Lee,Dabich,NULL,NULL,NULL,"Mike, Dabbo",C,0,0,84,242,"New Mexico State",Wyoming,1942-12-27,Lander,WY,USA,Lander,Lander,WY,USA,0000-00-00,W
+dahleed01,Ed,Edward,NULL,Dahler,NULL,NULL,Jr.,Ed,F,0,0,77,190,Duquesne,NULL,1926-01-31,NULL,NULL,NULL,Hillsboro,Hillsboro,IL,USA,0000-00-00,W
+dahlha01,NULL,Harold,NULL,Dahl,NULL,NULL,NULL,NULL,F,0,0,69,190,"Miami (FL)",Wisconsin,0000-00-00,NULL,NULL,NULL,Oshkosh,Oshkosh,WI,USA,0000-00-00,W
+dailequ01,Quintin,Quintin,NULL,Dailey,NULL,NULL,NULL,Q,G,0,0,75,180,"San Francisco",NULL,1961-01-22,Baltimore,MD,USA,"Cardinal Gibbons",Baltimore,MD,USA,2010-11-08,B
+dalemsa01,Samuel,Samuel,Davis,Dalembert,NULL,NULL,NULL,NULL,C,0,0,83,250,"Seton Hall",NULL,1981-05-10,Port-Au-Prince,NULL,HAI,"St.Patricks / Surenpagge","Elizabeth / Montreal","NJ / QU",USA/CAN,0000-00-00,B
+dallmho01,Howie,Howard,NULL,Dallmar,NULL,NULL,NULL,Howie,F,0,0,76,200,Stanford,"Pennsylvania/ Menlo JC",1922-05-24,"San Francisco",CA,USA,Lowell,"San Francisco",CA,USA,1991-12-19,W
+dalych01,Chuck,Chuck,NULL,Daly,NULL,NULL,NULL,NULL,NULL,0,0,74,180,"Bloomsburg Univ. of Pennsylvania",NULL,1930-07-20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,NULL
+dampier01,Erick,Erick,Trevez,Dampier,NULL,NULL,NULL,NULL,C-F,0,0,83,265,"Mississippi State",NULL,1974-07-14,Jackson,MS,USA,"Lawrence County",Monticello,MS,USA,0000-00-00,B
+dampilo01,Louie,Louie,NULL,Dampier,NULL,NULL,NULL,"Lou, Little Louie",G,0,0,72,170,Kentucky,NULL,1944-11-20,Indianapolis,IN,USA,Southport,Indianapolis,IN,USA,0000-00-00,W
+dancked01,NULL,Edward,C.,Dancker,NULL,NULL,NULL,NULL,C-F,0,0,79,200,none,NULL,1914-03-14,NULL,NULL,NULL,"South Division (DNP)",Milwaukee,WI,USA,1991-10-03,W
+dandrbo01,Bob,Robert,L.,Dandridge,NULL,NULL,Jr.,"Bob, Bobby, Greyhound",F-G,0,0,78,195,"Norfolk State",NULL,1947-11-15,Richmond,VA,USA,"Maggie Walker",Richmond,VA,USA,0000-00-00,B
+daniean01,Antonio,Antonio,Robert,Daniels,NULL,NULL,NULL,NULL,G,0,0,76,195,"Bowling Green",NULL,1975-03-19,Columbus,OH,USA,"St. Francis DeSales",Columbus,OH,USA,0000-00-00,B
+danieer01,Erik,Erik,Christopher,Daniels,NULL,NULL,NULL,"E. Diddy",F,0,0,80,214,Kentucky,NULL,1982-04-01,Cincinnati,OH,USA,Princeton,Cincinnati,OH,USA,0000-00-00,B
+danieji01,NULL,James,NULL,Daniels,NULL,NULL,NULL,"Jim, Jimmy",G,0,0,72,160,"South Dakota",NULL,1935-12-13,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,B
+daniell01,Lloyd,Lloyd,NULL,Daniels,NULL,NULL,NULL,Swee'pea,G,0,0,79,205,"Mount San Antonio",NULL,1967-09-04,Brooklyn,NY,USA,"Jackson / Oak Hill / Laurinburg / Jefferson","Jamaica / Mouth of Wilson / Laurinburg /Brooklyn",NY/VA/NC/NY,USA,0000-00-00,B
+daniema01,Marquis,Marquis,Antwane,Daniels,NULL,NULL,NULL,NULL,F,0,0,78,200,Auburn,NULL,1981-01-07,Orlando,FL,USA,"Mt. Zion Christian Academy",Durham,NC,USA,0000-00-00,B
+danieme01,Mel,Melvin,Joe,Daniels,NULL,NULL,NULL,Mel,C,0,0,81,220,"New Mexico ","Burlington J.C.",1944-07-20,Detroit,MI,USA,Pershing,Detroit,MI,USA,0000-00-00,B
+danilsa01,Sasha,Predrag,NULL,Danilovic,NULL,NULL,NULL,Sasha,G,0,0,77,200,none,NULL,1970-02-26,Sarajevo,NULL,YUG,"Belgrade YUG / Cookeville","Belgrade / Cookeville","  /TN",YUG/USA,0000-00-00,W
+danko01,NULL,NULL,NULL,Danko,NULL,NULL,NULL,NULL,G,0,0,0,0,NULL,NULL,0000-00-00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0000-00-00,W
+dantlad01,Adrian,Adrian,Delano,Dantley,NULL,NULL,NULL,A.D.,F-G,0,0,77,208,"Notre Dame",NULL,1955-02-26,Washington,DC,USA,"DeMatha Catholic",Hyattsville,MD,USA,0000-00-00,B
+dantomi01,Mike,Michael,Andrew,D'Antoni,NULL,NULL,NULL,Mike,G,0,0,75,185,Marshall,NULL,1951-05-08,Mullens,WV,USA,Mullens,Mullens,WV,USA,0000-00-00,W
+darcehe01,Pete,Henry,Joseph,Darcey,NULL,NULL,III,Pete,C,0,0,79,217,"Oklahoma A&M",NULL,1930-03-03,"Oklahoma City",OK,USA,Classen,"Oklahoma City",OK,USA,2009-08-31,W
+dardeji01,Jimmy,James,W.,Darden,NULL,NULL,NULL,Jimmy,G,0,0,73,170,Denver,Wyoming,1922-06-19,NULL,NULL,NULL,Cheyenne,Cheyenne,WY,USA,1994-04-29,W
+dardeol01,Oliver,Oliver,NULL,Darden,NULL,NULL,NULL,Ollie,F-C,0,0,78.5,235,Michigan,NULL,1944-07-28,Aberdeen,MS,USA,Western,Detroit,MI,USA,0000-00-00,B
+dareyi01,Yinka,Yinka,NULL,Dare,NULL,NULL,NULL,NULL,C-F,0,0,84,265,"George Washington",NULL,1972-10-10,Kano,NULL,NGR,"Milford Academy",Milford,CT,USA,2004-01-09,B
+darkje01,Jesse,Jesse,L.,Dark,NULL,NULL,NULL,Bo,G,0,0,76.5,210,"Virginia Commonwealth",NULL,1951-09-02,Richmond,VA,USA,"Maggie Walker",Richmond,VA,USA,0000-00-00,B
+darneri01,Rick,Richard,NULL,Darnell,NULL,NULL,NULL,"Rick, Rich",C-F,0,0,82,215,"San Jose State","Cypress JC/Indiana St.",1953-01-01,NULL,NULL,NULL,Magnolia,Anaheim,CA,USA,0000-00-00,W
+darroji01,Jimmy,James,K.,Darrow,NULL,NULL,NULL,Jimmy," G",0,0,70,170,"Bowling Green",NULL,1937-09-25,Akron,OH,USA,"Akron South",Akron,OH,USA,1987-06-08,W

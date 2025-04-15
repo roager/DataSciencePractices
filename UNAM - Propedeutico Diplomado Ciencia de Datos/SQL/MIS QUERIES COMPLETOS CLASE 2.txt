@@ -1,0 +1,509 @@
+select count(*) from pagos order by 1;
+select count(*) from alumnos order by 1;
+select count(*) from cursos order by 1;
+
+SELECT count(*) 
+FROM alumnos a, pagos p, cursos c;
+
+SELECT *
+FROM alumnos a, pagos p, cursos c
+ORDER BY 1;
+
+SELECT *
+FROM alumnos a, pagos p, cursos c
+WHERE a.clave_alu = p.clave_alu AND p.id_curso = c.id_curso
+ORDER BY 1;
+
+
+SELECT a.clave_alu, ap_paterno, ap_materno, a.nombre, fecha_pago, pago, abreviatura curso
+FROM alumnos a, pagos p, cursos c
+WHERE a.clave_alu = p.clave_alu AND p.id_curso = c.id_curso
+ORDER BY 1;
+
+SELECT a.clave_alu, ap_paterno, ap_materno, a.nombre, fecha_pago, pago, abreviatura curso
+FROM alumnos a JOIN pagos p ON (a.clave_alu = p.clave_alu)
+JOIN cursos c ON (p.id_curso = c.id_curso)
+ORDER BY 1;
+
+SELECT a.clave_alu, ap_paterno || ' ' || ap_materno || ' ' || a.nombre as alumno, fecha_pago, pago, abreviatura curso
+FROM alumnos a JOIN pagos p ON (a.clave_alu = p.clave_alu)
+JOIN cursos c ON (p.id_curso = c.id_curso)
+ORDER BY 1;
+
+
+
+SELECT a.clave_alu, (ap_paterno || ' ' || ap_materno || ' ' || a.nombre) as alumno, max(fecha_pago) maxfpago,sum(pago) tpago, count(pago) npago, abreviatura curso
+FROM alumnos a JOIN pagos p ON (a.clave_alu = p.clave_alu)
+JOIN cursos c ON (p.id_curso = c.id_curso)
+GROUP BY a.clave_alu, (ap_paterno || ' ' || ap_materno || ' ' || a.nombre)
+ORDER BY 1;
+
+
+-----HECTOR
+select a.clave_alu, ap_paterno || ' ' || ap_materno || ' ' || a.nombre as alumno, max(fecha_pago) maxfpago, sum(pago) tpago, count(pago) npago
+from alumnos a join pagos p on(a.clave_alu = p.clave_alu)
+join cursos c on(p.id_curso = c.id_curso)
+group by a.clave_alu, ap_paterno || ' ' || ap_materno || ' ' || a.nombre
+order by 1;
+
+-----HECTOR2
+select clave_alu, alumno, max(fecha_pago) maxfpago, sum(pago) tpago, count(pago) npago
+from (
+select a.clave_alu, ap_paterno || ' ' || ap_materno || ' ' || a.nombre as alumno, fecha_pago, pago, abreviatura
+from 
+alumnos a join pagos p on(a.clave_alu = p.clave_alu)
+join cursos c on(p.id_curso = c.id_curso)
+) x
+group by clave_alu, alumno
+order by 1;
+
+
+select a.clave_alu, (ap_paterno || ' ' || ap_materno || ' ' || a.nombre) as alumno, abreviatura curso,
+ max(fecha_pago) maxfpago, sum(pago) tpago, count(pago) npago
+from alumnos a join pagos p on(a.clave_alu = p.clave_alu)
+join cursos c on(p.id_curso = c.id_curso)
+group by a.clave_alu, (ap_paterno || ' ' || ap_materno || ' ' || a.nombre), abreviatura
+order by 2, 3;
+
+
+----pagos por anio
+select  abreviatura curso,
+ max(fecha_pago) maxfpago, sum(pago) tpago, count(pago) npago
+from  pagos p 
+join cursos c on(p.id_curso = c.id_curso)
+group by  abreviatura
+order by 2, 3;
+
+---filtrando pagos de alumno
+select  EXTRACT (YEAR FROM fecha_pago) anio,  sum(pago) tpago, count(pago) npago
+from alumnos a JOIN   pagos p ON(a.clave_alu = p.clave_alu ) 
+join cursos c on(p.id_curso = c.id_curso)
+group by  EXTRACT (YEAR FROM fecha_pago)
+order by 2, 3;
+
+
+---filtrando pagos de alumno anio y nmes
+
+select  EXTRACT (YEAR FROM fecha_pago) anio,  EXTRACT (MONTH FROM fecha_pago) as mes,
+sum(pago) tpago, count(pago) npago
+from alumnos a JOIN   pagos p ON(a.clave_alu = p.clave_alu ) 
+join cursos c on(p.id_curso = c.id_curso)
+group by  EXTRACT (YEAR FROM fecha_pago), EXTRACT (MONTH FROM fecha_pago)
+order by 1, 2;
+
+---filtrando pagos de alumno anio y nmes, having / solo alymnos con mas de 10 pagos
+
+select  EXTRACT (YEAR FROM fecha_pago) anio,  EXTRACT (MONTH FROM fecha_pago) as mes,
+sum(pago) tpago, count(pago) npago
+from alumnos a JOIN   pagos p ON(a.clave_alu = p.clave_alu ) 
+join cursos c on(p.id_curso = c.id_curso)
+group by  EXTRACT (YEAR FROM fecha_pago), EXTRACT (MONTH FROM fecha_pago)
+HAVING count(pago) >= 10
+order by 1, 2;
+
+
+---filtrando pagos de alumno anio y nmes, where / solo alymnos con mas de 10 pagos
+select * from
+(select  EXTRACT (YEAR FROM fecha_pago) anio,  EXTRACT (MONTH FROM fecha_pago) as mes,
+sum(pago) tpago, count(pago) npago
+from alumnos a JOIN   pagos p ON(a.clave_alu = p.clave_alu ) 
+join cursos c on(p.id_curso = c.id_curso)
+group by  EXTRACT (YEAR FROM fecha_pago), EXTRACT (MONTH FROM fecha_pago)
+)x
+WHERE npago >= 10
+order by 1, 2;
+
+---filtrando pagos de alumno anio y nmes, having / solo alymnos con mas de 10 pagos & mes comn texto em espanol
+select  EXTRACT (YEAR FROM fecha_pago) anio,  EXTRACT (MONTH FROM fecha_pago) as mes,
+TO_CHAR(fecha_pago, 'Month', 'nls_date_language=spanish') mes_nombre, 
+sum(pago) tpago, count(pago) npago
+from alumnos a JOIN   pagos p ON(a.clave_alu = p.clave_alu ) 
+join cursos c on(p.id_curso = c.id_curso)
+group by  EXTRACT (YEAR FROM fecha_pago), EXTRACT (MONTH FROM fecha_pago), TO_CHAR(fecha_pago, 'Month', 'nls_date_language=spanish') 
+HAVING count(pago) >= 10
+order by 1, 2;
+
+---Traer alumnos anunque no tengan un pago
+select a.clave_alu, (ap_paterno || ' ' || ap_materno || ' ' || a.nombre) as alumno, abreviatura curso, 
+max(fecha_pago) maxfpago, sum(pago) tpago, count(pago) npago 
+from 
+alumnos a LEFT JOIN pagos p ON(a.clave_alu = p.clave_alu)
+LEFT JOIN cursos c ON(p.id_curso = c.id_curso)
+WHERE p.clave_alu is null
+group by a.clave_alu, (ap_paterno || ' ' || ap_materno || ' ' || a.nombre), abreviatura
+order by 2, 3;
+
+SELECT p.*, a.* FROM 
+alumnos a RIGHT JOIN pagos p ON(a.clave_alu = p.clave_alu)
+WHERE a.clave_alu is NULL;
+
+----CURSOS con pagos faltantes
+SELECT c.* FROM 
+pagos p RIGHT JOIN cursos c ON(p.id_curso = c.id_curso)
+WHERE p.id_curso is NULL;
+
+SELECT c.* FROM 
+cursos c LEFT JOIN pagos p ON(p.id_curso = c.id_curso)
+WHERE p.id_curso is NULL;
+
+
+
+------CREATE OR REPLACE VIEW AS /GERARDO RODRIGUEZ
+CREATE OR REPLACE VIEW alumnos_pagos AS 
+select a.clave_alu, (ap_paterno || ' ' || ap_materno || ' ' || a.nombre) as alumno, sexo, curp, ciudad, email, fecha_pago, pago, abreviatura curso
+from 
+alumnos a, pagos p, cursos c
+where a.clave_alu = p.clave_alu AND p.id_curso = c.id_curso
+order by 1;
+
+SELECT * FROM USER_VIEWS;
+
+----VISTA DE TABLA REPLACE VIEW
+SELECT * FROM alumnos_pagos;
+
+---CREAR TABLA
+CREATE TABLE  alumnos_pagos_tabla AS 
+select a.clave_alu, (ap_paterno || ' ' || ap_materno || ' ' || a.nombre) as alumno, sexo, curp, ciudad, email, fecha_pago, pago, abreviatura curso
+FROM alumnos a, pagos p, cursos c
+where a.clave_alu = p.clave_alu AND p.id_curso = c.id_curso
+order by 1;
+----revisa nueva tabvla
+SELECT * FROM alumnos_pagos_tabla;
+---borra dfatos de tabla cursos
+TRUNCATE TABLE cursos;
+----muestra tabla cursos sin datos
+SELECT * FROM cursos;
+
+
+
+TRUNCATE TABLE cursos;
+
+CREATE OR REPLACE VIEW alumnos_pagos AS 
+select a.clave_alu, (ap_paterno || ' ' || ap_materno || ' ' || a.nombre) as alumno, a.nombre, a.ap_paterno, sexo, curp, ciudad, email, fecha_pago, pago, abreviatura curso
+from 
+alumnos a, pagos p, cursos c
+where a.clave_alu = p.clave_alu AND p.id_curso = c.id_curso
+order by 1;
+
+INSERT ALL
+  INTO cursos VALUES ('C001','CURSO ESCOLAR 2018-2019','2018-2019', TO_DATE('2018-08-22', 'YYYY-MM-DD'), TO_DATE('2019-07-06', 'YYYY-MM-DD'))
+  INTO cursos VALUES ('C002','CURSO ESCOLAR 2019-2020','2019-2020', TO_DATE('2019-08-01', 'YYYY-MM-DD'), TO_DATE('2020-07-29', 'YYYY-MM-DD'))
+  INTO cursos VALUES ('C012','CURSO ESCOLAR 2020-2021','2020-2021', TO_DATE('2020-07-30', 'YYYY-MM-DD'), TO_DATE('2021-07-30', 'YYYY-MM-DD'))
+  INTO cursos VALUES ('C013','CURSO ESCOLAR 2021-2022','2021-2022', TO_DATE('2021-07-31', 'YYYY-MM-DD'), TO_DATE('2022-07-30', 'YYYY-MM-DD'))
+SELECT 1 FROM DUAL;
+
+SELECT USER 
+FROM dual;
+
+SELECT * FROM alumnos_pagos
+WHERE nombre LIKE '% %';
+---4 caracteres
+SELECT * FROM alumnos_pagos
+WHERE nombre LIKE '___';
+---- una a en el segundo caractwer 4 acar totales
+SELECT * FROM alumnos_pagos
+WHERE nombre LIKE '_A__';
+---- una a en segundo car y cuqluier num de caract
+SELECT * FROM alumnos_pagos
+WHERE nombre LIKE '_A%';
+
+--- con dos nombre y el primero empieza con A
+SELECT * FROM alumnos_pagos
+WHERE nombre LIKE '_A% %';
+
+
+--- dops nombres
+SELECT * FROM alumnos
+WHERE nombre LIKE '% %';
+--- no contiene espacio
+SELECT * FROM alumnos
+WHERE nombre NOT LIKE '% %';
+
+select nombre, ap_paterno, email, ciudad
+FROM alumnos WHERE (ciudad LIKE 'QUERETARO' OR ciudad LIKE '%QRO%');
+
+SELECT ciudad, count(*) nreg
+FROM alumnos
+GROUP BY ciudad
+ORDER BY ciudad;
+
+SELECT CASE WHEN (ciudad LIKE '%QUER%' OR ciudad LIKE '%QRO%') THEN 'QUERETARO' ELSE ciudad END as ciudad,
+count(*) nreg
+FROM alumnos
+GROUP BY CASE WHEN (ciudad LIKE '%QUER%' OR ciudad LIKE '%QRO%') THEN 'QUERETARO' ELSE ciudad END
+ORDER BY 1;
+
+
+select CASE WHEN (ciudad LIKE '%QUER%' OR ciudad LIKE '%QRO%') THEN 'QUERETARO' ELSE ciudad END as ciudad, 
+count(*) nreg
+from alumnos
+group by CASE WHEN (ciudad LIKE '%QUER%' OR ciudad LIKE '%QRO%') THEN 'QUERETARO' ELSE ciudad END
+order by 1;
+
+
+SELECT nombre, ap_paterno, email, ciudad
+FROM alumnos WHERE email LIKE '%@%.%';
+
+SELECT nombre, ap_paterno, email, ciudad
+FROM alumnos WHERE email NOT LIKE '%@%.%' ;
+
+SELECT nombre, ap_paterno, email, ciudad
+FROM alumnos 
+WHERE (email NOT LIKE '%@%.%' OR email is NULL);
+
+SELECT nombre, ap_paterno, email, ciudad
+FROM alumnos 
+WHERE (email NOT LIKE '%@%.%' OR email is NULL) AND sexo = 'F';
+
+
+SELECT nombre, ap_paterno, email, ciudad
+FROM alumnos 
+WHERE regexp_like (email,'^[a-z0-9._-]+@[a-z0-9.-]+\.[a-z]{2,3}$','i')  AND email IS NOT NULL
+
+SELECT CASE WHEN regexp_like ('ROAE800512HDFDGF05','^[A-Z]{4}\d{6}[HM][A-Z]{5}\d{1}[0-9A-Z]{1}$','i') 
+THEN 1 ELSE 0 END AS is_valid
+FROM DUAL;
+
+CREATE TABLE escritor (
+    id_escritor NUMBER(10) PRIMARY KEY,
+    nombre VARCHAR(50) NOT NULL,
+    ap_paterno VARCHAR(50) NOT NULL,
+    ap_materno VARCHAR(50)  NULL,
+    nacionalidad VARCHAR(50) DEFAULT 'MEXICANA' 
+);
+
+SELECT * FROM USER_TABLES;
+
+CREATE SEQUENCE INCREMENTO_ID_ESCRITOR
+INCREMENT BY 1
+START WITH 1;
+
+SELECT * FROM USER_SEQUENCES;
+
+SELECT INCREMENTO_ID_ESCRITOR.nextval FROM DUAL;
+SELECT INCREMENTO_ID_ESCRITOR.currval FROM DUAL;
+
+INSERT INTO escritor values (INCREMENTO_ID_ESCRITOR.nextval, 'GABRIEL', 'GARCIA', 'MARQUEZ', 'COLOMBIANA');
+INSERT INTO escritor values (INCREMENTO_ID_ESCRITOR.nextval, 'ISAAC', 'ASIMOV', NULL, 'EEUU');
+INSERT INTO escritor values (INCREMENTO_ID_ESCRITOR.nextval, 'JUANA', 'DE ASBAJE', NULL, NULL);
+INSERT INTO escritor (id_escritor, nombre, ap_paterno, ap_materno) values (INCREMENTO_ID_ESCRITOR.nextval, 'ELENA', 'GARRO', NULL);
+
+UPDATE escritor SET nacionalidad = 'MEXICANA' WHERE id_escritor = 23;
+
+SELECT * FROM escritor;
+
+
+
+CREATE TABLE libro (
+    id_libro NUMBER(10) PRIMARY KEY,
+    titulo VARCHAR(100) NOT NULL,
+    isbn VARCHAR(30) NOT NULL,
+    contenido CLOB NULL
+)
+
+CREATE SEQUENCE INCREMENTO_ID_LIBRO
+INCREMENT BY 1
+START WITH 1
+NOCACHE;
+
+SELECT * FROM USER_SEQUENCES;
+
+TRUNCATE TABLE cursos;
+
+CREATE OR REPLACE VIEW alumnos_pagos AS 
+select a.clave_alu, (ap_paterno || ' ' || ap_materno || ' ' || a.nombre) as alumno, a.nombre, a.ap_paterno, sexo, curp, ciudad, email, fecha_pago, pago, abreviatura curso
+from 
+alumnos a, pagos p, cursos c
+where a.clave_alu = p.clave_alu AND p.id_curso = c.id_curso
+order by 1;
+
+INSERT ALL
+  INTO cursos VALUES ('C001','CURSO ESCOLAR 2018-2019','2018-2019', TO_DATE('2018-08-22', 'YYYY-MM-DD'), TO_DATE('2019-07-06', 'YYYY-MM-DD'))
+  INTO cursos VALUES ('C002','CURSO ESCOLAR 2019-2020','2019-2020', TO_DATE('2019-08-01', 'YYYY-MM-DD'), TO_DATE('2020-07-29', 'YYYY-MM-DD'))
+  INTO cursos VALUES ('C012','CURSO ESCOLAR 2020-2021','2020-2021', TO_DATE('2020-07-30', 'YYYY-MM-DD'), TO_DATE('2021-07-30', 'YYYY-MM-DD'))
+  INTO cursos VALUES ('C013','CURSO ESCOLAR 2021-2022','2021-2022', TO_DATE('2021-07-31', 'YYYY-MM-DD'), TO_DATE('2022-07-30', 'YYYY-MM-DD'))
+SELECT 1 FROM DUAL;
+
+SELECT USER 
+FROM dual;
+
+SELECT * FROM alumnos_pagos
+WHERE nombre LIKE '% %';
+---4 caracteres
+SELECT * FROM alumnos_pagos
+WHERE nombre LIKE '___';
+---- una a en el segundo caractwer 4 acar totales
+SELECT * FROM alumnos_pagos
+WHERE nombre LIKE '_A__';
+---- una a en segundo car y cuqluier num de caract
+SELECT * FROM alumnos_pagos
+WHERE nombre LIKE '_A%';
+
+--- con dos nombre y el primero empieza con A
+SELECT * FROM alumnos_pagos
+WHERE nombre LIKE '_A% %';
+
+
+--- dops nombres
+SELECT * FROM alumnos
+WHERE nombre LIKE '% %';
+--- no contiene espacio
+SELECT * FROM alumnos
+WHERE nombre NOT LIKE '% %';
+
+select nombre, ap_paterno, email, ciudad
+FROM alumnos WHERE (ciudad LIKE 'QUERETARO' OR ciudad LIKE '%QRO%');
+
+SELECT ciudad, count(*) nreg
+FROM alumnos
+GROUP BY ciudad
+ORDER BY ciudad;
+
+SELECT CASE WHEN (ciudad LIKE '%QUER%' OR ciudad LIKE '%QRO%') THEN 'QUERETARO' ELSE ciudad END as ciudad,
+count(*) nreg
+FROM alumnos
+GROUP BY CASE WHEN (ciudad LIKE '%QUER%' OR ciudad LIKE '%QRO%') THEN 'QUERETARO' ELSE ciudad END
+ORDER BY 1;
+
+
+select CASE WHEN (ciudad LIKE '%QUER%' OR ciudad LIKE '%QRO%') THEN 'QUERETARO' ELSE ciudad END as ciudad, 
+count(*) nreg
+from alumnos
+group by CASE WHEN (ciudad LIKE '%QUER%' OR ciudad LIKE '%QRO%') THEN 'QUERETARO' ELSE ciudad END
+order by 1;
+
+
+SELECT nombre, ap_paterno, email, ciudad
+FROM alumnos WHERE email LIKE '%@%.%';
+
+SELECT nombre, ap_paterno, email, ciudad
+FROM alumnos WHERE email NOT LIKE '%@%.%' ;
+
+SELECT nombre, ap_paterno, email, ciudad
+FROM alumnos 
+WHERE (email NOT LIKE '%@%.%' OR email is NULL);
+
+SELECT nombre, ap_paterno, email, ciudad
+FROM alumnos 
+WHERE (email NOT LIKE '%@%.%' OR email is NULL) AND sexo = 'F';
+
+
+SELECT nombre, ap_paterno, email, ciudad
+FROM alumnos 
+WHERE regexp_like (email,'^[a-z0-9._-]+@[a-z0-9.-]+\.[a-z]{2,3}$','i')  AND email IS NOT NULL
+
+SELECT CASE WHEN regexp_like ('ROAE800512HDFDGF05','^[A-Z]{4}\d{6}[HM][A-Z]{5}\d{1}[0-9A-Z]{1}$','i') 
+THEN 1 ELSE 0 END AS is_valid
+FROM DUAL;
+
+CREATE TABLE escritor (
+    id_escritor NUMBER(10) PRIMARY KEY,
+    nombre VARCHAR(50) NOT NULL,
+    ap_paterno VARCHAR(50) NOT NULL,
+    ap_materno VARCHAR(50)  NULL,
+    nacionalidad VARCHAR(50) DEFAULT 'MEXICANA' 
+);
+
+SELECT * FROM USER_TABLES;
+
+CREATE SEQUENCE INCREMENTO_ID_ESCRITOR
+INCREMENT BY 1
+START WITH 1;
+
+SELECT * FROM USER_SEQUENCES;
+
+SELECT INCREMENTO_ID_ESCRITOR.nextval FROM DUAL;
+SELECT INCREMENTO_ID_ESCRITOR.currval FROM DUAL;
+
+INSERT INTO escritor values (INCREMENTO_ID_ESCRITOR.nextval, 'GABRIEL', 'GARCIA', 'MARQUEZ', 'COLOMBIANA');
+INSERT INTO escritor values (INCREMENTO_ID_ESCRITOR.nextval, 'ISAAC', 'ASIMOV', NULL, 'EEUU');
+INSERT INTO escritor values (INCREMENTO_ID_ESCRITOR.nextval, 'JUANA', 'DE ASBAJE', NULL, NULL);
+INSERT INTO escritor (id_escritor, nombre, ap_paterno, ap_materno) values (INCREMENTO_ID_ESCRITOR.nextval, 'ELENA', 'GARRO', NULL);
+
+UPDATE escritor SET nacionalidad = 'MEXICANA' WHERE id_escritor = 23;
+
+SELECT * FROM escritor;
+
+
+
+CREATE TABLE libro (
+    id_libro NUMBER(10) PRIMARY KEY,
+    titulo VARCHAR(100) NOT NULL,
+    isbn VARCHAR(30) NOT NULL,
+    contenido CLOB NULL
+)
+
+CREATE SEQUENCE INCREMENTO_ID_LIBRO
+INCREMENT BY 1
+START WITH 1
+NOCACHE;
+
+SELECT * FROM USER_SEQUENCES;
+
+SELECT INCREMENTO_ID_LIBRO.nextval FROM DUAL;
+
+INSERT ALL
+INSERT INTO libro VALUES (INCREMENTO_ID_LIBRO.nextval, '100 anos de soledad', 'ISBN1', NULL);
+INSERT INTO libro VALUES (INCREMENTO_ID_LIBRO.nextval, 'el amor en tiempos de colera', 'ISBN2', NULL);
+INSERT INTO libro VALUES (INCREMENTO_ID_LIBRO.nextval, 'Yo Robot', 'ISBN3', NULL);
+INSERT INTO libro VALUES (INCREMENTO_ID_LIBRO.nextval, 'Fundacion', 'ISBN4', NULL);
+INSERT INTO libro VALUES (INCREMENTO_ID_LIBRO.nextval, 'Poemas', 'ISBN5', NULL);
+SELECT * FROM LIBRO;
+
+	
+    CONSTRAINT fk_escritor
+        FOREIGN KEY (id_escritor) 
+        REFERENCES escritor (id_escritor)
+        ON DELETE CASCADE,
+    CONSTRAINT fk_libro
+        FOREIGN KEY (id_libro) 
+        REFERENCES libro (id_libro)
+        ON DELETE CASCADE
+);
+
+CREATE SEQUENCE INCREMENTO_ID_ESCRIBE
+INCREMENT BY 1
+START WITH 1
+NOCACHE;
+
+SELECT INCREMENTO_ID_ESCRIBE.nextval FROM DUAL;
+SELECT * FROM escritor;
+SELECT * FROM libro;
+SELECT * FROM escribe;
+
+SELECT * FROM user_sequences;
+
+INSERT INTO escribe values  (INCREMENTO_ID_ESCRIBE.nextval, 21,4, 1980);
+INSERT INTO escribe values  (INCREMENTO_ID_ESCRIBE.nextval, 21,5, 1980);
+INSERT INTO escribe values  (INCREMENTO_ID_ESCRIBE.nextval, 22,6, 1980);
+INSERT INTO escribe values  (INCREMENTO_ID_ESCRIBE.nextval, 22,7, 1980);
+INSERT INTO escribe values  (INCREMENTO_ID_ESCRIBE.nextval, 23,8, 1980);
+
+INSERT INTO escribe values  (INCREMENTO_ID_ESCRIBE.nextval, 21,4, 1980);
+INSERT INTO escribe values  (INCREMENTO_ID_ESCRIBE.nextval, 21,10, 1980);
+INSERT INTO escribe values  (INCREMENTO_ID_ESCRIBE.nextval, 22,11, 1980);
+INSERT INTO escribe values  (INCREMENTO_ID_ESCRIBE.nextval, 22,12, 1980);
+INSERT INTO escribe values  (INCREMENTO_ID_ESCRIBE.nextval, 23,13, 1980);
+
+
+ALTER TABLE escribe DROP CONSTRAINT fk_escritor;
+
+ALTER TABLE escribe ADD CONSTRAINT fk_escritor
+    FOREIGN KEY (id_escritor)
+    REFERENCES escritor (id_escritor)
+    ON DELETE CASCADE;
+
+UPDATE escritor SET id_escritor = id_escritor +300;
+
+DELETE FROM escritor WHERE id_escritor = 2;
+
+
+ALTER TABLE escribe DROP CONSTRAINT fk_libro;
+
+ALTER TABLE escribe ADD CONSTRAINT fk_libro
+    FOREIGN KEY (id_libro)
+    REFERENCES libro (id_libro)
+    ON DELETE SET NULL;
+
+
+DELETE FROM libro WHERE id_libro = 5;
